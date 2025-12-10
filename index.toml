@@ -434,11 +434,6 @@ hash = "1e119f12fe13cd55743c15b46527d51c8729efdb2ac121d2d2caeab4c41ee47b"
 metafile = true
 
 [[files]]
-file = "mods/mrqx`s-slashblade-core.pw.toml"
-hash = "802fb0836e2370cdba3856c16baff3a522808eaeb01dd27e24ebd0aa4741946c"
-metafile = true
-
-[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "1fcdea3ecf38d366027d521d2cd960601c2d78e1a66c50688271facca1c4d916"
 metafile = true
@@ -565,11 +560,6 @@ hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
 
 [[files]]
-file = "mods/slashblade-resharped.pw.toml"
-hash = "703093574da2feab121f570f1f3d3452bc6c45e0d9897e9b3a5c86152a32b0cf"
-metafile = true
-
-[[files]]
 file = "mods/smoothchunk-1.20.1-4.1.jar"
 hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
 
@@ -601,16 +591,6 @@ metafile = true
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "f3fc65e787853176533b84c235bacd773fce8c87dec3f72dd3f1fef3bf4defc4"
-metafile = true
-
-[[files]]
-file = "mods/true-power-of-maid.pw.toml"
-hash = "8bf665356355fe98a6e82d052d55485134d7d6b05e63fd8ad38e93d3bdae86c9"
-metafile = true
-
-[[files]]
-file = "mods/true-power.pw.toml"
-hash = "4650aca46aa526dc62584a2b901f8489bda6c70da7e4e126309c58c6e1fd7293"
 metafile = true
 
 [[files]]
