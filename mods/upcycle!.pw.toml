@@ -1,0 +1,16 @@
+filename = 'Upcycle-1.20.x-(v.1.1.0).jar'
+name = 'Upcycle! (Compost Rotten Flesh!)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3e668b8f6edd59a33fb30da6af4896304e04da548070ed9d2206198e2204ea24b2cb2dbbf2ce530f8b32fda8660b964a24837eded19125beb8c6e0a665b23cc2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MiQPF2hD/versions/hThHwFZk/Upcycle-1.20.x-%28v.1.1.0%29.jar'
+
+[update.modrinth]
+mod-id = 'MiQPF2hD'
+version = 'hThHwFZk'

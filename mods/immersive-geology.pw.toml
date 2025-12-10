@@ -1,0 +1,16 @@
+filename = 'ImmersiveGeology-0.8.2-b4445.jar'
+name = 'Immersive Geology'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd9247383110f0a57ad363570aa4cd128a433985cf62127e627540c4802d477674cbc40ad87006785ca3173ac3cb774b8e5d46521b6ada3c05f346c2f7024a93c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vYa8GL4r/versions/zA6KGfvE/ImmersiveGeology-0.8.2-b4445.jar'
+
+[update.modrinth]
+mod-id = 'vYa8GL4r'
+version = 'zA6KGfvE'

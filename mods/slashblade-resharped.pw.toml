@@ -1,0 +1,16 @@
+filename = 'SlashBladeResharped-1.20.1-1.8.61.jar'
+name = 'SlashBlade:Resharped'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f82fbeb2cdece179dafb1e99aafeee3c433997516dd6b9786fece9fee9eec5f8f6be9186b2c10a1785e4d86f5b69f23a5ea40e7eb9cef3702320e7d5959ab8db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8T53F0sy/versions/hGmXDYwK/SlashBladeResharped-1.20.1-1.8.61.jar'
+
+[update.modrinth]
+mod-id = '8T53F0sy'
+version = 'hGmXDYwK'

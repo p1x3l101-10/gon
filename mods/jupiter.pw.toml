@@ -1,0 +1,16 @@
+filename = 'Jupiter-2.2.2-forge.jar'
+name = 'Jupiter'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c033aa967ae0597e1a4f34b4d5f7ef3278432385ef795addeb6c5c11c046e7692eeecfec751bae0fa1c35d59f69360b36bf0c6dd233547c9d588ecbe7abdf195'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XbiLGMMU/versions/ZmYt4jjp/Jupiter-2.2.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'XbiLGMMU'
+version = 'ZmYt4jjp'

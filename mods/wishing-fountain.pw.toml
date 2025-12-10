@@ -1,0 +1,16 @@
+filename = 'wishing_fountain-1.0.0.jar'
+name = 'Wishing Fountain'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cf4b425ca9e79a636d9dc07fd85dc9d4c3510b30109aa76b3af851bc5a5c58983c7241b5d134e6e57d3228b91b696e2c657827d69e271b97e7d216b93639220d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mp9ceiLG/versions/psZeOV0V/wishing_fountain-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'mp9ceiLG'
+version = 'psZeOV0V'

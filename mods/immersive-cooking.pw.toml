@@ -1,0 +1,16 @@
+filename = 'immersive_cooking-v2.0.1.jar'
+name = 'Immersive Cooking'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e58c0343d19c8fa478da8701cd28398fa8d5415cba403e98a7044d6be826e842a4e01a972bd9a740ab3836aa13fc0f92e205faf23d75be1fee7ecceeeef460d6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6Pk9uXBE/versions/VJrrMSe7/immersive_cooking-v2.0.1.jar'
+
+[update.modrinth]
+mod-id = '6Pk9uXBE'
+version = 'VJrrMSe7'

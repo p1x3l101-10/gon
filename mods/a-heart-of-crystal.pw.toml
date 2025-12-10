@@ -1,0 +1,13 @@
+name = "A Heart of Crystal"
+filename = "A Heart of Crystal (v1.0.1) (Forge. v1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gdpIRo45/versions/LZYIy0y1/A%20Heart%20of%20Crystal%20%28v1.0.1%29%20%28Forge.%20v1.20.1%29.jar"
+hash-format = "sha512"
+hash = "9256bfc66c60d43cacf802cc2c957a407ddd9f0bdd9f3f14be90496f3b9850807cb23fd2e7a8390c4eea0a06131498887ee3f8b47846058a7a7abb2a18c1c4e6"
+
+[update]
+[update.modrinth]
+mod-id = "gdpIRo45"
+version = "LZYIy0y1"

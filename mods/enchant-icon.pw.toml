@@ -1,0 +1,16 @@
+filename = 'EnchantIcon-Forge-1.20.1-1.1.1-13.jar'
+name = 'Enchant Icon'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c56095ba777e8fb982bad53d53f7cd083fbed7e6365e7d20d023d7cee94a6146c1a432520e7ad580d22515884071cf21e9e259e49d3eb0bfc8afc2c74c32ca34'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bpgdc65F/versions/K1ZlMOzb/EnchantIcon-Forge-1.20.1-1.1.1-13.jar'
+
+[update.modrinth]
+mod-id = 'bpgdc65F'
+version = 'K1ZlMOzb'

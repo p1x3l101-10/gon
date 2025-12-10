@@ -1,0 +1,16 @@
+filename = 'FlowerSeeds2-1.20.1-1.1.2.jar'
+name = 'Flower Seeds 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea16b9ab73edafd18bb85ee30ef118484e00422d57f414300b12c8c69c5fc39694c8c1bd60cec048f7beb6501ce254461ab28135a9b280c0ca30d032f18df1b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UsgvKntP/versions/plLlRbcl/FlowerSeeds2-1.20.1-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'UsgvKntP'
+version = 'plLlRbcl'

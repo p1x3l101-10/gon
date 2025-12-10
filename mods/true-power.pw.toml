@@ -1,0 +1,16 @@
+filename = 'True_POWER-1.20.1-1.1.6.jar'
+name = 'True POWER'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '86dfb4376ebc9befad45a2d45dc94aa92813c5f3f9e6a62161f834d3f2d57b65c096cf98bd0c11335f9f66a29becc4df6518ecdea521b732a8a2c1796c70492a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E6t8m3zu/versions/ebmPmzc8/True_POWER-1.20.1-1.1.6.jar'
+
+[update.modrinth]
+mod-id = 'E6t8m3zu'
+version = 'ebmPmzc8'

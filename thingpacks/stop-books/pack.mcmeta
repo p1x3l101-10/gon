@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Prevents the player from reciving a full education curriculum on world join"
+    }
+}
+

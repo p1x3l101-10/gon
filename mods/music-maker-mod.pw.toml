@@ -1,0 +1,16 @@
+filename = 'xercamusic-1.20.1-1.0.2.jar'
+name = 'Music Maker Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a93b4febc4b3c914a1dccf4be7b55b133b8d5cc6d825288dd40ffe95774eb297a000bae1ad46839623efea14ed787c2fb3c61dabd4bab7ef9a4d0b7da068d909'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qQpWCN75/versions/eeLBdNBF/xercamusic-1.20.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'qQpWCN75'
+version = 'eeLBdNBF'

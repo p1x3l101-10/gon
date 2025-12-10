@@ -1,0 +1,13 @@
+name = "Botany"
+author = "P1x3l101"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad686dac612251226db65ded36473e4627a1a2cdf143dd343c6052c5314c44cb"
+
+[versions]
+forge = "47.4.12"
+minecraft = "1.20.1"

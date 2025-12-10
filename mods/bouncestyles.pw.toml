@@ -1,0 +1,16 @@
+filename = 'BounceStyles-2.5.0-forge.jar'
+name = 'BounceStyles'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b1245930e48efac791829ca5baae6ecacc43cab9cf7b6a422f15f93726bbc4c9ac2f39a9a6cb0e0cc0f2af68359998b9052c4d1c1babc17a64832bb695d56215'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8z2jru2M/versions/yjCLX41Z/BounceStyles-2.5.0-forge.jar'
+
+[update.modrinth]
+mod-id = '8z2jru2M'
+version = 'yjCLX41Z'
