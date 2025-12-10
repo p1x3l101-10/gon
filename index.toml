@@ -335,11 +335,6 @@ hash = "0d7ff3dc498c73b6dd5c1d7a024d5d6ca40da9f12e03b874988822aa91434c3d"
 metafile = true
 
 [[files]]
-file = "mods/immersive-geology.pw.toml"
-hash = "6fd2bd08b8021ee6d9523e60d5375ade7f13694a6250ce2d4c17d7d1ac72f4d8"
-metafile = true
-
-[[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "1b90703d1b325560fb2873fff4921579a5868324c23fb7dcbd36832e2c9cfc10"
 metafile = true
@@ -421,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "9f8c1c64e09b61bb926201fe8dd2509b2615605bf96efbdb1db703bb74a3df7b"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "b1c3909588ba4288c47a6ee969bb6cdd28db0943fc4747ef778ccf5feb3885f9"
 metafile = true
 
 [[files]]
@@ -538,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0724256dddc5ed2a09b7a48e97526e88288b7b79c0d3edd7504c84f896f4fe9e"
-metafile = true
-
-[[files]]
-file = "mods/rainbowwrenchforjeirf.pw.toml"
-hash = "5bfbbc971efba0557749f96070abc73e2c9d09447d344ae26256083701de674b"
 metafile = true
 
 [[files]]
@@ -672,54 +667,6 @@ metafile = true
 file = "mods/wishing-fountain.pw.toml"
 hash = "80e7cea9077ae8d0fc47386db8f45a1e960a170121b56f6483b58f03c74f4e1c"
 metafile = true
-
-[[files]]
-file = "thingpacks/conflicts/data/ad_astra/recipes/alloying/steel_ingot_from_alloying_iron_ingot_and_coals.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "thingpacks/conflicts/data/ad_astra/recipes/compressor.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "thingpacks/conflicts/data/ad_astra/recipes/iron_rod.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "thingpacks/conflicts/data/ad_astra/recipes/steel_rod.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "thingpacks/conflicts/pack.mcmeta"
-hash = "2fb47bb166e3b8beeb10051ebddad983cfa1a7e446c2b8b7cd34d35f53fbb0ec"
-
-[[files]]
-file = "thingpacks/gog-fixes/data/botania/loot_tables/fel_blaze.json"
-hash = "1d087bd0da42e96af9751ee625a0546a22a4ae342588bae626deeaafe67c4f6b"
-
-[[files]]
-file = "thingpacks/gog-fixes/data/gog-fixes/recipes/furnace/string_from_plants.json"
-hash = "260576f853daa5505f8bd305c3bdb9061f6312f8bc43c6c5e696a5017ad33cd3"
-
-[[files]]
-file = "thingpacks/gog-fixes/data/gog-fixes/recipes/orechid/amethyst_block.json"
-hash = "11b61e9a36b976b1e5865be039aa8f9c119e9c42059c01e1a1bcda7ca21a1e13"
-
-[[files]]
-file = "thingpacks/gog-fixes/data/gog-fixes/recipes/pure_daisy/amethyst_cluster.json"
-hash = "34e1a74cb9ba4e6bd676b5ac680725573c54f80846c37fac146920088927f32c"
-
-[[files]]
-file = "thingpacks/gog-fixes/data/gog-fixes/recipes/runic_alter/green_archwood_sapling.json"
-hash = "ce19d853006deebf7b60b6099680652cbf24f4060f94f2ecda4f9cdac21833b9"
-
-[[files]]
-file = "thingpacks/gog-fixes/data/gog-fixes/recipes/runic_alter/sourceberry.json"
-hash = "560fdb5960687c48eca64d84f7025c051ff2cc940f2a3ccb727c387465c2e996"
-
-[[files]]
-file = "thingpacks/gog-fixes/pack.mcmeta"
-hash = "f28bceab5dcd10c60f35a059a4a10c818e7ac2f98d0e3b3b479447bb0e2409e3"
 
 [[files]]
 file = "thingpacks/kubemusic/assets/kubemusic/lang/en_us.json"
