@@ -1,0 +1,25 @@
+
+[mail_delivery]
+	#女仆搜索邮筒的最大半径（格），值越大搜索范围越广但性能消耗越高
+	#Range: 4 ~ 32
+	mailbox_search_radius = 16
+
+[safety_evaluation]
+	#邮筒被认为可用的最低安全分数（0-100），分数越高要求越严格
+	#Range: 0 ~ 100
+	mailbox_min_safety_score = 60
+	#区域危险度阈值（0-100），超过此值的区域被认为过于危险，值越低越谨慎（有的可到达也会判断为危险）
+	#Range: 0 ~ 100
+	area_hazard_threshold = 60
+	#高质量邮筒的安全分数阈值（0-100），影响主人在家时的邮筒选择优先级
+	#Range: 0 ~ 100
+	high_quality_threshold = 80
+
+[pathfinding]
+	#路径安全度最低要求（0-100），路径中安全节点的最小百分比，值越高路径越安全
+	#Range: 0 ~ 100
+	path_safety_percentage = 65
+	#路径中允许的最大连续危险节点数，超过此数量的路径会被拒绝
+	#Range: 0 ~ 10
+	max_consecutive_dangerous = 2
+
