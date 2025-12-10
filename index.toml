@@ -325,16 +325,6 @@ hash = "77c1f9094e0710fc457e15b6deb2c585e8533e7e77db803a7db8f0632e5404b5"
 metafile = true
 
 [[files]]
-file = "mods/immersive-cooking.pw.toml"
-hash = "0cf98a5bb0c483cab95feecbdccc8fd96e371ee4dc364c1b2cd01b3de3cbf482"
-metafile = true
-
-[[files]]
-file = "mods/immersive-fixes.pw.toml"
-hash = "0d7ff3dc498c73b6dd5c1d7a024d5d6ca40da9f12e03b874988822aa91434c3d"
-metafile = true
-
-[[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "1b90703d1b325560fb2873fff4921579a5868324c23fb7dcbd36832e2c9cfc10"
 metafile = true
