@@ -5269,6 +5269,11 @@ hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
 metafile = true
 
 [[files]]
+file = "mods/stellarview.pw.toml"
+hash = "09f2ebfd09f4237b14c27a6df53485fa55ee691344f1b0c006ac0e4de1cd7d2d"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3eb5ec297af04c30801b6ba49df336714e9ebcaa0de7e0d2a414d8d906fb9f42"
 metafile = true
