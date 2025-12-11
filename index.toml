@@ -4690,6 +4690,11 @@ hash = "59507c6e1f0d375b23690d504e6245d3850809a379448256468baa3c1d603bc0"
 metafile = true
 
 [[files]]
+file = "mods/better-world-loading-forge.pw.toml"
+hash = "d5fd40dd34e0bbb1b470dacff539c2bcb2a1d97ae1cd8a749aa61821d554b07d"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
 metafile = true
@@ -4809,6 +4814,11 @@ hash = "40fcb30225682e9ccce525fd45df47ea862701231147329f04c9d55ce844efb4"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "e0d378e3a1c413c67634413187f138838e198df51d3481d77216747bd6d9d2da"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "b502e70d59b976d38ef14f92871cabc7ef1b0caf1a59b715507d3729ed3f586e"
 metafile = true
@@ -4864,6 +4874,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2023ed56ff0d7566f898a1be5e542bcde94fbc252264dface9cd9dacc0883c38"
 metafile = true
 
 [[files]]
@@ -5057,6 +5072,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbook.pw.toml"
 hash = "d5f55fbdcc2ee6f503f8d028d09df0f053f1611190f90191bc19d85af928407a"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
