@@ -5,7 +5,7 @@ enableBook = true
 
 [newRecipes]
 unlockAll = false
-enableBounce = false
+enableBounce = true
 
 [instantCraft]
 showButton = false
