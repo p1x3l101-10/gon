@@ -5067,6 +5067,11 @@ hash = "212b1e15526948ca38afbbda267ddf0d5fe8566d23dd7c39da9471cd90ed0c74"
 metafile = true
 
 [[files]]
+file = "mods/grimoire-of-gaia.pw.toml"
+hash = "76c2a46c698c1c2f187bf938935e9a56bf69ac46802f6f2e1dc7532dbb589c85"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "284a26082f08a861ff21db0b3411ce7e7d9b150ac1414c9f6b14ab5d139ffb5c"
 metafile = true

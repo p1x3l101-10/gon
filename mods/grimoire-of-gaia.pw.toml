@@ -1,0 +1,13 @@
+name = "Grimoire of Gaia"
+filename = "GrimoireOfGaia4-1.20.1-4.0.0-alpha.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6mO8vMsw/versions/6xKPZ72l/GrimoireOfGaia4-1.20.1-4.0.0-alpha.12.jar"
+hash-format = "sha512"
+hash = "dcf9bf7f2496d42c59508534d96549974970615291a8f3027d7fb51b43b8e32c864ccf4f8e8e34648f821fbba91fc9965c3c02f1f644524493872b400d1bc6dd"
+
+[update]
+[update.modrinth]
+mod-id = "6mO8vMsw"
+version = "6xKPZ72l"
