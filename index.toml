@@ -4225,10 +4225,6 @@ file = "config/blur-client.toml"
 hash = "6ab6714bad3c0cfc510332ce2624c6cbe9c9063cbc635511ee336e04d235f0dd"
 
 [[files]]
-file = "config/brb.toml"
-hash = "af5c16df292dade4faaaa2a4a743e7063297cc008965cdd1b0cf718a18f5922a"
-
-[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
@@ -4862,11 +4858,6 @@ metafile = true
 [[files]]
 file = "mods/bouncestyles.pw.toml"
 hash = "96a93b6c1bc71e9e2be4efa7a2f182a02373c9ebe8a095c578e43baf00fa891b"
-metafile = true
-
-[[files]]
-file = "mods/brb.pw.toml"
-hash = "32d390c03b0a2f7a12187b2ebc1eb08a423f4d65d3f6bf1282c583b891353791"
 metafile = true
 
 [[files]]
