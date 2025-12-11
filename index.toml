@@ -4417,6 +4417,10 @@ file = "config/forgeendertech/Biomes/minecraft$flower_forest.cfg"
 hash = "49278d3f6b3b0360c1901bd4615ad2e914827f6d9c95a428c7eaad03bd2a8d4f"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
+hash = "8d68f12cd0a01cf6874e249d2c174dff45be8145473c168876a8622f9a639607"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$ocean.cfg"
 hash = "9c7c2cb4db28d427bcd9d05a597e5310acf3e438af02b8a6905ce0a5df004c51"
 
