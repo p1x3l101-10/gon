@@ -4700,6 +4700,11 @@ hash = "09fb3b65143a16a4a32382121edd25ae3613042922c65fd7ba66269a3dc3347a"
 metafile = true
 
 [[files]]
+file = "mods/blur-forge.pw.toml"
+hash = "ba8f8bd324fde066160dea297b58192f4c1c88153fb7fa8647e21804dc4baf7d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "6a388d82b91284ded271821c52919a99ae2c58158a2c898ddb23cb79beabe565"
 metafile = true
