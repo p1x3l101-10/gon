@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "e82ac1fa006587dd3b62f4cdfcf1fbb38d7f0ac335d95ceb2fc03bffe4bf9bf6"
 
 [[files]]
+file = "config/JEB.json"
+hash = "69ed85cd13e793ec52096e230f7ebba5db889c963be794aba4089c59678f6be0"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -4205,12 +4209,24 @@ file = "config/betteradvancements-client.toml"
 hash = "caca7ec27174c71dfcaabc93724a2281950df979cfd6b7a40c5557c75e15438f"
 
 [[files]]
+file = "config/betterworldloading20.json"
+hash = "f610df0d212f97241d8d80f3ca5186e517acc32fd750ca71d07ed8b410b3e727"
+
+[[files]]
 file = "config/blueprint-client.toml"
 hash = "bfcfb80974100b4371be80105488e537c066cd3651d35d977a91e158e23cad60"
 
 [[files]]
 file = "config/blueprint-common.toml"
 hash = "a9a48825b217a5eb84cf8f4c1de399c0db35cd7e3fb31db7aab1a89aff5f3d11"
+
+[[files]]
+file = "config/blur-client.toml"
+hash = "6ab6714bad3c0cfc510332ce2624c6cbe9c9063cbc635511ee336e04d235f0dd"
+
+[[files]]
+file = "config/brb.toml"
+hash = "acd27174a9e9b7c2332118e6176c8f000815c6162ccac9030710db2a27d9938b"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -4253,12 +4269,20 @@ file = "config/contact/contact-common.json"
 hash = "e4ea102ac76446b203df496fe08b3ea1109037b258272131e09e5155087c51f8"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "13f31c997727a405b935bbd282366da1cbbfd13066c338d4c4c1e5b7dae6e4c6"
+
+[[files]]
 file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
 file = "config/deeperdarker-common.toml"
 hash = "456c664072bff23a9d6a45a571d6a09f4b4be2c0ad0423281894d836a4f679a7"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
@@ -4317,6 +4341,34 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "b7e21600e0762a23aedde6e5c52c0aa293dbf302c7ca454c7bc32e59a7c8123b"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "bfa242685cc9afa400562ed1699182fb19e60f58d124386ce5732398ca5d34c1"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
 
@@ -4341,8 +4393,24 @@ file = "config/forgeendertech/Biomes/deeperdarker$echoing_forest.cfg"
 hash = "5dc935680c5a42985b6c15dd2d2f004b93b77934f71d1865ded08377687cd998"
 
 [[files]]
+file = "config/forgeendertech/Biomes/immersiveweapons$deadmans_desert.cfg"
+hash = "1383faa7a4de551fe1a8e958df437fd8e28b9d97b75c9f571f144fd2ca681cb6"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$flower_forest.cfg"
 hash = "49278d3f6b3b0360c1901bd4615ad2e914827f6d9c95a428c7eaad03bd2a8d4f"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$ocean.cfg"
+hash = "9c7c2cb4db28d427bcd9d05a597e5310acf3e438af02b8a6905ce0a5df004c51"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
+hash = "889986622c92c7f763934e3ed388691557ef959fb2722992b335d00701a2185a"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$windswept_forest.cfg"
+hash = "26292e15412193f0a6aa8e667ab44c05f9c3551abd606cdd315178dbeb44a4f9"
 
 [[files]]
 file = "config/forgeendertech/Wind.cfg"
@@ -4433,6 +4501,14 @@ file = "config/immersiveengineering-server.toml"
 hash = "3e598cbab5bda3e6c6181bda2df7485761f6782718252321eb6602769e79336b"
 
 [[files]]
+file = "config/immersivetechnology-client.toml"
+hash = "4ba338d3672cd3e7054d90ea04bf1729918de73fb4ddd4a86e61edc48ec7ba67"
+
+[[files]]
+file = "config/immersivetechnology-common.toml"
+hash = "d1a1e5e383d536671b0ebc4e45d4ff2edfe07c95e6ba882af06b72f85357e458"
+
+[[files]]
 file = "config/immersiveui.yaml"
 hash = "534f2120968484ac5a3a13aa0cb16eedf8c938bcf8476b657074a6e6ddd75328"
 
@@ -4449,12 +4525,36 @@ file = "config/inline/client-config.toml"
 hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
+file = "config/jeb-common.toml"
+hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
+
+[[files]]
 file = "config/jsonem.toml"
 hash = "dd17dbcedcf83dde0a997f43283c50995f2751a07021ba864ebb288b8c646607"
 
 [[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "26e2ea7f1c4b98599095fd59cefc956af67140036d7659231bdc4de402168e8c"
+
+[[files]]
+file = "config/lexicon-client.toml"
+hash = "5506866b81ff87cc3dc48c1a46bfd79a493a40c7db006f4ef9b8749d1f8d8716"
 
 [[files]]
 file = "config/mahoutsukai-client.toml"
@@ -4529,6 +4629,14 @@ file = "config/resourceful-config-web.json"
 hash = "fbdc1a6cef23ac7b96d32606226b55b910949aabcf60237fac1ba31ebe8e035d"
 
 [[files]]
+file = "config/scholar-client.toml"
+hash = "f583b188664aa3d19df7270c325b89b59768fe30e785408aae89cf1fea29347a"
+
+[[files]]
+file = "config/scholar-common.toml"
+hash = "e37a3b86e90de5b4ab529ef8b486c05b3f849621a4a40c48dc36dfd40758f976"
+
+[[files]]
 file = "config/selectivebounds.json"
 hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
 
@@ -4541,12 +4649,36 @@ file = "config/simple-custom-early-loading/stellarview.png"
 hash = "85380d0a661c5d28b8fb5a9622a02b44e82c36397ba1c49e4bf97414d8c32f8a"
 
 [[files]]
+file = "config/slashblade-common.toml"
+hash = "55305ec2b23524317925333ee008d198c9a0745f6f03089a71f3a0454b387c71"
+
+[[files]]
 file = "config/smoothchunk.json"
 hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
 
 [[files]]
 file = "config/snowundertrees-common.toml"
 hash = "5d836255680be269f480f476524902f9b1eea972eb27514d26b501dca2a8ad33"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "2ba089cc93eabaf6d7c3635ef28d2adc4c2a454059c94f88fccd5e9592149e58"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
+
+[[files]]
+file = "config/stellarview-client.toml"
+hash = "0d39719deb2f2b2b29b60745c82806fd62d4024fb07b619a4a60f129732050f2"
 
 [[files]]
 file = "config/surveyor.toml"
