@@ -4557,14 +4557,6 @@ file = "config/surveyor.toml"
 hash = "0112a38b153d64324793ad07532a112d5207e62255e22c1db175d5786b569b00"
 
 [[files]]
-file = "config/tardis_refined-client.toml"
-hash = "68878c07df39299c97481e6d20d47f8f5d66cd0d4799a364bd93599051cf72f3"
-
-[[files]]
-file = "config/tardis_refined-common.toml"
-hash = "46d9dc008c458872f9b4ce942bbf37324d3584a0d970ad4e950200a1fa98f7af"
-
-[[files]]
 file = "config/terrablender.toml"
 hash = "70da8cd57cd321ae43ec3774995de812116c67163c0ae8859965a3599e3aeefa"
 
@@ -5244,11 +5236,6 @@ hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "c5f81e862fce1ba8407cfe1bb7c26efed9df2655b0a50289fc388bd63a708ed2"
-metafile = true
-
-[[files]]
-file = "mods/tardis-refined.pw.toml"
-hash = "e1acab2b2816a29d56c6e7a2e90c9b88c8bb10d833d7d1b70e4fac82f07a80c7"
 metafile = true
 
 [[files]]
