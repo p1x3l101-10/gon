@@ -4341,6 +4341,14 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "b7e21600e0762a23aedde6e5c52c0aa293dbf302c7ca454c7bc32e59a7c8123b"
 
 [[files]]
+file = "config/fancymenu/assets/loading.apng"
+hash = "872a5f1bf3900d86d78ca138e89f98c9c512fc7f3c80752d93309168b33169df"
+
+[[files]]
+file = "config/fancymenu/assets/stellarview.png"
+hash = "85380d0a661c5d28b8fb5a9622a02b44e82c36397ba1c49e4bf97414d8c32f8a"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -4639,14 +4647,6 @@ hash = "e37a3b86e90de5b4ab529ef8b486c05b3f849621a4a40c48dc36dfd40758f976"
 [[files]]
 file = "config/selectivebounds.json"
 hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
-
-[[files]]
-file = "config/simple-custom-early-loading/loading.apng"
-hash = "872a5f1bf3900d86d78ca138e89f98c9c512fc7f3c80752d93309168b33169df"
-
-[[files]]
-file = "config/simple-custom-early-loading/stellarview.png"
-hash = "85380d0a661c5d28b8fb5a9622a02b44e82c36397ba1c49e4bf97414d8c32f8a"
 
 [[files]]
 file = "config/slashblade-common.toml"
