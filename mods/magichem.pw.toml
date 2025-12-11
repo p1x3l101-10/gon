@@ -1,0 +1,13 @@
+name = "MagiChem"
+filename = "magichem-0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd5b2a02cc75b35cb4c0b8538fddf06b1f061f61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7190149
+project-id = 982204

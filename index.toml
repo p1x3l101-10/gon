@@ -4790,6 +4790,21 @@ hash = "a404fe09a67674a4554b6ecaf88215ddbf53d78a723c8503cd5134f684abc844"
 metafile = true
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "2e31627453295ef5d88ada8a3d294cd04eec3ef61dfd9f8abeee8d837f4b9dc5"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "886832ee8ee9622623a9d36351f3f955a923d3e67a0b097532d1c8b8fc7848b1"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "3b4408ce2399f0ce9bab2243f3255c73d26f4113bc2438974ca47267ef9df7ea"
+metafile = true
+
+[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 hash = "ea506d33fdadff504ef78a2ba2a73a1fd203528996905c4175bd3b8d4f53b837"
 metafile = true
@@ -4812,6 +4827,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4262a12ba5868e578708260bfe2960d5a387fade20aef2f26423b21767fdb4b9"
+metafile = true
+
+[[files]]
+file = "mods/arcaneadditions.pw.toml"
+hash = "58583020bd8ba7ac39683bff089625f0a4693b7d5171b429f561cd06dc328beb"
 metafile = true
 
 [[files]]
@@ -4939,6 +4959,11 @@ hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "ff55f6dd98968c446e32885ec0eae66ee882071f8a4efbf1486e57590778b2eb"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -4951,6 +4976,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "40fcb30225682e9ccce525fd45df47ea862701231147329f04c9d55ce844efb4"
+metafile = true
+
+[[files]]
+file = "mods/dragon-magic-and-relics.pw.toml"
+hash = "2f9138e6a9ccd10e2e25471d7bd1e38c4e4db29be58ba01a64b01929fc3db949"
 metafile = true
 
 [[files]]
@@ -5014,6 +5044,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/factions-and-curiosities.pw.toml"
+hash = "95d611722dd3b51a58f82a88189c00612e1c1ec37dfa4e52d1fd710a5c8eee5b"
 metafile = true
 
 [[files]]
@@ -5244,8 +5279,18 @@ hash = "9952656bd71431c050f671efccfca004199486d44af1a25a70620784c816a122"
 metafile = true
 
 [[files]]
+file = "mods/magichem.pw.toml"
+hash = "22dbf559d806893a2a0cfa7bc5576e1fcf6bbbbe60c891b21c51ee65397246b0"
+metafile = true
+
+[[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "61e7103b6d25aaf029197082b08afb2cbd8c992931e651bb68ac92418e34ae89"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "2bc8d879af82d7d67fac9df413924164d78fd6eb1e9a4fda13f80c211bd1b6ff"
 metafile = true
 
 [[files]]

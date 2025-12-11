@@ -1,0 +1,13 @@
+name = "Dragon Magic And Relics"
+filename = "dmnr-3.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KDCU677O/versions/pqlQBEvI/dmnr-3.2.5.jar"
+hash-format = "sha512"
+hash = "4b77a7b2b3b30ef13cc2d3bb7ae6a8da88a09d2dc780ac6383bcce560e0a31c5187f28ec52e773a525c56f3c67abbdda837de29b4a333155bc42c0fafaff7836"
+
+[update]
+[update.modrinth]
+mod-id = "KDCU677O"
+version = "pqlQBEvI"
