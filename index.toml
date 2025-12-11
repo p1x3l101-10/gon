@@ -4706,7 +4706,7 @@ hash = "2853025999a54fb2ab5a4ff5f331091cfcbc8921d34f1b7026ecaa2706e98271"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "b30eae4d29866cbd1b8133ae1bb6bce704f08d4b6c56f7af1bdc3f9b9d2934fe"
+hash = "b8e1e10f286ff2df26f6348f92b8e9e697341e5efce6e523fca3f731395e5715"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
