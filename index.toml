@@ -5499,6 +5499,14 @@ hash = "80e7cea9077ae8d0fc47386db8f45a1e960a170121b56f6483b58f03c74f4e1c"
 metafile = true
 
 [[files]]
+file = "thingpacks/fix-recipes/data/lexicon/advancements/recipes/lexicon.json"
+hash = "8fb42f098bab870871f4d2387e85ae6707bd036c54b326149524d1b4848e62a4"
+
+[[files]]
+file = "thingpacks/fix-recipes/pack.mcmeta"
+hash = "fef6f6bd91e9a3fc6a76142120b19d7741c7272831221918d31bf87427b34c52"
+
+[[files]]
 file = "thingpacks/kubemusic/assets/kubemusic/lang/en_us.json"
 hash = "396af6834711539b47f5e5882ab4fb3507a3f620b383a2ab750a6199432ac126"
 
