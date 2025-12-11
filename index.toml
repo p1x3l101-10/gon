@@ -4533,10 +4533,6 @@ file = "config/selectivebounds.json"
 hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
 
 [[files]]
-file = "config/simple-custom-early-loading.json"
-hash = "090b1048d6c25d454c6b6b7c725037e8342b33dc04389fbee191b8568a0d7357"
-
-[[files]]
 file = "config/simple-custom-early-loading/loading.apng"
 hash = "872a5f1bf3900d86d78ca138e89f98c9c512fc7f3c80752d93309168b33169df"
 
@@ -5267,11 +5263,6 @@ metafile = true
 [[files]]
 file = "mods/selectivebounds.pw.toml"
 hash = "cab3cbcaf0e5f88b70a2085781234dabfd9e61bba62d65f9b0d8e525bdb2c2f2"
-metafile = true
-
-[[files]]
-file = "mods/simple-custom-early-loading.pw.toml"
-hash = "8d4442a09a549cb8bf8f268dab18b15f84495d718b4afa8585d38af05a9768f4"
 metafile = true
 
 [[files]]
