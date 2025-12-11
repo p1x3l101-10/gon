@@ -5191,11 +5191,6 @@ hash = "0724256dddc5ed2a09b7a48e97526e88288b7b79c0d3edd7504c84f896f4fe9e"
 metafile = true
 
 [[files]]
-file = "mods/rbip.pw.toml"
-hash = "51fe862e106e8992edaff2a2970f653f6bdd96ab49292899e898f46e00b1d3c8"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "11226619e2e42655f7491e378f20aeb98341e160866bed44886e651b1d11cb7a"
 metafile = true
