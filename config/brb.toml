@@ -1,6 +1,6 @@
 enablePinning = true
 keepCentered = true
-settingsButton = true
+settingsButton = false
 enableBook = true
 
 [newRecipes]
