@@ -4534,7 +4534,7 @@ hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
-hash = "d5b1d06188542b6037017cad8e0456e701ac4cc2a781b41fb11e910db77e1e2c"
+hash = "090b1048d6c25d454c6b6b7c725037e8342b33dc04389fbee191b8568a0d7357"
 
 [[files]]
 file = "config/simple-custom-early-loading/loading.apng"
