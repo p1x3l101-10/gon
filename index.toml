@@ -5171,7 +5171,7 @@ metafile = true
 
 [[files]]
 file = "mods/selectivebounds.pw.toml"
-hash = "d62c86332a29a77be387792876323058aa10830ba52cb53bb5b516a02c09325e"
+hash = "cab3cbcaf0e5f88b70a2085781234dabfd9e61bba62d65f9b0d8e525bdb2c2f2"
 metafile = true
 
 [[files]]
