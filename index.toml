@@ -4533,6 +4533,18 @@ file = "config/selectivebounds.json"
 hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
 
 [[files]]
+file = "config/simple-custom-early-loading.json"
+hash = "d5b1d06188542b6037017cad8e0456e701ac4cc2a781b41fb11e910db77e1e2c"
+
+[[files]]
+file = "config/simple-custom-early-loading/loading.apng"
+hash = "872a5f1bf3900d86d78ca138e89f98c9c512fc7f3c80752d93309168b33169df"
+
+[[files]]
+file = "config/simple-custom-early-loading/stellarview.png"
+hash = "85380d0a661c5d28b8fb5a9622a02b44e82c36397ba1c49e4bf97414d8c32f8a"
+
+[[files]]
 file = "config/smoothchunk.json"
 hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
 
@@ -5213,6 +5225,11 @@ metafile = true
 [[files]]
 file = "mods/selectivebounds.pw.toml"
 hash = "cab3cbcaf0e5f88b70a2085781234dabfd9e61bba62d65f9b0d8e525bdb2c2f2"
+metafile = true
+
+[[files]]
+file = "mods/simple-custom-early-loading.pw.toml"
+hash = "8d4442a09a549cb8bf8f268dab18b15f84495d718b4afa8585d38af05a9768f4"
 metafile = true
 
 [[files]]
