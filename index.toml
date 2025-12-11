@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "0768cedd844cea5d523735dc161309d69e839bfa909870cc5fa258d7c9ee08d5"
+hash = "e82ac1fa006587dd3b62f4cdfcf1fbb38d7f0ac335d95ceb2fc03bffe4bf9bf6"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -4326,7 +4326,7 @@ hash = "ee7b7a1bb52b95de3a207e890bac007094f6f9d8f4f39cfc8665da908da71447"
 
 [[files]]
 file = "config/fml.toml"
-hash = "1ed9280977d03a3e6d0661ae5c7217b49a4c40e255c88c6811b12b1b28f69ea5"
+hash = "0824fc13e8ffa4c7d40f47dd3af1c408d245976a357da71be7d50bac464cf531"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -4409,12 +4409,28 @@ file = "config/immersive_melodies.json"
 hash = "72ba7262061fd04b913780cebb1e43983893f0fcbc62ba46cff8c1b8f4a70a85"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "f7ee8f70f1c89330e69481e2be5c69ce764560552b583fe85c0950718dd46cf6"
+
+[[files]]
 file = "config/immersive_weathering-client.toml"
 hash = "85069297a7ce045a541f246e2a81d599502a4f143588bcfe3852f904444bf54a"
 
 [[files]]
 file = "config/immersive_weathering-common.toml"
 hash = "2835438254897f1ca01996af41a6d94fd524216e74cdbbdda9fb8081a7cecfa1"
+
+[[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "8f2d61a656fd4ab5cbd5411af6717274664eaa79c5171306961aee3fe2134379"
+
+[[files]]
+file = "config/immersiveengineering-common.toml"
+hash = "68550b1b9f85bb8b055e602c6178a9a7ff8ec90d226c739f8d8c5ca66e089e47"
+
+[[files]]
+file = "config/immersiveengineering-server.toml"
+hash = "3e598cbab5bda3e6c6181bda2df7485761f6782718252321eb6602769e79336b"
 
 [[files]]
 file = "config/immersiveui.yaml"
@@ -4793,6 +4809,11 @@ hash = "67c6e06252c51513b4a03b3f4fd49dd4cc0ac9feaa6745647035e412aee85417"
 metafile = true
 
 [[files]]
+file = "mods/engineered-schematics.pw.toml"
+hash = "473d66b1139d12a1c5aa79be90059ba44f8120d5f15480171da7876116196471"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b7ca361f45f7835c6f146d66acbc07d5aa37a782b7b34ad3d441c247c23846b9"
 metafile = true
@@ -4945,6 +4966,11 @@ hash = "77c1f9094e0710fc457e15b6deb2c585e8533e7e77db803a7db8f0632e5404b5"
 metafile = true
 
 [[files]]
+file = "mods/immersive-fixes.pw.toml"
+hash = "2e36b6b750d7de2d2e21dc8bcf7704eeff3ed51dff67caf3f904e583a9bc7073"
+metafile = true
+
+[[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "1b90703d1b325560fb2873fff4921579a5868324c23fb7dcbd36832e2c9cfc10"
 metafile = true
@@ -4952,6 +4978,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "098b2b9aaa3d041b6fef4c8733c90984fefcf022a6dab7c900215005fb0f9bc7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
 metafile = true
 
 [[files]]
@@ -4967,6 +4998,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "201b04f23c476ae862ab49113174d189275f7ad3f8b8b2bd3176b4edc34ffa0d"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
 
 [[files]]
@@ -5026,6 +5062,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "9f8c1c64e09b61bb926201fe8dd2509b2615605bf96efbdb1db703bb74a3df7b"
+metafile = true
+
+[[files]]
+file = "mods/mct-immersive-technology.pw.toml"
+hash = "3ba2f4e0f67f25f23ddd6b3bbe208080153b7db3ad7531eb8bfc02e6ff9ee3ce"
 metafile = true
 
 [[files]]
