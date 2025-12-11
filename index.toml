@@ -5470,6 +5470,18 @@ file = "thingpacks/kubemusic/pack.mcmeta"
 hash = "c60aea00bb3c9872c84a52b78e00301b6c6ba91630caca3c9f50c0b0fc691303"
 
 [[files]]
+file = "thingpacks/no-java-logo/assets/minecraft/textures/gui/title/edition.png"
+hash = "1137647403a935365700bc76bb8bd76f732a578d758266108ac9d015548f0564"
+
+[[files]]
+file = "thingpacks/no-java-logo/pack.mcmeta"
+hash = "2563d6b9ca7e058fd385758b0c3d0fdd6823bd26bc6188764fbed020436cf9d9"
+
+[[files]]
+file = "thingpacks/no-java-logo/pack.png"
+hash = "610ff938b83f37697b501b1f03832b25564fe800bdbda3c6d52600e98c8bebe2"
+
+[[files]]
 file = "thingpacks/stop-books/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
