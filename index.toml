@@ -4357,12 +4357,20 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
 
 [[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "ded095842232313ff87cca4b8d23db4f905fff1d77cca2d534d81a00a4c250c8"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
 file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "bfa242685cc9afa400562ed1699182fb19e60f58d124386ce5732398ca5d34c1"
+hash = "47994cfc5904b2f757c430d5980ef354b8c1696c65b7e6f34217022b5a4a9aad"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
