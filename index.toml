@@ -5386,6 +5386,11 @@ hash = "0724256dddc5ed2a09b7a48e97526e88288b7b79c0d3edd7504c84f896f4fe9e"
 metafile = true
 
 [[files]]
+file = "mods/reactive.pw.toml"
+hash = "c6e0fb5485e9e6764d08c40baa0368453d5eb42fc6eef9b3151093f8e0786f4a"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "11226619e2e42655f7491e378f20aeb98341e160866bed44886e651b1d11cb7a"
 metafile = true

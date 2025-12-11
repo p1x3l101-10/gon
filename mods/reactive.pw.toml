@@ -1,0 +1,13 @@
+name = "Reactive Alchemy"
+filename = "reactive-1.20.1-10.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/soWqucCB/versions/Dvalauz0/reactive-1.20.1-10.0.3.jar"
+hash-format = "sha512"
+hash = "fe31286e2709ea05a51ca198d21430992fd8546f46ea6bd78d6f4c052288a53e5c0e8ccaefd539f9795283c3a88c1ba900a181621e7a6fa9f937fd6cd502bdc0"
+
+[update]
+[update.modrinth]
+mod-id = "soWqucCB"
+version = "Dvalauz0"
