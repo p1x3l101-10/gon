@@ -4715,6 +4715,11 @@ hash = "96a93b6c1bc71e9e2be4efa7a2f182a02373c9ebe8a095c578e43baf00fa891b"
 metafile = true
 
 [[files]]
+file = "mods/brb.pw.toml"
+hash = "32d390c03b0a2f7a12187b2ebc1eb08a423f4d65d3f6bf1282c583b891353791"
+metafile = true
+
+[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "e48aede1ae4a51bb86811d495524d290014e21fd3fd904aeceb528efc99b38c5"
 metafile = true
@@ -5040,6 +5045,11 @@ hash = "281e34b04d2a7e54c63e3402980d83cdc21594a26187feb3a1db29b21ea662df"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbook.pw.toml"
+hash = "d5f55fbdcc2ee6f503f8d028d09df0f053f1611190f90191bc19d85af928407a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e0c6ce8408964b6a0e95b5e4a59930fab5717e6afa011e74398fede0e0c2c3a3"
 metafile = true
@@ -5052,6 +5062,11 @@ metafile = true
 [[files]]
 file = "mods/lessertp-1.2.2.jar"
 hash = "5cc3245ea23de6a2807d607f8cf42d0f9dc873d8379077902c7151a9b9e01fcd"
+
+[[files]]
+file = "mods/lexicon.pw.toml"
+hash = "92b0b2b821bf4701323908cbe9c6d58fd253a853b0fe7bf606231bff72d1ad4a"
+metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
@@ -5139,6 +5154,11 @@ hash = "92cf62a6a08e40ebd004cfea8f4a0a343ae8b3b7d4a9cf9d8b3aa752036eb712"
 metafile = true
 
 [[files]]
+file = "mods/orb.pw.toml"
+hash = "e07e319ffb0403cf92b26c57b268a3ab17993822ee9e6869d7a8882193b40a55"
+metafile = true
+
+[[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
 hash = "01e98745137398e905e5da6ce53e5dc8140e30480c4f27dc99db7fc991cc7c0a"
 
@@ -5201,6 +5221,11 @@ hash = "13585b49c3377716494f7a65bf5031cfe66a5059bdba0eafe6ad4158df6cb7de"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
+metafile = true
+
+[[files]]
 file = "mods/scryglass-1.0.0-6c096fb.jar"
 hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
 
@@ -5251,6 +5276,11 @@ metafile = true
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "f3fc65e787853176533b84c235bacd773fce8c87dec3f72dd3f1fef3bf4defc4"
+metafile = true
+
+[[files]]
+file = "mods/tutorial-suppressor.pw.toml"
+hash = "48a0622a8374bb314fc8f47913b6edd45b1db3ab86405df1c20615eec10c0ea7"
 metafile = true
 
 [[files]]

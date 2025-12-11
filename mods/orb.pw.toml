@@ -1,0 +1,13 @@
+name = "ORB"
+filename = "orb-neoforge-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6r6m61bn/versions/EGt32Tnx/orb-neoforge-1.20.1-0.3.0.jar"
+hash-format = "sha512"
+hash = "d577e909bc38959e72a1cb094c3e41b19322fd822f23d486811163ac8a0054a98e831d20f70aceb2bef209950cee2198b1d2fbf137af3f7c1680fe0c56a55e11"
+
+[update]
+[update.modrinth]
+mod-id = "6r6m61bn"
+version = "EGt32Tnx"

@@ -1,0 +1,13 @@
+name = "Lexicon"
+filename = "Lexicon-1.20.1-(v.1.5.4).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7RSp3ivG/versions/qe8fxDLS/Lexicon-1.20.1-%28v.1.5.4%29.jar"
+hash-format = "sha512"
+hash = "7c55cdbe1a99b450b9432ed0584ff37fe5550792e4e740affba34ea1ca7161fff47cededc6a60e7f2eb88bbbbe30fc31c52d8eab622f7dae448e56c57c4b2e7f"
+
+[update]
+[update.modrinth]
+mod-id = "7RSp3ivG"
+version = "qe8fxDLS"
