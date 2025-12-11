@@ -4226,7 +4226,7 @@ hash = "6ab6714bad3c0cfc510332ce2624c6cbe9c9063cbc635511ee336e04d235f0dd"
 
 [[files]]
 file = "config/brb.toml"
-hash = "acd27174a9e9b7c2332118e6176c8f000815c6162ccac9030710db2a27d9938b"
+hash = "f4e24bf3dda9b30958410277116808baf006af39eea45955bae065a2e3b70047"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
