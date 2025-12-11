@@ -5115,6 +5115,11 @@ hash = "3ba2f4e0f67f25f23ddd6b3bbe208080153b7db3ad7531eb8bfc02e6ff9ee3ce"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "b1c3909588ba4288c47a6ee969bb6cdd28db0943fc4747ef778ccf5feb3885f9"
 metafile = true
