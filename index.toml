@@ -4398,7 +4398,7 @@ hash = "0824fc13e8ffa4c7d40f47dd3af1c408d245976a357da71be7d50bac464cf531"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
+hash = "c603b6f52f1e98a4e3d93d80c99e915e6655a52f6bce90ccaa65f303fa47a428"
 
 [[files]]
 file = "config/forgeendertech-common.toml"
