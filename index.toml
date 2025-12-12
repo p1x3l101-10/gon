@@ -29,6 +29,10 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d"
+
+[[files]]
 file = "config/adchimneys-client.toml"
 hash = "49f87a4f3132ba06857b8d6293b60db84f715a2f704f90f86e4730eaa8bfae1f"
 
@@ -4273,12 +4277,20 @@ file = "config/craftpresence.json"
 hash = "13f31c997727a405b935bbd282366da1cbbfd13066c338d4c4c1e5b7dae6e4c6"
 
 [[files]]
+file = "config/ctm.toml"
+hash = "88e9b9c4851dcdfba48d21dea510e2e718d5fef5b409d14827283c2edda111db"
+
+[[files]]
 file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
 file = "config/deeperdarker-common.toml"
 hash = "456c664072bff23a9d6a45a571d6a09f4b4be2c0ad0423281894d836a4f679a7"
+
+[[files]]
+file = "config/dmnr-common.toml"
+hash = "221f3b18676f580af623541dbe190651a56157afcb7ba2c3a554be58fe8e8d61"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
@@ -4397,6 +4409,10 @@ file = "config/fml.toml"
 hash = "0824fc13e8ffa4c7d40f47dd3af1c408d245976a357da71be7d50bac464cf531"
 
 [[files]]
+file = "config/fnc-common.toml"
+hash = "1c394f06e31c004296cb9ae7eb8abb96a12dd141321258a1cccd42e18565919c"
+
+[[files]]
 file = "config/forge-client.toml"
 hash = "c603b6f52f1e98a4e3d93d80c99e915e6655a52f6bce90ccaa65f303fa47a428"
 
@@ -4429,8 +4445,24 @@ file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "889986622c92c7f763934e3ed388691557ef959fb2722992b335d00701a2185a"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$savanna.cfg"
+hash = "ad70da99a2fee045a8d3648c0b86d7f8fc6897346c789adc8b60ec8371cb84c5"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$stony_peaks.cfg"
+hash = "aa722a7388a8bc6cb80fc0fb86352512305959c54104dab950d32cb347631808"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$swamp.cfg"
+hash = "9ca12ff20e26f26cab375513d0ab45af3d4d49b941b199408a377cb8006706b4"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$windswept_forest.cfg"
 hash = "26292e15412193f0a6aa8e667ab44c05f9c3551abd606cdd315178dbeb44a4f9"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
+hash = "c2ddb98e408a84edce859335375818c4ebf9761bfc59c51075cdbd961153635a"
 
 [[files]]
 file = "config/forgeendertech/Wind.cfg"
@@ -4443,6 +4475,14 @@ hash = "468c049ba06cc4f3e98a275e304b898e00be46e919e79b4359e8d959607cf4e9"
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/grimoireofgaia-client.toml"
+hash = "cd0b1e78d0ae83531b14c739a9e29970b1b35cee3006fe09c7c1ac73de7827f0"
+
+[[files]]
+file = "config/grimoireofgaia-common.toml"
+hash = "2aef4bf4e8a90d74232d42f556c24fe578d2babfe853614fd4f309a767abee2f"
 
 [[files]]
 file = "config/guideme.toml"
@@ -4593,6 +4633,10 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
+file = "config/mna-client.toml"
+hash = "db56bd8886a10644111895d3c316868ac0b033bb2711366d1c3b12ee6eaacba1"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
@@ -4643,6 +4687,14 @@ hash = "e31e1e4a392c81a903fbb296b2276e8aa134fca0335f33e9849d0dc7da13631d"
 [[files]]
 file = "config/pregxxy/server.toml"
 hash = "86db026a6eff1c090d363069db0536d0c3b6fda9bb239d32dfcd7ae4e280dab4"
+
+[[files]]
+file = "config/reactive-client.toml"
+hash = "f851e2d0c552475241a0b2efd41971b2facfae8af0bf8fce44662bdf776ed7f0"
+
+[[files]]
+file = "config/reactive-common.toml"
+hash = "7ff9219c6ddb5260bfb14e20ee2ad33cbaf259d462a17371af9ce66b98906a7b"
 
 [[files]]
 file = "config/resourceful-config-web.json"
