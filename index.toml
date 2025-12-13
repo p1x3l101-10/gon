@@ -5287,6 +5287,11 @@ hash = "51d325f237a44770c231cce89a8fdba1f7c659dea2dc083f2f2ec9ea55357ed8"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
+metafile = true
+
+[[files]]
 file = "mods/json-things.pw.toml"
 hash = "4b15c1a57f30e2f120a47b733be2ad7ff692af92f06a618eb0febc559a0704cb"
 metafile = true
