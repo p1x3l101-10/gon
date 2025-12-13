@@ -3,8 +3,8 @@ filename = "1.20.1-maid_useful_task-1.3.7-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ac987fea88f3923cc52dab193ca71c49b58fa9fc"
+hash-format = "sha512"
+hash = "70eca1ffe1325a8515c026ef038fcdb8e2f7aa8d947c7232f7938f855287ce5337ccfd37d1600ecc203773f77469f8b0923342a419e6b6f4667b50c472712ad8"
 mode = "metadata:curseforge"
 
 [update]

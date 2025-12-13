@@ -3,8 +3,8 @@ filename = "1.20.1-maid_storage_manager-1.14.2-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5b3e700954f1244a1d6a6e9eb453d0c190503ee1"
+hash-format = "sha512"
+hash = "8922f48f8f89b494ec96253e08f092dd86a260870b8b37f0e997f13aaeb27cbf93bfb1173244e8c49e7c73ecb978551dd5362a18840ff0ee4d2a77fd5e855e28"
 mode = "metadata:curseforge"
 
 [update]

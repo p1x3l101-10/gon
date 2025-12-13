@@ -3,8 +3,8 @@ filename = "magichem-0.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd5b2a02cc75b35cb4c0b8538fddf06b1f061f61"
+hash-format = "sha512"
+hash = "590dcefbdc2fc83900ce062733fd7c00b676306e6a52bccb9c602d32a4905f821d99117bee889ec2f604fbbf0958704e6d36ec6236a6cceb13df897d437716cc"
 mode = "metadata:curseforge"
 
 [update]

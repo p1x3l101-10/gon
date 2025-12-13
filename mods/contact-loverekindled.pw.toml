@@ -1,16 +1,14 @@
-filename = 'Contact-forge-1.20.1-1.2.2.jar'
-name = 'Contact: LoveRekindled'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Contact: LoveRekindled"
+filename = "Contact-forge-1.20.1-1.2.2.jar"
+side = "both"
 
 [download]
-hash = 'fe471aeae7316369e5c67b09862f92d21583b60e56001e80a5a45614f98436af89f0067773d9f166f7074d14e5513a5de0d8e61a59f4f7bfdac5ad833531cf60'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1Oyfrkxg/versions/mQh4u1Zj/Contact-forge-1.20.1-1.2.2.jar'
+url = "https://cdn.modrinth.com/data/1Oyfrkxg/versions/mQh4u1Zj/Contact-forge-1.20.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "fe471aeae7316369e5c67b09862f92d21583b60e56001e80a5a45614f98436af89f0067773d9f166f7074d14e5513a5de0d8e61a59f4f7bfdac5ad833531cf60"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '1Oyfrkxg'
-version = 'mQh4u1Zj'
+mod-id = "1Oyfrkxg"
+version = "mQh4u1Zj"

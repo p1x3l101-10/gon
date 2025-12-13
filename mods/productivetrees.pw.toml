@@ -1,16 +1,13 @@
-filename = 'productivetrees-1.20.1-0.2.6.jar'
-name = 'Productive Trees'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Productive Trees"
+filename = "productivetrees-1.20.1-0.2.6.jar"
+side = "both"
 
 [download]
-hash = '8e4553fe59b686239eddd25e1f77b9596ca1b1d9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "dc169bb8c8ecd3901d0291aab11fa454263f48e6f58fcfb60eedce730dd8031ad82d22a4b85219dc1352e9e45440a628f1114fb906b52aecde3b0c4cb1c89b25"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5486574
 project-id = 867074
