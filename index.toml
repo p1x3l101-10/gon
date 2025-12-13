@@ -5625,7 +5625,7 @@ hash = "fef6f6bd91e9a3fc6a76142120b19d7741c7272831221918d31bf87427b34c52"
 
 [[files]]
 file = "thingpacks/kubemusic/assets/kubemusic/lang/en_us.json"
-hash = "396af6834711539b47f5e5882ab4fb3507a3f620b383a2ab750a6199432ac126"
+hash = "48076b86493c580e7b247754c8e2a30a0c069dd097e3689b739a09062c31aa33"
 
 [[files]]
 file = "thingpacks/kubemusic/data/kubemusic/melodies/12_hellfire_mantle_akira_.mid"
@@ -5662,6 +5662,10 @@ hash = "c1f4cf89d6cd43211d2a34ad2fc01b35ecd9b2c01dbfc2f5c2c9546298d9900c"
 [[files]]
 file = "thingpacks/kubemusic/data/kubemusic/melodies/iosys_-_marisa_stole_the_precious_t.mid"
 hash = "9d904285e665d5fabe7706139d17c302083b790ff13998d38cc0510d5b856593"
+
+[[files]]
+file = "thingpacks/kubemusic/data/kubemusic/melodies/last_remote.mid"
+hash = "89a8c93f52d24aca4dd21200d0606fcd5b790feaeb1fbc6948cc6d0a9da07188"
 
 [[files]]
 file = "thingpacks/kubemusic/data/kubemusic/melodies/night_of_knights.mid"
