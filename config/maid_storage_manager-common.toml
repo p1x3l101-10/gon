@@ -50,7 +50,7 @@ debug_msg = false
 [behavior]
 	#Maximum times Maid will try to store items
 	#Range: 0 ~ 999999
-	max_store_tries = 3
+	max_store_tries = 16
 	#Maximum tick Maid will try to perform craft action
 	#Range: 0 ~ 9999999
 	max_craft_tries = 600
@@ -63,7 +63,7 @@ debug_msg = false
 	#Range: 0.0 ~ 1.0
 	pickup_require_when_place = 0.5
 	#Maid will need to stop and stand by the block to work
-	real_work_sim = false
+	real_work_sim = true
 	#Maid will ignore delay when picking up items.
 	pickup_ignore_delay = true
 	#No showing bubbles for sub tasks
@@ -72,7 +72,7 @@ debug_msg = false
 	#Allowed Values: FINALLY_POS, GO_THROUGH, FIXED
 	throw_item_vector = "FINALLY_POS"
 	#Try going to work center when fail pathfinding.
-	try_go_center_when_fail_pathfinding = false
+	try_go_center_when_fail_pathfinding = true
 
 [render]
 	#Virtual Item Frame's render method allow access/no access/filter.

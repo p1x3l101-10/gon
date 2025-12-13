@@ -8,7 +8,7 @@
 	locate = true
 
 [revive]
-	aggro = false
+	aggro = true
 	totem = true
 
 [logging]

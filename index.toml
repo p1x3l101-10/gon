@@ -4710,7 +4710,7 @@ hash = "76f8193e5c50c1699f865a92533cdeb1e4a664a05ef1eb5439a67e80f6132b85"
 
 [[files]]
 file = "config/maid_storage_manager-common.toml"
-hash = "d030f89eadd1aaad5b5f1330577597253bd13e51087e22f2841118d348309a86"
+hash = "d44deed6b3b984401f1b3a048105b2d6b445c087ccb9977879d26a55dd77d063"
 
 [[files]]
 file = "config/maid_storage_manager-generating.toml"
@@ -4718,7 +4718,7 @@ hash = "5422a654c8a7756a70d79a5375525942099ea20e424c029e3161ad75674c6143"
 
 [[files]]
 file = "config/maid_useful_task-common.toml"
-hash = "ff9644a598c22931237d5e5a0c39e649c88a45e1834a14aae2a57d12e6b1aa92"
+hash = "b6eb98066d61e03ea22e9ef2815cde07f00f4e44dce85df738e4d46e012a257e"
 
 [[files]]
 file = "config/maidsoulkitchen-common.toml"
@@ -4890,7 +4890,7 @@ hash = "2853025999a54fb2ab5a4ff5f331091cfcbc8921d34f1b7026ecaa2706e98271"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "b8e1e10f286ff2df26f6348f92b8e9e697341e5efce6e523fca3f731395e5715"
+hash = "df0facc79e33c570b4fc914edaf627bb9e04e9ce784302f09b76fdead5aaff33"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"

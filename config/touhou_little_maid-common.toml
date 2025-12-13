@@ -2,7 +2,7 @@
 [maid]
 	#This is a global config that applies to all maids: how often maids speak
 	#Range: 0 ~ 100
-	GlobalMaidSoundFrequency = 100
+	GlobalMaidSoundFrequency = 50
 	#This is a global config that applies to all maids: Whether or not to display chat bubbles
 	GlobalMaidShowChatBubble = true
 	#The item that can tamed maid
@@ -13,16 +13,16 @@
 	MaidTemptationItem = "minecraft:cake"
 	#The max range of maid work mode
 	#Range: 3 ~ 64
-	MaidWorkRange = 12
+	MaidWorkRange = 64
 	#The max range of maid idle mode
 	#Range: 3 ~ 32
-	MaidIdleRange = 6
+	MaidIdleRange = 32
 	#The max range of maid sleep mode
 	#Range: 3 ~ 32
-	MaidSleepRange = 6
+	MaidSleepRange = 32
 	#The max range of maid's Non-Home mode
 	#Range: 3 ~ 32
-	MaidNonHomeRange = 8
+	MaidNonHomeRange = 12
 	#The max range of maid's bow attack
 	#Range: 8 ~ 192
 	BowRange = 48
@@ -37,9 +37,9 @@
 	TridentRange = 48
 	#The max number of animals around when the maid breeds animals
 	#Range: 6 ~ 65536
-	FeedAnimalMaxNumber = 50
+	FeedAnimalMaxNumber = 100
 	#Maid can switch models freely
-	MaidChangeModel = true
+	MaidChangeModel = false
 	#Maid can only play gomoku with her owner
 	MaidGomokuOwnerLimit = true
 	#The maximum number of maids the player own
@@ -156,7 +156,7 @@
 
 [ai]
 	#Whether or not to enable the AI LLM feature
-	LLMEnabled = true
+	LLMEnabled = false
 	#LLM temperature, the higher this value, the more random the output will be
 	#Range: 0.0 ~ 2.0
 	LLMTemperature = 0.7
