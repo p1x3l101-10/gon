@@ -5046,6 +5046,11 @@ hash = "b502e70d59b976d38ef14f92871cabc7ef1b0caf1a59b715507d3729ed3f586e"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "2e5cf666dac091c3a687d3b0e38954bbf80408a7f7bfadc68b4159cde91b0291"
+metafile = true
+
+[[files]]
 file = "mods/efhexs-1.0.0-20dbe0d.jar"
 hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
