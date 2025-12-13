@@ -5760,6 +5760,118 @@ file = "thingpacks/kubemusic/pack.mcmeta"
 hash = "c60aea00bb3c9872c84a52b78e00301b6c6ba91630caca3c9f50c0b0fc691303"
 
 [[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/attuned_diamond.png"
+hash = "1aa51ff500a971ac77278419b1ac4c7ebd79b967f0f44a925eb51de5b003cc8c"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/attuned_emerald.png"
+hash = "3272cb401fcdc3753892d6bf36851fcc70db00d1faffd587b7d59ddff41b468d"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/attuner.png"
+hash = "b69cb7c0e652d02fec9244a23b75b8ebad5c1b8ee6330f1c1fe54c35134d0811"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/caliburn.png"
+hash = "3f37ef5866fea57aa825c7d1412ac08ecc61842da7ecea66a8d0b76238b2de88"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/clarent.png"
+hash = "1ae12b3c082649ca69746500a07731d17a8dbc2751e046d761644cd1b1466a89"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/dagger.png"
+hash = "7eb8dc51033c11fb1b245b3bbec240ba125640932398f0ffbcb965f997438f7c"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/fae_essence.png"
+hash = "02008c5b1435677a3448d3a1641a1296017fdf84bbec8cfec0ba2013fa8ff083"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/faecake.png"
+hash = "243d8ac05a98e4036c759cf32b6b672a757b3fb1b754a093abab8ff24f1dea6f"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/hammer.png"
+hash = "9dcc898a3d4b2fb0ab7e132f7360cc2ada6d3313df8dae8289ca0ffdc8e233a6"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/kodoku.png"
+hash = "64187897739e73083c010efc53a14e64c0fb0e2ad2e1c24d6f42be45649fe745"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/morgan.png"
+hash = "e2c2f6911779cefde369d26494f0d9dacd2a2bb2e009492fca1594a2c79d4f13"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/mortar.png"
+hash = "5c14bead56ad0a17ffb9276b9cc634b624fbe838ab39d4b237713936bcf8c29f"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/mortar_and_pestle.png"
+hash = "e6a963feaca202471c6d1ee5af5f471874c308617c6c5b46c57319522a73ff1a"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/mtguidebook.png"
+hash = "61e7de23909ebc34da527501a52d4b71c6f2155b157c0708e647559d5d8d68f0"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/mystic_staff.png"
+hash = "63ab0260d871a3bd1bee59b49e3066f9fbc943d6c0b3276e602018d3efef9f3b"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/pestle.png"
+hash = "904c67a46b65ee7652f8f8801ed0a4e58563b13c41aa140fa76627742465060b"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_diamond.png"
+hash = "c561637a02b2d35ef300f4b542d1daec1655b1246fea155a5366d156f071bb35"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_emerald.png"
+hash = "381cf963bc5b0346002dcbab0cbc07e2da91d770b3c1f465d4da42a8ba413732"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_ender.png"
+hash = "acb3d546cc08126bc830940a00d3a45a8319abfcbfbc8501d415f4318ae6fdbf"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_eye.png"
+hash = "67ae2e7ed0b12627a49e2523638bdf411129275c62ad0b5834f85440187a8bbb"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_gold.png"
+hash = "c931a96e9cd805e84e11e2ee4489f42472748656ca1d3630deabe6913df77ce1"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_iron.png"
+hash = "c86ba49e537146f67c898cb6d6a621d8c1bb5cd70cf5a8d4af4083e34e569ebe"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/powdered_quartz.png"
+hash = "da6d197f59e14bf49c28018a43e7238fe323d91381015f065fd083580e0d53c4"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/spatial_staff.png"
+hash = "5c538e5b82065f90c978de6e41342479bc845c5030e4251d4c543a18a926766e"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/spell_scroll.png"
+hash = "b91d8331f34e334d340059df46044656f63471c9905f2b2013857498c198564d"
+
+[[files]]
+file = "thingpacks/mahou-resprite/assets/mahoutsukai/textures/item/theripper.png"
+hash = "e57749a85a6e5d2d13b23b9aa009a8513d83fcf7daa3ea5c55453e14d8099065"
+
+[[files]]
+file = "thingpacks/mahou-resprite/pack.mcmeta"
+hash = "a3e1aff1f9bdc5ac312b91ca7fe0330921d223abd00894171609514986c87342"
+
+[[files]]
+file = "thingpacks/mahou-resprite/pack.png"
+hash = "6d85b50c77b1b6f9eeb169dd4ccccc82b84ada9eefca9a0c79231681a47b26ec"
+
+[[files]]
 file = "thingpacks/no-java-logo/assets/minecraft/textures/gui/title/edition.png"
 hash = "1137647403a935365700bc76bb8bd76f732a578d758266108ac9d015548f0564"
 
