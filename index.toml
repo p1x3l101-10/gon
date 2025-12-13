@@ -5774,5 +5774,1265 @@ file = "thingpacks/stop-books/pack.mcmeta"
 hash = "960dc050b8c49df7fd4eac1d606f609759a47806c9bef1dee47d8e892cb39a56"
 
 [[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/crafting_table_side.png"
+hash = "6f83ed6c560437143ca10ef9288171508597f561e0bbcce4d887dfac413df1d8"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/crafting_table_top.png"
+hash = "0f13df85394591291957914a795e24fb70eed992f37c6ca7c9ea98185ae9e6cc"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_bench_base.png"
+hash = "df3caa583ab6b9430dd33ddb9feca712b879a73314878d20407b0b8f064d34c4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_bench_top.png"
+hash = "cd154e0e268b5fc3de97f7798be18f6f175d02eee38013fa7df59e17d4935f64"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container.png"
+hash = "68784b615382516b9d337d1e23b1a1a0fe500bb3638d08f382c1dbd988585fac"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_back.png"
+hash = "1f1e99d7089c72530f58f86240b41b72a50c4fffe9ad005fa170e0e36eb69c31"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_bottom.png"
+hash = "0ce6cbbf579bdad8ce9a8e774df26de7e55f9d22e1819832e7848f570d0a2848"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_front.png"
+hash = "5bcd7960a78f21ea2152e58357e54e3bc027335313b76fce99a53ab544219b98"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_lid_back.png"
+hash = "59a600ca6fca025d7a4436f0f8d1e9846a6e836cdaaf77c16df2a00f81d23b5b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_lid_bottom.png"
+hash = "0ce6cbbf579bdad8ce9a8e774df26de7e55f9d22e1819832e7848f570d0a2848"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_lid_front.png"
+hash = "ab8800c666c7851873f25c7907502c33bbc1240040b6e0c301e78492015c0e3b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_lid_side.png"
+hash = "840ac1f6ea3c4026aab8dedab93a4382ea4212ed3b194a8428166f27865678d9"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_lid_top.png"
+hash = "aaf0ff39ee430f992bcecabf65e2a2b5bf33062c88626699dc7d793e11a258a5"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_lock.png"
+hash = "f8a10afd5e84c9574b468bd30ac0e5aa9132b6a8993a0366151acd272a81b41e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_side.png"
+hash = "eacafc1bb5e807a2d447dc7c6d5e8bbc17e95e5eac2fa9ee91b92db07dc09454"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_container/forged_container_top.png"
+hash = "99ac1ff3269c51c44e2c289657f33e7cf918acfa8866d0037e2a90ad8f85c3f3"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_crate.png"
+hash = "269f58448475fe1366542586df3359e0c5e4a0ce5ce168e89ded3b82b5aa4e5a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_pillar.png"
+hash = "5ae70f411446bc7f36694a1d01032e01d164df22f08fde77b34d9ba65db1ee3d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_pillar_side.png"
+hash = "761a6691862412c99a41dc927238414e8abbf813e6dd72a53d6da059b981edf6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_platform.png"
+hash = "94bdee93c35563a4e7afe01a0bd3af45b1b30e024dbff5ce9fd3808c96ede5ac"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_platform_alternate.png"
+hash = "b435511945b008d46bcbcc904bb7f9649f1454ad79bf06a9f74224bfb29bb852"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_platform_bottom.png"
+hash = "e1693110befb485a0c17d90aaeeb1bf0a1e1c0552bbc5ffccf4b34c4a82b8723"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_platform_side.png"
+hash = "e0f5cb5b2d193d0419d16a3135b86fdfe9527e7739578455efc3493c4fc755e5"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_wall.png"
+hash = "a5764393695079a253c5ed8d6736ebc542b9094d8dba80c6a3031006fda739ff"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_wall_2.png"
+hash = "1cbfcaa2446395d787637bc3a2012f8feef17fe27b39c5d1650749c267cef187"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/forged_wall_3.png"
+hash = "1426f6bd4605af10d7c41afcaafbad0e317b0b5d754639eb3ee950701fdebc3b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/block/oak_rack.png"
+hash = "f9e0186e8490fc52c4807580afe2bfbc03ab150a30632e36935cf82408e9a2af"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/combustion_chamber.png"
+hash = "67f4a863822cd62fb6dc3c9ce4d5de8acfdadc0626c5ee36ba9a23004eb75e24"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/dragon_sinew.png"
+hash = "c2bb011034b67ab3e798ab0c10e57b1d54d5dadc7ea9cd5e306a4d3288d1baf1"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/earthpiercer.png"
+hash = "3cc4bbde2ca2eb9c53134437a2ee23459349165afd435ee33e3efbe23b001643"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/forged_beam.png"
+hash = "efd4149731d86d6a72050b45035fca45db9a44042f824216dfe440f0390a5d8a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/forged_bolt.png"
+hash = "4a6ed33ddd716e2a065dbed777259dd19feee1adf19a6803e9dcec54d4eb0728"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/forged_mesh.png"
+hash = "af92fa08aae99b289e82f06e0cff2aefce4a45122019939ac46adc29f8ef557a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/geode.png"
+hash = "cb26e7c87b8c43be77eca262a886840e2f9e231b3f0ddf850a8f814f5eef7d7a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/holosphere.png"
+hash = "abf5b6fd9f2e9b2851dc4fe1de723a09e5353df7014ed2dabafb6bc4a510b07b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/lubricant_dispenser.png"
+hash = "db9116b14b78b2ef39a41cc1220b797761f6806c1c7393e6bf30e81bb4e3d148"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/magmatic_cell.png"
+hash = "ac3d360f89dde291cff7b46b23418b86fe7163d80b612b67ebc9737a61d48c68"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/magmatic_cell_charged.png"
+hash = "059ce710114f90bca44c490d6eb5dbf9a87e99db6e25e8e5d264ea32fd7229b9"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/magmatic_cell_good.png"
+hash = "c30bdf01427850fad87de626bd60e3f6b811a636fe16774c26aba655a7045c71"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/magmatic_cell_low.png"
+hash = "cc7fa20b73e4bff37754f33ea9b52e9bc4e30891eea799e35b37ea077d04bd8d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/metal_scrap.png"
+hash = "48fed9e031f7e56632143e1dce86f960618408709755811085301820bc101abc"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/arrow_0.png"
+hash = "62aa3380d2c94c56d9bae119c437b3b4229ed1122ae381b885c4eecda6c5cb4a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/arrow_1.png"
+hash = "bb89c2bd5004172fbceba9f7e357682a04019c2742fa79c521bb3171aa4feb3c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/arrow_2.png"
+hash = "97ac1f39441a7e480ca8de3b46355c36361fb57045042ee25ea438cf8aecfa21"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/riser/adjustable_strength/bolt.png"
+hash = "dba18b200ccce9e5c7ed0fdeffab62935f4c5d82b0956ed0ab62154a0fe2647e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/riser/extended_rest/bolt.png"
+hash = "4acf948d80208c910ef15eb6ee11912bb3bb0a6345c27a02fb8d799fa29a3f5b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/riser/extended_rest/default.png"
+hash = "9544bee12a174dd9e12d6a4c8fa796b32134cd9c340e074d0eb98ad8dc45be97"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/riser/sight/default.png"
+hash = "477c09d940aca89d53ea7aa1624dce844e5ffa1da1c717fb2d2bbb93890fc353"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/riser/stabilizer/default.png"
+hash = "48e08cfa5fa9d02174efa93d29b5b10148fe8d45a9d4d88a8374d6e7a6d8cf3c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/riser/stabilizer/linear.png"
+hash = "ae7d7602a6f7f9c4bc7e6508463f13bffd0a9a5e6211569e3febbe6134df55fd"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/improvements/wrap.png"
+hash = "a649e99f40fce443337689abc9f3a487cdb87721d87e5716963705f1eba2a02e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/long/0_crude.png"
+hash = "0e0c5ddae6dc0e84cefac8028a196565786fe53b3e4f608c5c04fd343d107ffb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/long/1_crude.png"
+hash = "7e2321330895bbed2b7bbf305338153588585164eb9671ab9d4c52f4a076460f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/long/2_crude.png"
+hash = "b2c31d9ee3a6096947ea03440d902dec1880e4fc04a281ff93f9b4bdebae5b14"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/long/crude.png"
+hash = "0e0c5ddae6dc0e84cefac8028a196565786fe53b3e4f608c5c04fd343d107ffb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/recurve/1_crude.png"
+hash = "daaca369d8ff1dc8a04a23ac37d999793f437686c7d4a0ab1bd16149f585279c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/recurve/crude.png"
+hash = "cc4dbec2ceaba8301ef59cd77c77d579a0005ceb4a28f14f5504183bdaad1962"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/straight/0_crude.png"
+hash = "c4ae9be1a66841bd797b592375dfa351d554696de9b2f18e003b9c2f85b060cd"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/straight/1_crude.png"
+hash = "46a0c82d6e853b85d40a2ab22e6eb138d988725ca06f2c3dcabbd37c0e04ea47"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/straight/2_crude.png"
+hash = "0877a707ecdb2d54d42073c6d9d1b07d80ea3c204525048a6c8edad3404b33df"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/stave/straight/crude.png"
+hash = "c6d45a253d8fbed067a5580eb3c3f171a5266516266e9dd067b0796a0e303e42"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/basic/0_default.png"
+hash = "efd83d501d83cbfa3f10543d836174d2ecff99e6bbb1d193905b338e34e2982b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/basic/1_default.png"
+hash = "5db7b3971c5ef4c548611b30faf8433421e97ddc9b94b59b4dc00894dd8be7ad"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/basic/2_default.png"
+hash = "0240c57617f4592c7d8d2c75f8ce779874318d4c4e4eac5306ea6b3259ead9da"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/basic/default.png"
+hash = "7a44b3a30dce302eee7ac9a0c7d80c9c667c46268cd800f7efed796f69c41f34"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/improvements/latch.png"
+hash = "b628d3292319a332927180013ee7c16f82780487d51126e6ece2e929c7de8c11"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/improvements/latch_0.png"
+hash = "1d36545b5f04bc648815e889da2aa0275849ea0e3406f904c22782123a7d95e7"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/improvements/latch_1.png"
+hash = "8d4b043d322aa8bf31062b48ee12c00d2c4276268af237cb4e72f17239203ffc"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/bow/string/improvements/latch_2.png"
+hash = "f6295de2fd74d0a30708b47fc0f08c6b74bdc3dd90e82b6dcace3194e564eb5d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/arrow.png"
+hash = "087fbc1d034bd8400b58e88d4b55723cd7e0d00070522b8a95afd8c47c07c271"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/attachment/stirrup/default.png"
+hash = "a6d26fc8e6fbeca9f73c900da86701d3165dc6022a95cad55e2d4d047a1e0ead"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/extractor.png"
+hash = "e9d2bc8da5843871408103f3d0fb9fc19b0d0d0aeebb5d331ec3a4890b5101c7"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/firework.png"
+hash = "50e1c9e0d2e8ab95ac6d9ec88c7328afbe2f61c55e4d202d471f66995192bb28"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/stave/basic/default.png"
+hash = "729df760212e80438cdd68068bf9924525672f30e14c0fd9916a963bd080faeb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/stock/basic/default.png"
+hash = "a6656019c9fb31b2355ecd248e44e7c5c814a759783e88c9b6c74e565dca6079"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/string/basic/0_default.png"
+hash = "e3d6543f55073bf16fb12cd5ef93da9fd479ea6986e60bf8b0db114f85a8f679"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/string/basic/1_default.png"
+hash = "4ddbc3ed980e5b4667c264569eecad1f29d64c2ebdcd71de882674c1674f25fa"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/string/basic/2_default.png"
+hash = "f852b3042a5f66e68ee81af4ce2d224113f93bad3254b3cd9c2283ef7f4f7514"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/crossbow/string/basic/default.png"
+hash = "fe90f2d3012e79623ec9100c54b070f4c1a6920844c54520f977c2fa6d10cb9e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/binding/binding/bolt.png"
+hash = "e20239afb0eb5453dc7565a20def8437e1b52774ecfc0fea51a9c6fb58d1050f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/binding/binding/default.png"
+hash = "1bc42f7b454b4030fbc17b79dbfc132875c5dd8ea5f3af0d2bc61447fbd2ea6f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/binding/socket/default.png"
+hash = "c8c7ad8d362bc478ab0176528ebd2cc99e0cce8439b9066bfd92839244e4f773"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/binding/socket/pristine.png"
+hash = "36463bbc1b6ed36a820b0d0baf75cf17c8f819acbff9758747ce9f54f18f16e6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/bone.png"
+hash = "d8a1a25a606de103d2047c1739415a02845de819f4f0aa99c8c3d7966a72738f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/bright.png"
+hash = "81988e092f6cbcd1e4ac0b8a429b7ac240f3ea3df5d29d1b6c14cbb9b102fadb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/default.png"
+hash = "ed804b2be0e6b336ed3c5afb7b36a1ad8e83ec49c7516cfb03385e2124d8f112"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/improvements/soot.png"
+hash = "c5d995f2f3f5e083d5537a1fab798cb3486758ed31dd6fd1a53e9f9dd02d6d56"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/improvements/wrap.png"
+hash = "d3531bef3a1499495aea1d8dcc6fdf607b51336470fd30733afeda3b0a0bf1b4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/improvements/wrap_alt.png"
+hash = "e5aac6dc2ec99b52dd7f39ce716c42736f9def63f5d9643c3ad90666aa51ea68"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/handle/basic/metal.png"
+hash = "9033b966b79f040ba3b5130ad6e7b0dc6e6fc1b93988cdc98f906cb09c82fbd8"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/crude_left.png"
+hash = "ecb7ffd22b21638b1a871661d73b928e03a43c717615ec934210be61183a732a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/crude_right.png"
+hash = "f913efd73f1d30c48e8b0bd54ddb1fb43d2af27d68952041a5853c951aa16488"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/metal_left.png"
+hash = "9697a2584a5391099051d2709573db5ce871e03dc6d3b337acad12f204458358"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/metal_right.png"
+hash = "306450c39398991cee43b618f8565f95d49c4eb93613a5dacb251a920b752255"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/shiny_left.png"
+hash = "fdd62407f5126f57bc8ec24f95555a4817b2a2b264f74d8ff506bc4ec1cd16dd"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/shiny_right.png"
+hash = "accdac76cd6bb6c087aa3072f82e6e5545999441b8534ea7933cdf3c1d4894e7"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/warforged_left.png"
+hash = "148b8143b482f94d69d31073bfae32639543268f01f80ef9af0260c07e978014"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/adze/warforged_right.png"
+hash = "25e1a3903a30ad554d5948f75899504b3db603c262cad3604ff7e3cab8ec9ac0"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/crude_left.png"
+hash = "c39ba0663e026db45f9060fe131f2675fd3d3f91f99bdfa66131c4384005ac23"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/crude_right.png"
+hash = "e52873c9dc3723cab7eced1afafd79a9d7810a7fcfaa2e340c948a0826789c8d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/metal_left.png"
+hash = "13bd334ab2266b053e57501d54dd2188d735b61e6da54b21bcbdfee1c073adfb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/metal_right.png"
+hash = "817eec3cad7f253527ce1ceddfdcdd2a8f8e94abcbce6de02d170f4c5485ae30"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/shiny_left.png"
+hash = "43f11625ff63da0d345c51a20efc32fa5c8381bd254dd82a0647efee247427a1"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/shiny_right.png"
+hash = "2c125a58aba61f0fd21e17e305bd53770937116d148e9f90dbbc1af2cd78231c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/warforged_left.png"
+hash = "9073301b4272402b0a1047de99b343ba7632347229eca9dca0801c344667e5fb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_axe/warforged_right.png"
+hash = "e3ce1f008894ccb721128ecf75ba37d7692500aad78c3020ab92196874e3b4f1"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/log_left.png"
+hash = "fa3b0e7cc3f103a4770626ef14ff455998a67e901c265378f0e1a4b383c33f82"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/log_right.png"
+hash = "e5fac54014be5bb6ce9245daa095e430b74c4e09052ebf102448b0fd3b54e040"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/metal_left.png"
+hash = "14aed2761be498c3f4ddc52828efb912bd51940e4cefa1df3186263886ac2ab4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/metal_right.png"
+hash = "4568996bad75d35d1f7c12632949cd6e4e03ea753bfee5b3d228eae214476713"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/obsidian_left.png"
+hash = "113e67f5b945dd2c7fe154419c37d15a70d0fce2bf853c50309d4e1ef7137a76"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/obsidian_right.png"
+hash = "3b940699acf6c8b757b5234f6329e27d559cc2c74c86675d81330eec736813b3"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/stone_left.png"
+hash = "98215f44f78b1447439f65b8c3a24de8bb982deacee3507eca969734524c1f0f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/stone_right.png"
+hash = "15ee4305e08a23bfc8fd70964b724b4569930a066d5df12d2966ff75d872897d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/warforged_left.png"
+hash = "a304970349a45febfa56cc437202abbcdcde20710080e90a18816bda43ba237a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_hammer/warforged_right.png"
+hash = "edfe0ec6d9dd1f072d5731ac51cf3848d44e34f2740b53450038453b5f1f8c86"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/crude_left.png"
+hash = "a62d990332d5780754f34aed245e3862aa99a3d21e712c95767a3df2ec1d79b5"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/crude_right.png"
+hash = "e4a46d8221de0bf627db2d93492240c319b4ca0f61ba12cb16f19feca3686d05"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/metal_left.png"
+hash = "74f05c071c1b00e7d00d641d7b5ceeaaebdd18998564ccc4493635ceff5eee18"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/metal_right.png"
+hash = "21ed845e226c847bc7c39174de73f6d0c4e0b574cb0ec6a7d9f40fc398d62c91"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/shiny_left.png"
+hash = "649fe3b3d57b7a9a97ae14c0527f72ed3229e17baf99c9d8341807a086f3b7ac"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/shiny_right.png"
+hash = "f0104c4e69226cbe2f37762f8ccb7f9095e0c602ea92b3304b6c4882c4010ae9"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/warforged_left.png"
+hash = "899035071758a68dc0f3caa3373a0eda528aee8953907ff3a1b02ba47975239e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/basic_pickaxe/warforged_right.png"
+hash = "4f441d0432bca2ebc599f2623eb1c5e86e355c5c1e71c30a3cb83076e93761e9"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/butt/crude_right.png"
+hash = "675fb8f62cc63744a3451be6d371a91b2afe24a3d9dae1852881bf76d276d9db"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/butt/metal_right.png"
+hash = "725e8561168d2e692e56a48c64f9656c8026332ce40388ff46f093d1776d6cae"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/butt/shiny_right.png"
+hash = "c615f16bc473fad59fa0067529c207a3d9def2e55ee9c41cf9d2587cb0244010"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/butt/warforged_right.png"
+hash = "739fc140ed8528168efa156407abd8b8807c2c0bc73ab8bddc8eaee6a76a3300"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/crude_left.png"
+hash = "1b44f459d80dcd7a87c8276a2b2a475ef8f6f34702e366f461f9dc43dafe07f4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/crude_right.png"
+hash = "feca9ec1bad21540904e1d8531286e7a722f3fdd7113731660a1966800f87f24"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/metal_left.png"
+hash = "943b4942988db117c65325b77b6a76fb25a83130ffcb1bb2379a83e14cbc385f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/metal_right.png"
+hash = "26bc41673359eb0ee0dd9db136ca2fcfaf3095c7cd7a63a2902f303b34414577"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/shiny_left.png"
+hash = "c038d27fe04dd71379c35d779a118cefced626cac99058ecbce2b436e2c1f2f4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/shiny_right.png"
+hash = "2bdaf5c5d276b48e3498c439c8afa8bc14bbfe4138a10483e6e3a787dc4594ad"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/warforged_left.png"
+hash = "b92d882f22e49d32865df977228998de6c4a86f50404c692768669591faf5258"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/claw/warforged_right.png"
+hash = "f5961cf0c73cafcc18fc6c1b0c8d7ba0ca158fb0fff370870b2aad6f3f63e53d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/extractor/extractor_right.png"
+hash = "c0ad140700eb0dc2195c2700c952b03f9a0ff683a6591c5a5eef78581f612642"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/extractor/warforged_right.png"
+hash = "6f7432e975b2cd4b4bc57c1fe878092346724973f454f4b530ea24941bdd95e2"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/crude_left.png"
+hash = "c86d439588cce28472f7f50a23c8185db331c8042fd1253ca22342f01483589d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/crude_right.png"
+hash = "0c08634975de60dbaf7f2d0d5e1881368ffca63824f50cc2f70af659a72475b1"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/metal_left.png"
+hash = "06883710f74a4ea41ca446a38fcff574f0cb0c53888adb4abdfbdca28754bdce"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/metal_right.png"
+hash = "c62728be461c13fa4b91d9ecb20749b39b11a57da95aec168953f79d5f9fdcd6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/shiny_left.png"
+hash = "ebb3330b37d21a7073b08efe46a1d2a413e32ab5c84196047fc9f7fef2559918"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/shiny_right.png"
+hash = "1c65348bea9c325c8950e31efce1a2adae04579a7c0e5357d6e58c1f9a220552"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/warforged_left.png"
+hash = "0a87ad9cc14a8917d2150ee58769073264c8eedb01b5f0f96b4e30aa44101dcf"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/hoe/warforged_right.png"
+hash = "2f7a603e1601de2c0aafc4a6287b483aaca0ad1f27ba5c0d3873640ab9cbd1f3"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/crude_left.png"
+hash = "4a262a9e560d086c83348708772457b58fd23eec6de702fd214c37cde68b308d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/crude_right.png"
+hash = "5b14af9c034eb9c83b4b978645cb827957a71e63fe5942f6aac7537e964ab40a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/metal_left.png"
+hash = "c7910a00516647d5f5532e6ac3467f43a0d632cd2a219994c5f16afe533a9235"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/metal_right.png"
+hash = "6dcd5fc095669d6df194d26b9c251120a62260f16e232d56ce9753499675c9ce"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/shiny_left.png"
+hash = "12d6fbd4a05fe63caa71c5921eaaedc472e3e0d5dea81b399e8dfa54bb3a4941"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/shiny_right.png"
+hash = "8b6cb0fe899a6ec7d860031eaf14e5e1b720dc173945095b8d2ae717697cbfa5"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/warforged_left.png"
+hash = "9db14de1d78adb549a577a0f7727fb4e4ee45e57b82256d9aa1548f6b0e7bb14"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/double/head/sickle/warforged_right.png"
+hash = "5f3157c31f7bbd7ed2f7659e7194ad6ecd8fd59e7686d1560c07b518f9860363"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/holo/attachment/scanner/default_0.png"
+hash = "e37211b7b4f6c93f78392e1a8bf8df0663029439a0841b079044255864783460"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/holo/attachment/scanner/default_1.png"
+hash = "7588d4aaf1e8ce36f8ed90f00c6510d8e17ea6cd041fb9e2d92e649331fb9754"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/holo/frame/default.png"
+hash = "abf5b6fd9f2e9b2851dc4fe1de723a09e5353df7014ed2dabafb6bc4a510b07b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/boss/spike.png"
+hash = "5a23422f2f6ad5db926bd3d89e7cc75a1005667c408aeb7670b6548b96a57016"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/boss/sturdy_boss.png"
+hash = "20049769d7d964789c32bf3a39a7817feac4dcb25d31e27a3c4d7d4058f48368"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/grip/basic_grip/default.png"
+hash = "152116662f7a60e2c320ddf344abcfedea9e7cb187c790154e6eb7c7c82b6f36"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/grip/straps/default.png"
+hash = "6e269ab9e0f530d46f5c37d6fd89afca99538600eb84223345b0b8fc0396d67d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/bone.png"
+hash = "102f465e21bbc5fb1e097b5c0bb3af44464a88ea8106dcf0b599a032ff1f4d7c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/aerodynamic_trim.png"
+hash = "86562998c22b88d4f24accbf204cefbe1eec853c48d97e3fae58936f0f486076"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/aerodynamic_trim_bevel.png"
+hash = "50c88e1cf4811d37c069837a882903753368f2ab871381091e3e20c5f19881ca"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/scaled.png"
+hash = "36037edb615cf0971220da3420336844e2bd2fbcaa544edb08e4b27e1e882416"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/studs.png"
+hash = "04c6118faf6bfa753c8a470d3f8386373421839612b35d4c5ada37ad8028486d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/studs_shadow.png"
+hash = "a71a01d054b92a11e0adee944e2a91f2c29207c4e8b09c6a08b96bba6aadb397"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/trim.png"
+hash = "9154587de0c033a6c7fec893672c7eddc6da5b26046cd850ee13b8519b754c0b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/trim_bevel.png"
+hash = "1726435670ae74e9322e4b93ba89e6dafc35ee063400799e9bdd42f31b5ae904"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/trim_scrap.png"
+hash = "f585f687b68cb3d5f71839a07a4ca054dbafeba0d520edf0bb931e988ab673d1"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/trim_scrap_bevel.png"
+hash = "ad4140cb7b64c1cf8d9e31ae076a705ba9905ef2a8e0152d63d9259d7514c4c4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/improvements/trim_shadow.png"
+hash = "aeb0b5073390097a83cde6f5eb4c7fa1ca8ef8b68959ccd87203465f05ac8834"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/metal.png"
+hash = "98d30bafdbe133831754fc3c04c15c476d90aa12542cd880ebb8faec86dc8a59"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/shiny.png"
+hash = "649332fe1316334a8788e5cb0c51ec03e6bb032e6c084a8b0c3de83de9146f8c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/vent.png"
+hash = "4ab42156e50faa52ed01db0809c52c158a073f693f40e03b7dc29d3817887839"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/buckler/wooden.png"
+hash = "891eda4852155f76cc3f519cfb62fc0fdb2c752e6b7b41746e014495cd47a260"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/bone.png"
+hash = "34255261f1594d4eaeefb49536e8e83ac2cf64f0821f6422bbaff39a71bb9f86"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/aerodynamic_trim.png"
+hash = "e8a0f2aca9a11dccf7537318558cdf9dd06da957c5acff75e6d5533afad96992"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/aerodynamic_trim_bevel.png"
+hash = "3151531bbc3cdd005ded806741d471173697edf90f7a016f65f24f8799468800"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/scaled.png"
+hash = "36037edb615cf0971220da3420336844e2bd2fbcaa544edb08e4b27e1e882416"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/studs.png"
+hash = "36f67121921768f890fb73cb820071b545aa126d23e6ee3be3de5f13e5eb7142"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/studs_shadow.png"
+hash = "1de2c34b039806e899574d2fd7056be712fe9414f7cecc8d74404d45049ff02d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/trim.png"
+hash = "a9dce8f2098129a841641e108ac736f09d8d2fce8cbf0a323a28ba5c8125a7ff"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/trim_bevel.png"
+hash = "3c8e7f7336a615238b8b66fede28e3b3273340d13159d46d6b2fa44a19f6a9d6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/trim_scrap.png"
+hash = "478413e1318a314e0098ec102986208734c245a51a608457f070fffcb9aed64b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/trim_scrap_bevel.png"
+hash = "fab844b381ebf48ef03675ca3330df1e5671273f6b07ea143ff9b99769cb698c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/improvements/trim_shadow.png"
+hash = "09fd1c4ca12b877a3eeee5d3cd15dde0c3710ef6c6446450dc44e988386f02f4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/metal.png"
+hash = "ff5df9428041c1b13aefea6f7d0b36309b88a73b3966c4fb842b8e623f476b26"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/shiny.png"
+hash = "411a0a5bc282b1948d8c2bcaa1e8c6c8ba16a38360663c1dc7171cce38ccd22e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/vent.png"
+hash = "4669f342163c4ef3566c63db4bfdbbfe8445ff6fa95d4ae3232b7531a7623509"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/heater/wooden.png"
+hash = "7ad874c5d2eafed48ba8901543c34d0270d2907faf6e815a372674840bddf98d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/bone.png"
+hash = "771048b99007c946f24549b793555c17b4116139986f31f8a53be97b08b2672a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/aerodynamic_trim.png"
+hash = "b8b04788a2c7b3839ce165c8c55eae896db7e1556cd500e6785ae6062f4ee778"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/aerodynamic_trim_bevel.png"
+hash = "070e2e8fd87e73cef651db6fc08608740c73017ac1c7c679e7eaaa4d01e64f00"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/scaled.png"
+hash = "36037edb615cf0971220da3420336844e2bd2fbcaa544edb08e4b27e1e882416"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/studs.png"
+hash = "495b5c46e540357cc9ad107f2ca73b99ea72038ce54f8492b787defe85c15683"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/studs_shadow.png"
+hash = "c55d96addf72f2cf66b2dad9ea0afcfe44752061397e449d3d7e4c049f449bcd"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/trim.png"
+hash = "8b56ac0254f7ccfa4296f6a9ae19c406739ce3ed48f15a29778be999ce8a5123"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/trim_bevel.png"
+hash = "1cb2f01fca161bc74ec0c53384b066376653b3afd612da87fb0cea9d77ed4a43"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/trim_scrap.png"
+hash = "7ce76e919203eaa5d0bebefca9a63a649735fe07b780acd19d66c3f6c20b7965"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/trim_scrap_bevel.png"
+hash = "2f5ff7417c7c74da4ed4adab650116e092519da24abf051178f5db007dad3f2a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/improvements/trim_shadow.png"
+hash = "5ee1d7cbf8c4276440ce7af861ecace7526aa0add410b5c58ee6da0ca13ca227"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/metal.png"
+hash = "205b7878dbb1ac1a7ecdc8c60b0a44a6471af1bb197eb692e35d2bd6fa38f172"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/shiny.png"
+hash = "68e6a71bb6bc262053143b1d51e6b64478b6edeefb699fabf2d78de788b5c1d8"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/vent.png"
+hash = "04c0a614a247698beeff407b5517879ea9e74934c60e5eb3ff648c509138422d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/shield/plate/tower/wooden.png"
+hash = "97c57827d31441d48e1ee242bec000d4128dc7fc78c88ffae36daa1ab2bb240f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/binding/binding/bolt.png"
+hash = "95b779f31cff2fb0a0826a0ec6174999f34ee77c77ea5c9ee21e7ce0acd86d14"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/binding/binding/default.png"
+hash = "bfc0e088f4f42735360c9c0dfd3eb67da406a73ee7ac10d04ad5f5bdb6869773"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/binding/binding/prismarine.png"
+hash = "ddb1bee3ef63c5b1105238d22926009795b07fb2b1e3e43b3f12f7af18b9f308"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/binding/socket/default.png"
+hash = "c8c7ad8d362bc478ab0176528ebd2cc99e0cce8439b9066bfd92839244e4f773"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/binding/socket/pristine.png"
+hash = "36463bbc1b6ed36a820b0d0baf75cf17c8f819acbff9758747ce9f54f18f16e6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/basic/bone.png"
+hash = "d8a1a25a606de103d2047c1739415a02845de819f4f0aa99c8c3d7966a72738f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/basic/bright.png"
+hash = "81988e092f6cbcd1e4ac0b8a429b7ac240f3ea3df5d29d1b6c14cbb9b102fadb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/basic/default.png"
+hash = "ed804b2be0e6b336ed3c5afb7b36a1ad8e83ec49c7516cfb03385e2124d8f112"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/basic/metal.png"
+hash = "9033b966b79f040ba3b5130ad6e7b0dc6e6fc1b93988cdc98f906cb09c82fbd8"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/improvements/soot.png"
+hash = "c5d995f2f3f5e083d5537a1fab798cb3486758ed31dd6fd1a53e9f9dd02d6d56"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/improvements/wrap.png"
+hash = "d3531bef3a1499495aea1d8dcc6fdf607b51336470fd30733afeda3b0a0bf1b4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/improvements/wrap_alt.png"
+hash = "e5aac6dc2ec99b52dd7f39ce716c42736f9def63f5d9643c3ad90666aa51ea68"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/light/bone.png"
+hash = "8da3c6bc021556f7845dc7280b0555c16c5a2e3ddc1f1eb608ed1602e9cf40ec"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/light/bright.png"
+hash = "3ce7987c454502ef9f0f63d3395bde7e7d13c650938a9309b9b9d4a3e390d41a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/light/default.png"
+hash = "1e98a6af06b4adfa20184a59ee0d0d35c2c12bbaafe04bca37cdd150374f4767"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/light/metal.png"
+hash = "7c34ae78483b6834d3cdb27f675a01f582eea1dc1f4892e13ff087572075d220"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/long/bone.png"
+hash = "eebaf0d214485a43f5692ce83dfc43f8c51ff1dbf7c71374168c91b50bea4238"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/long/bright.png"
+hash = "1f93a966c4db56f4754355544654481a08e8419df97c61ef41378028de746066"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/long/default.png"
+hash = "5a1f8c7503b4c76521c76ee8e5e1054df53e861a585de48583d2cc75527adc14"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/handle/long/metal.png"
+hash = "67bd60f312aad38ac766698463e9caf3f676fa3f277827fb4f1d6239bfe981cc"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/basic_shovel/crude.png"
+hash = "362ba2bcf98ef40070ef505129f134ad81c6f4ac352e7f994ee9ab46f3485c12"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/basic_shovel/metal.png"
+hash = "3b183e243650d1d91482e3f481d5bb7d4703b738b0b44fce6ad48b4e74ac8c60"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/basic_shovel/shiny.png"
+hash = "bdfee5926064618351a326f0156b73eee69443d87e93de02ff5f5a7da6e6f37e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/earthpiercer/default.png"
+hash = "63921f90d5d17c8281ca936c1f4d4bd2b90bd41a232234122a07f884389df29e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/spearhead/crude.png"
+hash = "798a411c317b4a1744c6cfad207f358d697c1a8feb82ba8fa07017e8a340fbf5"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/spearhead/metal.png"
+hash = "99cb3438825d944e482dc4cb0c37b96bac9dedd1dd18a60c77de1ec142775ec7"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/spearhead/shiny.png"
+hash = "7ce89b8a6e635e947d7b64c264803f8214235696e925560a13e19e2f8c1f3322"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/single/head/trident/default.png"
+hash = "d8dee5b0028fc8f463cdcbb768fb48fae2937d35926c50ae0197205a639ef437"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/basic/crude.png"
+hash = "e84df2cbc701ad4d9142054ee5dcad1f9cb8d66ece6406260277cd3d7e1899e2"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/basic/grainy.png"
+hash = "94cdcdd177d2940ea68673a69c8d8f43a1f80553ac093c96d70144b4abf94b77"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/basic/improvements/hooked.png"
+hash = "5c5678cc6dfbb529bbc9548ddfc8d09d061638421109ff344d4eb0b3db1d9f2f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/basic/improvements/tempered.png"
+hash = "40a797a3970e3aa04df9269f11ea873ce6c957df974f7800113df87a33765337"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/basic/metal.png"
+hash = "a3183f0aef9614282d86a92fefd3caecaceeca6f35510f7380433c7f2f7de0bd"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/basic/shiny.png"
+hash = "59fab50a824b1b11c8fd3ea3b75246a0469fec929410f26ecec43b856621a2e3"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/heavy/crude.png"
+hash = "8191c4a46071e80b82af900132b3b8586e0c713486943952a46e691d3adae473"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/heavy/grainy.png"
+hash = "88b306360577d78199cdb6c170870379b9f9b53310dd56474098db36de3327fe"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/heavy/improvements/serrated.png"
+hash = "db87d24e679a6fee0e4a720890bcbf56f3739dbbd9036f205812335168f268d2"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/heavy/improvements/tempered.png"
+hash = "40a797a3970e3aa04df9269f11ea873ce6c957df974f7800113df87a33765337"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/heavy/metal.png"
+hash = "08f7a53a3b75ecfee4d644f743aa97ca74119b701252c2740ccb7b9bac8ea826"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/heavy/shiny.png"
+hash = "b7bc01429ec3eabbddc955c131877e9e49e86a971e5faa3c47cd41baf0cdc34c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/improvements/hooked.png"
+hash = "eea7507c006ab6609baed3acaab6ee6c4d4be4209fb49570a23ed54064ca4630"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/improvements/serrated.png"
+hash = "3301e7d369145d785272f691c6a58bf9493edcc4580e97ccf4abf2fc8106646d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/improvements/tempered.png"
+hash = "40a797a3970e3aa04df9269f11ea873ce6c957df974f7800113df87a33765337"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/machete/crude.png"
+hash = "fcba455c259523c9a17ec6c3905d1b9f2c1d76b8d7d462e4d0b52aca7c4e7659"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/machete/grainy.png"
+hash = "14c54a0d424a0e8babaa6d55628f645513cf78fc9568f0a2e65844c0208b4c47"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/machete/metal.png"
+hash = "83545783812efd52441a279b1c81a2842be736399da4f3a9ed5bc653eea3d278"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/machete/shiny.png"
+hash = "f1f7c04a5951739561169a4c6a1c6fcc27f627b6422a76f837f69c7c3208172f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/short/crude.png"
+hash = "dd5136393ec1f52beb3723e0d4b5cd49460fb0f1f08288c71bec537eeb4b40df"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/short/grainy.png"
+hash = "b474b1731a2c1551409a769a56bd2e86f8d568e44df3d6e4e5e39e3e4b3fdaae"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/short/metal.png"
+hash = "fceca263743968514ac8e87fb8b15206f142ef1d1d00f6b4eeea17808814987c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/short/shiny.png"
+hash = "1a4e5a3ccfc6f1a250dc7196ff6b5919159378b54f57f2bc72f395c3f7e29a78"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/stonecutter/default.png"
+hash = "de4c40c3b34198b7667591eb84968148246c132bea03b5e32deb40fa8be9c10d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/throwing_knife/crude.png"
+hash = "22dc0bedc455cb92d919164f4261970c5b8385b3021ad03198d35cbd3c0eab0a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/throwing_knife/grainy.png"
+hash = "a1be4a0f9054168c63c5c7187b1f5662933175c1de3ee4a4213e8779ec00ff14"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/throwing_knife/metal.png"
+hash = "8b4e95defe431a103e38d9177318dec7588a1dde6cbda20f2f298a80bc779883"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/blade/throwing_knife/shiny.png"
+hash = "4d2ab1730375b57a815bb680aae7b339ccfca745299d7836a6aef83ef3326163"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/fuller/howling/default.png"
+hash = "73a4c17b9b13aaac89ee66cc626144cd98a2bae6b89c6026ad950de093d9e8ea"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/fuller/reinforced_fuller/default.png"
+hash = "39b4feaa15168c6288df67833fed55036ace435cc7cc8026223d3155cc954583"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/binding/bolt.png"
+hash = "aedf13e574f0ae3f046a6f081e0ef0ca84a6f8ef84c0742450c21cb8e5a77d92"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/binding/default.png"
+hash = "5325a51d359613bb3d8dea9acac3979f9056ec921d177caf9758594d005701c4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/forefinger_ring/default.png"
+hash = "0b006007fdcd69bf1bc97742f93447fa78a0030a70ed3ec2e49b898385032cbe"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/makeshift_guard/default.png"
+hash = "55833250f813320931e3da92a0c5b809b806b194070f0fe3600e33a23d9ad8ee"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/makeshift_guard/shiny.png"
+hash = "9505339e45735d274387fd3f2d2d10682d93d4c2eb89a40b6865e86b54490d27"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/socket/default.png"
+hash = "070c410c27278511e048ffb15eaed5ad210fc45c3b9ef701c6e319a0af4842d4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/socket/pristine.png"
+hash = "6e8c5a1018f70cc261ebe6f744878abed38dbf6502def012ddc4b63d965aa290"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/sturdy_guard/crude.png"
+hash = "81bc20e29d5f6ff4cd93585acebc3d73a172820c0e811b2f8f9f6cfd06587b74"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/sturdy_guard/metal.png"
+hash = "bc152866484212b6dc479405807c2ac76db35de06cdf55f61684a806d3d27fc6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/sturdy_guard/shiny.png"
+hash = "24a1f5c5739f0861d5deb188835a40ccf662707baea651a0cc89bc1fe6167ffb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/wide_guard/crude.png"
+hash = "6fb903075d02bf430b8205b2eec2bf6a15579354030e064814f9e36f83195771"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/wide_guard/metal.png"
+hash = "87d499e37bea78dbb2e7a0b6f922f33d8a6bb7739234128dd5236aac1a0149eb"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/guard/wide_guard/shiny.png"
+hash = "9a7e3b7ae01dc478a120281b20717796bc0db1b8837d73ba0de5ce5c02d97b84"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/hilt/basic/bone.png"
+hash = "0a5b52a6f49fa6ecf22c1ac03e58ee8b9eb7a4fda33dee16d4103cc82b7e1248"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/hilt/basic/bright.png"
+hash = "888683934015899eb88aedd5ba7b097acbd3ce51d8ae14507e2ea5588a50cb17"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/hilt/basic/default.png"
+hash = "87e8ac6b1dea94444833fadcb44510d2659ec4231b5179aa0f4782085488c726"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/hilt/basic/improvements/soot.png"
+hash = "656b5b9ccf29050eb37b440596ed55f42f2ee3045eea720df1bcc502c5d25791"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/hilt/basic/improvements/wrap.png"
+hash = "5972e3ca8bdc01e737409e9f61e27089a6d3fff9685fa15a2dd5db3fbf0eda21"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/hilt/basic/improvements/wrap_alt.png"
+hash = "8f876fed21ed46f2d15edfd937934d047c529b2eb792c92f2ea554b151e09175"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/pommel/counterweight/default.png"
+hash = "d265637b7a985c058b3bbafd0d8f9b68d89ff90de7db82e377ba26190fc62b94"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/pommel/decorative_pommel/default.png"
+hash = "e19c276bbdaa07e1aaeee71d4ddbf97290952f1cbdddb6591be806f95cbff423"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/pommel/grip_loop/default.png"
+hash = "ea846bbdfa7b6fbecc28b8e9e76d890b7f61ae417fa359a8138bde777b486d79"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/sword/pommel/pristine.png"
+hash = "da1bf8e6fbbf57c6ccef24f6f0b9b2a5e9f6251084fe329cc213862b48bd5767"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/toolbelt/belt/buckled.png"
+hash = "2e41cb65dd2136d3c1a37db6413cea9739c7a0fbf35a9499b3886c0b0f062a71"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/toolbelt/belt/inlaid.png"
+hash = "83a3a0be1b0d2ea685bb7e8e59a5edc8a836edef234c122a1e054aff90664f18"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/toolbelt/belt/leather.png"
+hash = "f7afee56a97e1c0ce368a4b20fc7931eb3e88848e6aa87a8d04660170619680b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/toolbelt/belt/rope.png"
+hash = "7936bda3e4fc1cdb00b58705459d0e513f038221212d34261a1113453a57c534"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/module/toolbelt/belt/sash.png"
+hash = "c44a63ccd77b76ecc71a754d50b9512fcd4df82dd6490e73380235bb8bb6e2d6"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/log_left.png"
+hash = "7502d3c92fe7a1fdcc0ccf54d22f4f42697c1089cc921410d6d95ab104db5e9e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/log_right.png"
+hash = "7902dbfe593c577dd1a9565f7f319807707231202eb324178936fb7d837610fa"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/metal_left.png"
+hash = "e4af5a464f893e0edc90f529469c9a2020529f2d8086aa0c9bbb459664fe6c44"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/metal_right.png"
+hash = "09de405de09720565418c275294fb9e711119a6b2ee47edf7a78b5de055c4e50"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/obsidian_left.png"
+hash = "d97e77ad50b183d0956aa752041dc712772b98082c21bac5c9163a3d3bc858b2"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/obsidian_right.png"
+hash = "61cdc75335614695fa8fec03f3ec87bcc58b6a84e0bdc7c92f33f368835863fe"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/stone_left.png"
+hash = "01acd08e23e804bd16b8a4706ba15653696fb164982df136931ea68eb6953ed4"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/stone_right.png"
+hash = "15ee4305e08a23bfc8fd70964b724b4569930a066d5df12d2966ff75d872897d"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/warforged_left.png"
+hash = "6ddfff2d994027d2d474a4e1006ce4b3006eea76e25d087f1771781602be6655"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/double/head/basic_hammer/warforged_right.png"
+hash = "e8b0c066a283dc54f1343b040117b3dcd1ff7b868b878a93d6bb81ddbe6a0662"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/modules/holo/frame/default.png"
+hash = "abf5b6fd9f2e9b2851dc4fe1de723a09e5353df7014ed2dabafb6bc4a510b07b"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/planar_stabilizer.png"
+hash = "66be1b54e7de311c7888a748e8b97f07134e384518306194327c2f72b6bee932"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/pristine_lapis.png"
+hash = "9c2d7cdb663939ec3f1be1aac2476445653d6f8e8f956761df399bcd8ad25498"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/pristine_lapis.png.mcmeta"
+hash = "8185112bd086566b01181986db35cea54132746fe648158b191903a3a4c2df4e"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/quick_latch.png"
+hash = "5e0c392d40abe9469af66f35c7a2a4ed5d87f0cddf3544ce3db4a51d2e5e72be"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/reverberating_pearl.png"
+hash = "690499f7babcc19d6e89ed5ff5dd5e45b0c0663fec55b354d108dc801c7784fc"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/stonecutter.png"
+hash = "af8cde726041858c3278818a102242d5e18386eda6899d1c3cfd33f9eb9cf2b9"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetra/textures/item/vent_plate.png"
+hash = "3e2da7f89853307d18b94635d66ac63184c09c7a0f89ff37cb975dde1e0614d5"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetracelium/textures/item/module/sword/blade/knife/crude.png"
+hash = "7432db0f4fa2d93e9223098dacfaa92dd5fe1201b931633d8c1ae7b9eaeb655a"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetracelium/textures/item/module/sword/blade/knife/metal.png"
+hash = "d5b796f4591fa693ed30debc063e6d7400c7796781271eed31832895d8334f7c"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/assets/tetracelium/textures/item/module/sword/blade/knife/shiny.png"
+hash = "8f75e3402d9f87fbf8f37760dd3c838daa981a46815ef2b97dcb3a1dda47e3ca"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/pack.mcmeta"
+hash = "f1ca226ccbf7dbb19bd6f743d0b5f6fe9e1b8d8e9d68e07d4d7d754e1e63aa7f"
+
+[[files]]
+file = "thingpacks/tetra-overhaul/pack.png"
+hash = "93eed47f36514a406bc10461c43533d4960d441fc26191559d59dc2d5cb77fdc"
+
+[[files]]
 file = "unsup.ini"
 hash = "723cdff084b8797410dbcbf721707448578b934f158d9171ef10b832e5834304"
