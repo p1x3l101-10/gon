@@ -4717,10 +4717,6 @@ file = "config/maid_storage_manager-generating.toml"
 hash = "5422a654c8a7756a70d79a5375525942099ea20e424c029e3161ad75674c6143"
 
 [[files]]
-file = "config/maid_useful_task-common.toml"
-hash = "b6eb98066d61e03ea22e9ef2815cde07f00f4e44dce85df738e4d46e012a257e"
-
-[[files]]
 file = "config/maidsoulkitchen-common.toml"
 hash = "557aa8a0afae40f9e05643ea898f3accfd546a70b42f0aae17a38d8afc03366e"
 
@@ -5510,11 +5506,6 @@ metafile = true
 [[files]]
 file = "mods/maid-storage-manager.pw.toml"
 hash = "3a2a156c2721f290131585badaf1be628d1c1b05e9a316d29abcbcb7488ee495"
-metafile = true
-
-[[files]]
-file = "mods/maid-useful-tasks.pw.toml"
-hash = "30fc328246e3b50e0057ae86d852c9a8c69ab8e8a461d6d4bf67f69ace36574f"
 metafile = true
 
 [[files]]
