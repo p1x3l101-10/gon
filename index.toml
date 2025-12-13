@@ -4289,6 +4289,10 @@ file = "config/deeperdarker-common.toml"
 hash = "456c664072bff23a9d6a45a571d6a09f4b4be2c0ad0423281894d836a4f679a7"
 
 [[files]]
+file = "config/diligentstalker-common.toml"
+hash = "2f9af9781110ce5cacbeee34a27ab36ea07afdc3c945146f6b2c9856615d99d6"
+
+[[files]]
 file = "config/dmnr-common.toml"
 hash = "221f3b18676f580af623541dbe190651a56157afcb7ba2c3a554be58fe8e8d61"
 
@@ -4299,6 +4303,10 @@ hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
 [[files]]
 file = "config/dynamiccrosshair.json5"
 hash = "072f28e1507d1cb2b952abc811256ea1113c6fd47dee97e7dbb6206f5422e740"
+
+[[files]]
+file = "config/eccentrictome-common.toml"
+hash = "d5180847dea61419d4c046515c808edf8f9d3477ceaec7e7be8810ed53f8136e"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -4429,8 +4437,24 @@ file = "config/forgeendertech/Biomes/immersiveweapons$deadmans_desert.cfg"
 hash = "1383faa7a4de551fe1a8e958df437fd8e28b9d97b75c9f571f144fd2ca681cb6"
 
 [[files]]
+file = "config/forgeendertech/Biomes/immersiveweapons$starlight_plains.cfg"
+hash = "8ec5d40aa068bc11c3ce39fea3c314ea031d73f14eda8f24252a74c9d678acbf"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$desert.cfg"
+hash = "a29cb5ba7e6510c85fb3e41bb217771cd2c75d8042fd5e2f77f4ed8d0f70240b"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$flower_forest.cfg"
 hash = "49278d3f6b3b0360c1901bd4615ad2e914827f6d9c95a428c7eaad03bd2a8d4f"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$forest.cfg"
+hash = "baea917a8267e07c303cd2e1c8ec6ce8e9d34fb20ea70451e71ede13ff5bbafb"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$grove.cfg"
+hash = "88fec35fb1eab6cd5a99a66570f416e2d5a85ae7df09d35b9f0ec9a06458d7ab"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
@@ -4445,6 +4469,10 @@ file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "889986622c92c7f763934e3ed388691557ef959fb2722992b335d00701a2185a"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$river.cfg"
+hash = "fff0ecc6b1510c949bf80ba142bf2033638c9b1ccd8d5511a40563a03525d5a0"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$savanna.cfg"
 hash = "ad70da99a2fee045a8d3648c0b86d7f8fc6897346c789adc8b60ec8371cb84c5"
 
@@ -4455,6 +4483,10 @@ hash = "aa722a7388a8bc6cb80fc0fb86352512305959c54104dab950d32cb347631808"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$swamp.cfg"
 hash = "9ca12ff20e26f26cab375513d0ab45af3d4d49b941b199408a377cb8006706b4"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$warped_forest.cfg"
+hash = "c07eb86a09474e7ac2eb2161996bd6217ebcd24606de22b786ed1364b3463fe8"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$windswept_forest.cfg"
@@ -4589,8 +4621,60 @@ file = "config/jeb-common.toml"
 hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
 
 [[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "60753dd63351a95e0f6d71dba2b189ceadd95d88c52ba2caa21f4716faa2d989"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "3f3321786a57d012a9668f4fbc6d0df47e2c8eaae5afafd7537d9b9c619554c3"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "34588df52d85317d1678a70c5bcfd905833cc7eb3b6077c500789fd2248998d5"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "30ffef1681a9b0255e65a756406f85b1cca8b0bb3c0fab357c2727e325401bd0"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "44e73ad4423c5bf0381da8e934861ac552cca4a12d4a007801cacf6eb85d12e9"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "0c9d87d31384d21f77d7a0d649599d4104d5ed52003c024a0b7f5fbc92e9ae42"
+
+[[files]]
+file = "config/jei/world/local/New_World/bookmarks.ini"
+hash = "974fabe3e80745a05629b7451492533e01f4d7972b62a6f445d2267b20f86166"
+
+[[files]]
+file = "config/jei/world/local/New_World/lookupHistory.ini"
+hash = "f6dba56078529c66513129d787451ce95c53b34bb3beb3498a39e908e18f5c60"
+
+[[files]]
 file = "config/jsonem.toml"
 hash = "dd17dbcedcf83dde0a997f43283c50995f2751a07021ba864ebb288b8c646607"
+
+[[files]]
+file = "config/kawaii-dishes-common.toml"
+hash = "28662b94715e0177ac81e48dbf3b88cac509cffb257e2628f63f27319e4ecdd6"
+
+[[files]]
+file = "config/kitchenkarrot-client.toml"
+hash = "6df9b9c70c7f0341f190f56ccddedd3e363d6260bd983e82d16b2808ade9c451"
+
+[[files]]
+file = "config/kitchenkarrot-common.toml"
+hash = "5181e405bd0c162c45bf95d8aaaa46ddb8d1caa8e58562c28853e6422a00b451"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -4619,6 +4703,26 @@ hash = "5506866b81ff87cc3dc48c1a46bfd79a493a40c7db006f4ef9b8749d1f8d8716"
 [[files]]
 file = "config/mahoutsukai-client.toml"
 hash = "8afbeb48cf77bda81a5aceeef89aae3594463735c5f9a64105d9d864e369f415"
+
+[[files]]
+file = "config/maid_beside-common.toml"
+hash = "76f8193e5c50c1699f865a92533cdeb1e4a664a05ef1eb5439a67e80f6132b85"
+
+[[files]]
+file = "config/maid_storage_manager-common.toml"
+hash = "d030f89eadd1aaad5b5f1330577597253bd13e51087e22f2841118d348309a86"
+
+[[files]]
+file = "config/maid_storage_manager-generating.toml"
+hash = "5422a654c8a7756a70d79a5375525942099ea20e424c029e3161ad75674c6143"
+
+[[files]]
+file = "config/maid_useful_task-common.toml"
+hash = "ff9644a598c22931237d5e5a0c39e649c88a45e1834a14aae2a57d12e6b1aa92"
+
+[[files]]
+file = "config/maidsoulkitchen-common.toml"
+hash = "557aa8a0afae40f9e05643ea898f3accfd546a70b42f0aae17a38d8afc03366e"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -4679,6 +4783,22 @@ hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
 [[files]]
 file = "config/paucal-common.toml"
 hash = "92239ac1c2e4cc5572dfea32b54fad5f3ca13f3ec2886c37b40bd0b7aa80f2a5"
+
+[[files]]
+file = "config/pingwheel.json"
+hash = "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea"
+
+[[files]]
+file = "config/pingwheel.server.json"
+hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
+
+[[files]]
+file = "config/playerrevive-client.json"
+hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
+
+[[files]]
+file = "config/playerrevive.json"
+hash = "7bb3ce3720fd4c2f723e0800ffade9b6bb53d5646f7b357324690e42c4e759cc"
 
 [[files]]
 file = "config/pregxxy/client.toml"
@@ -4745,8 +4865,20 @@ file = "config/stellarview-client.toml"
 hash = "0d39719deb2f2b2b29b60745c82806fd62d4024fb07b619a4a60f129732050f2"
 
 [[files]]
+file = "config/superbwarfare-client.toml"
+hash = "032595f1982203bea6238de755933a9c865d1ec987c7c312b57313f97696b5c2"
+
+[[files]]
+file = "config/superbwarfare-common.toml"
+hash = "5b9b5f5e3bbc8efd0c4d101077bb7a9014a2d94eda95b43d8293ecd263defa5a"
+
+[[files]]
 file = "config/surveyor.toml"
 hash = "0112a38b153d64324793ad07532a112d5207e62255e22c1db175d5786b569b00"
+
+[[files]]
+file = "config/telepathicmaid-common.toml"
+hash = "2f9af9781110ce5cacbeee34a27ab36ea07afdc3c945146f6b2c9856615d99d6"
 
 [[files]]
 file = "config/terrablender.toml"

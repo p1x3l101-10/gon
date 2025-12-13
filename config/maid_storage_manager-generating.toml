@@ -1,0 +1,63 @@
+
+[maid_storage_manager]
+
+	[maid_storage_manager.craft]
+		enable = true
+
+	[maid_storage_manager.smithing]
+		enable = true
+
+	[maid_storage_manager.furnace]
+		enable = true
+
+	[maid_storage_manager.stone_cutting]
+		enable = true
+
+	[maid_storage_manager.altar]
+		enable = true
+
+	[maid_storage_manager.brewing]
+		enable = true
+		count = 3
+
+	[maid_storage_manager.watering]
+		enable = true
+		bucket = true
+		bottle = true
+
+	[maid_storage_manager.stripping]
+		enable = true
+
+[ae2]
+
+	[ae2.inscriber]
+		enable = true
+
+	[ae2.charger]
+		enable = true
+
+	[ae2.item_transform]
+		enable = true
+
+[maidsoulkitchen_kitchenkarrot]
+
+	[maidsoulkitchen_kitchenkarrot.plate]
+		enable = true
+
+	[maidsoulkitchen_kitchenkarrot.brewing_barrel]
+		enable = true
+
+	[maidsoulkitchen_kitchenkarrot.air_compressing]
+		enable = true
+
+[maidsoulkitchen_maidsoulkitchen]
+
+	[maidsoulkitchen_maidsoulkitchen.consume_water_from_single]
+		enable = true
+
+	[maidsoulkitchen_maidsoulkitchen.consume_water_from_multi]
+		enable = true
+
+	[maidsoulkitchen_maidsoulkitchen.item_use]
+		enable = true
+

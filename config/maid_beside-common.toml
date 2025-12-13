@@ -1,0 +1,11 @@
+
+[maid]
+	#Recognition distance of a maid under the drive task(0-512)
+	#Range: 0 ~ 512
+	MaidDriveShootDistance = 128
+	#Ping distance for search maids near the player(0-512)
+	#Range: 0 ~ 512
+	MaidSearchDistance = 96
+	#Debug log output
+	MaidBesideDebug = false
+
