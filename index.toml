@@ -5035,7 +5035,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-world-loading-forge.pw.toml"
-hash = "8771b483e256a524a869a0e2f26b5312fb744b88039f9d8938f36df5b46f71ab"
+hash = "d2ac7f78e4b1b222e4aa77696cb9e91eaefd313775e9ba7bd4829883744ba08d"
 metafile = true
 
 [[files]]
