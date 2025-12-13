@@ -1,0 +1,13 @@
+name = "Maid Beside"
+filename = "Maid Beside-1.20.1-1.0.3fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bbab1b6495770e1570ea38adbf7a8576b280b53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6999768
+project-id = 1337124

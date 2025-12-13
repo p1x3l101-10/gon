@@ -1,0 +1,13 @@
+name = "Maidsoul Kitchen"
+filename = "maidsoulkitchen-1.20.1-alpha-v0.3.0.9-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5ZXy0QB/versions/XNPa4Ah4/maidsoulkitchen-1.20.1-alpha-v0.3.0.9-all.jar"
+hash-format = "sha512"
+hash = "80ec1389f2239a1c3c02ea4767e67abba4525e094c4deb2aea3636ae9e0af360bf240e8c4e535f78b5e2646843c975af157723fc559d8140f7b4604b38c0546c"
+
+[update]
+[update.modrinth]
+mod-id = "Q5ZXy0QB"
+version = "XNPa4Ah4"

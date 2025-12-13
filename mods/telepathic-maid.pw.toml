@@ -1,0 +1,13 @@
+name = "Telepathic Maid"
+filename = "telepathicmaid-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjStJ7oX/versions/ATkcFMv5/telepathicmaid-1.0.3.jar"
+hash-format = "sha512"
+hash = "344f5b8cd0e96d0bf26e9eb79a3066a410f8565992262749553346059a39fbbada9e9847af384552a0443bf98db1bbc6209bdd0fa42fb046b68ef8a25a6a3c60"
+
+[update]
+[update.modrinth]
+mod-id = "kjStJ7oX"
+version = "ATkcFMv5"

@@ -5011,6 +5011,11 @@ hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "ff55f6dd98968c446e32885ec0eae66ee882071f8a4efbf1486e57590778b2eb"
 metafile = true
@@ -5023,6 +5028,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7b3044ef21dbf2e5b085462468d93bb6613fb223996d1b524ca52fd18c2c9ac8"
+metafile = true
+
+[[files]]
+file = "mods/diligentstalker.pw.toml"
+hash = "6097047e0d534f652e994cedc57fb2c897ed574d87be85510e9e0a8dfcfc6831"
 metafile = true
 
 [[files]]
@@ -5312,6 +5322,16 @@ hash = "281e34b04d2a7e54c63e3402980d83cdc21594a26187feb3a1db29b21ea662df"
 metafile = true
 
 [[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "1aaac7a8428445f01423ec88213bc17734861fcb1de3ffba082b499ef8a0b196"
+metafile = true
+
+[[files]]
+file = "mods/kitchen-karrot.pw.toml"
+hash = "9e1e92c4f98e6b42e3e4cc34cea64fb4e8a0e336ee6edfb4d980aba8994ac6fe"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
@@ -5348,6 +5368,26 @@ metafile = true
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "61e7103b6d25aaf029197082b08afb2cbd8c992931e651bb68ac92418e34ae89"
+metafile = true
+
+[[files]]
+file = "mods/maid-beside.pw.toml"
+hash = "1d93602f36bf19e72e349dcb36ff1d84f8f2e69479591ee7648ed5cf399df2a1"
+metafile = true
+
+[[files]]
+file = "mods/maid-storage-manager.pw.toml"
+hash = "430fb497a5b543518f0b81d996b8c07deeb68a4edb45748eba4aa8c9194d4b10"
+metafile = true
+
+[[files]]
+file = "mods/maid-useful-tasks.pw.toml"
+hash = "9f7728935be5bbc9c15bd79c45b0d3a82d62c265cc821cb47ea512352bb0e5c5"
+metafile = true
+
+[[files]]
+file = "mods/maidsoul-kitchen.pw.toml"
+hash = "cc26a4c5c1de58a98a6be8c42c0544debda1be23bba19c7c1b3ab040496406c6"
 metafile = true
 
 [[files]]
@@ -5464,8 +5504,18 @@ file = "mods/phlexiful-fabric-1.0.0.jar"
 hash = "83608862145450a67aa88b79cde5d727e465895a50fe49d0874636f3d2bcb5c0"
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "fe8342bd1024514a4e2280fb05ef6bdfc0c858555c55fd0c68ce4916c6285c8c"
+metafile = true
+
+[[files]]
 file = "mods/plant-string-mod.pw.toml"
 hash = "d91407aac4df028555507f6b0dc1cfa709a526ef77e8cbe499310ea3f936543f"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "0e4e32a1b974218110ad20c2545e57e748979dbc7b0e4981d474a6386b898c05"
 metafile = true
 
 [[files]]
@@ -5548,6 +5598,16 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "09f2ebfd09f4237b14c27a6df53485fa55ee691344f1b0c006ac0e4de1cd7d2d"
+metafile = true
+
+[[files]]
+file = "mods/superb-warfare.pw.toml"
+hash = "318508586bcc781c6405b1c64f22612840aeb00a0148e5d6d4320553756736be"
+metafile = true
+
+[[files]]
+file = "mods/telepathic-maid.pw.toml"
+hash = "303444820655bac8820145db3505f44d6ae3d488dff15937b162d373a580705b"
 metafile = true
 
 [[files]]
