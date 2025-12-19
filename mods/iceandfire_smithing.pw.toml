@@ -1,0 +1,13 @@
+name = "Ice And Fire Smithing"
+filename = "iceandfire_smithing-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xGg3Zcsk/versions/TnXzesNd/iceandfire_smithing-1.20.1.jar"
+hash-format = "sha512"
+hash = "aeee814bc5cf049a467953b1463e4794cb42f8c083a4ba7ec83ce3caf49aa3ccf83733d566bb815b9c188b219a8f88f686c7a42a45159b2605ed8e2a7d9efbae"
+
+[update]
+[update.modrinth]
+mod-id = "xGg3Zcsk"
+version = "TnXzesNd"

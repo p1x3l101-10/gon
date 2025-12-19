@@ -5185,6 +5185,11 @@ hash = "ef6e515f8b7b22a8919fe8a369de53d04197feeb09e55a49bf15d5d6b8d7de77"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "0954e926e3e48a9361d6e6cbf5b8d20708ee1b41cff8a10aa287535fadee0e31"
 metafile = true
@@ -5332,6 +5337,11 @@ hash = "aa6dd39469608b2eb82239bebcd36f96f5d7dcecfbbb976417c26c066e86a55e"
 metafile = true
 
 [[files]]
+file = "mods/eyes-of-ice-and-fire.pw.toml"
+hash = "1edffbdc2d1e55ffd273e76d2074e044cb4694a15de40d8bf47e567fc2108d26"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
@@ -5452,6 +5462,16 @@ metafile = true
 [[files]]
 file = "mods/hierophantics.pw.toml"
 hash = "7e8bf390d37f23382a25e270d074129ba8c5d8af874e46bf596c714433028a7c"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
+metafile = true
+
+[[files]]
+file = "mods/iceandfire_smithing.pw.toml"
+hash = "71ca7f621c3c7f8f8aa70af04131a29389d2e4d2b6882f13fde76aa297df0954"
 metafile = true
 
 [[files]]
@@ -5636,6 +5656,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "f5bb9435c5c687bba0a52c8ce13a0c5590f48d2cfe88745f38d2d0226f237849"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "fc09447db9efb9f9ec998ce84cf11edfd089a2515a300e45fd06e607aabc051a"
 metafile = true
 
 [[files]]
