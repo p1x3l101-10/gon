@@ -5897,6 +5897,18 @@ file = "thingpacks/fix-recipes/pack.mcmeta"
 hash = "fef6f6bd91e9a3fc6a76142120b19d7741c7272831221918d31bf87427b34c52"
 
 [[files]]
+file = "thingpacks/hide-botania/data/botania/worldgen/placed_feature/mystical_flowers.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "thingpacks/hide-botania/data/botania/worldgen/placed_feature/mystical_mushrooms.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "thingpacks/hide-botania/pack.mcmeta"
+hash = "d837e767b3a442f7760ed9db56e5ecd1ad8bb9633b457cc1c28382d164cdc65c"
+
+[[files]]
 file = "thingpacks/kubemusic/assets/kubemusic/lang/en_us.json"
 hash = "48076b86493c580e7b247754c8e2a30a0c069dd097e3689b739a09062c31aa33"
 
