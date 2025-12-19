@@ -5499,11 +5499,6 @@ hash = "4873f24c6a0a3ea5c7a57afbe3cf133c913e00c0508200fa5b62539b159eb507"
 metafile = true
 
 [[files]]
-file = "mods/maid-beside.pw.toml"
-hash = "5a3f3b927a0d3db3d77c491b00e36b28b573a390283397b7df795e93c8ecfb6d"
-metafile = true
-
-[[files]]
 file = "mods/maid-storage-manager.pw.toml"
 hash = "3a2a156c2721f290131585badaf1be628d1c1b05e9a316d29abcbcb7488ee495"
 metafile = true
@@ -5731,11 +5726,6 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "09f2ebfd09f4237b14c27a6df53485fa55ee691344f1b0c006ac0e4de1cd7d2d"
-metafile = true
-
-[[files]]
-file = "mods/superb-warfare.pw.toml"
-hash = "6a45b2d7935fe04f75f919441154c0a3faba2811660d6260098cdfc07906296a"
 metafile = true
 
 [[files]]
