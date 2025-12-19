@@ -1,0 +1,8 @@
+{
+	"name": "item.wishingfountain.name",
+	"landing_text": "wishingfountain.landing",
+	"version": 1,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "use_resource_pack": true,
+  "i18n": true
+}

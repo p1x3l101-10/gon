@@ -7353,5 +7353,25 @@ file = "thingpacks/tetra-overhaul/pack.png"
 hash = "93eed47f36514a406bc10461c43533d4960d441fc26191559d59dc2d5cb77fdc"
 
 [[files]]
+file = "thingpacks/wishingfountain/assets/wishingfountain/lang/en_us.json"
+hash = "73a19ba2c7fc8405a2a48550111a44e6e6b8f53756afb74c4ca466c6928b1372"
+
+[[files]]
+file = "thingpacks/wishingfountain/assets/wishingfountain/patchouli_books/wishingfountain/en_us/categories/test_category.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "thingpacks/wishingfountain/assets/wishingfountain/patchouli_books/wishingfountain/en_us/entries/test/test_entry.json"
+hash = "77e49ab73e1b4caddb0716acfc4bd84058060651ab03dc38f5028916e099b49e"
+
+[[files]]
+file = "thingpacks/wishingfountain/data/wishingfountain/patchouli_books/wishingfountain/book.json"
+hash = "09a26d0c4ef4b5c0b1da6f0107d5c5414fbe474691292618f14d4404e1a81c2b"
+
+[[files]]
+file = "thingpacks/wishingfountain/pack.mcmeta"
+hash = "645fb92abfcffb8113ba6358754183e129089463025b740c712eb0a63b3e8126"
+
+[[files]]
 file = "unsup.ini"
 hash = "723cdff084b8797410dbcbf721707448578b934f158d9171ef10b832e5834304"
