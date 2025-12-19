@@ -5055,6 +5055,11 @@ hash = "816ab9f1ed9517636957527fd67157311475a369157302d4f408683d30e349a0"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "450686274e074a0caa8adb5ae1a740abb37126cbe02df4a7aa29b54532c0aa79"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "e8c215f7d8aedb6e81efdf2ca61b1d964c52c367ff5a7682ae06f00fc08ea6f7"
 metafile = true
@@ -5234,6 +5239,11 @@ metafile = true
 [[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
 hash = "00f9f5c8c9b811a4b46dabcd9e07a8afcec7d729b2aae30e7c2261b9b2090d79"
+metafile = true
+
+[[files]]
+file = "mods/extrabotany.pw.toml"
+hash = "aa6dd39469608b2eb82239bebcd36f96f5d7dcecfbbb976417c26c066e86a55e"
 metafile = true
 
 [[files]]
@@ -5430,11 +5440,6 @@ hash = "c709e0485e2fcd2ca7aa813b408a7a405c21aa5405a6f36dcd61b504d4e06c2f"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
-metafile = true
-
-[[files]]
 file = "mods/json-things.pw.toml"
 hash = "94704d13b185cde4ae90abac05b5871f922bb0aa2436ab3bc219a4c0672551ff"
 metafile = true
@@ -5574,6 +5579,16 @@ hash = "7ceff8f628f25583c10c5bf7223ce4088cffc7c36581d330ad6f3b662556a7eb"
 metafile = true
 
 [[files]]
+file = "mods/mythicbotany.pw.toml"
+hash = "5a73062be3919a4efa0f8386c8b9f08f0fbcccc035070a01949007beb5bdc83b"
+metafile = true
+
+[[files]]
+file = "mods/natures-aura.pw.toml"
+hash = "85fc988854acaf38f769694ebfafa7a557f5a8c6343990850a8c0d13f3e3e95c"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
@@ -5614,7 +5629,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "4c4b0d7e73e0ed0d09d7486d217e5ec81298703eb1413ba0304072f6bc59ad37"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
