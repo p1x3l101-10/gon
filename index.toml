@@ -5897,12 +5897,12 @@ file = "thingpacks/fix-recipes/pack.mcmeta"
 hash = "fef6f6bd91e9a3fc6a76142120b19d7741c7272831221918d31bf87427b34c52"
 
 [[files]]
-file = "thingpacks/hide-botania/data/botania/worldgen/placed_feature/mystical_flowers.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+file = "thingpacks/hide-botania/data/botania/tags/worldgen/biome/mystical_flower_spawnlist.json"
+hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
 
 [[files]]
-file = "thingpacks/hide-botania/data/botania/worldgen/placed_feature/mystical_mushrooms.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+file = "thingpacks/hide-botania/data/botania/tags/worldgen/biome/mystical_mushroom_spawnlist.json"
+hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
 
 [[files]]
 file = "thingpacks/hide-botania/pack.mcmeta"
