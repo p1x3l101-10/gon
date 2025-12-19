@@ -4654,7 +4654,7 @@ hash = "b1d1e3a0ae080395ee5e25e6b21e3e688d206b5f98cf31f572e8a347d1fde362"
 
 [[files]]
 file = "config/iceandfire-client.toml"
-hash = "159260e7a82ecd58ab0e08a6f5dd38960eacfcfbd456df8a19d5de433b2ce696"
+hash = "2951cb48c8ceb7c4ab70652af11efc6f7fdfa65237a718697c4282026cd5fa1e"
 
 [[files]]
 file = "config/iceandfire-common.toml"
@@ -6199,6 +6199,10 @@ hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
 [[files]]
 file = "thingpacks/hide-botania/data/botania/tags/worldgen/biome/mystical_mushroom_spawnlist.json"
 hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
+
+[[files]]
+file = "thingpacks/hide-botania/data/iceandfire/advancements/iceandfire/root.json"
+hash = "6d019f9c916b8caeefcf28aa1f6174382180155b9d33a5d115fd8e869b75ed23"
 
 [[files]]
 file = "thingpacks/hide-botania/pack.mcmeta"
