@@ -4241,6 +4241,58 @@ file = "config/betterworldloading20.json"
 hash = "f610df0d212f97241d8d80f3ca5186e517acc32fd750ca71d07ed8b410b3e727"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "caf4326714e8346389373a0631c2b9330fdc387681a6f470f968ae419d6af1f0"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "adfd4807ec76f843cc0bd174c1539555f2e6b6b58ff5c745bab7f80d04e4bfdf"
+
+[[files]]
+file = "config/bluemap/maps/world_ae2_spatial_storage.conf"
+hash = "22993e3512fb366fbc971e69196a5ac5c2638f7fa98e49809cc1f9ce6b3c3073"
+
+[[files]]
+file = "config/bluemap/maps/world_deeperdarker_otherside.conf"
+hash = "73481f3cd94d6e0102cde4d38bcad9435818d99c8a3f8d213c83cfc042a131e3"
+
+[[files]]
+file = "config/bluemap/maps/world_mahoutsukai_reality_marble.conf"
+hash = "ae5bd7469b350c42b1420e6d459bd4ee6a6c43706a590a6caa79bda7dcc7c147"
+
+[[files]]
+file = "config/bluemap/maps/world_mythicbotany_alfheim.conf"
+hash = "fbe67de366451476e91a9bf116e5ec70ca6c0498bab57323e4c87d4ef58320a9"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "012a3525734195e70c0f03a5d5acfaba9b2fc573a8f56af4cfa7d2d2f89da1bf"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "eec5daff50f2fb0310181cbae46ddb56a76febbe10eabfced474592476ea659a"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/blueprint-client.toml"
 hash = "bfcfb80974100b4371be80105488e537c066cd3651d35d977a91e158e23cad60"
 
