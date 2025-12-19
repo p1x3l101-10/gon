@@ -1,7 +1,7 @@
 {
-    "name": "Test entry",
-    "icon": "minecraft:writable_book",
-    "category": "patchouli:main_category",
+    "name": "Clear",
+    "icon": "minecraft:bucket",
+    "category": "patchouli:weather",
     "pages": [
         {
             "type": "patchouli:text",

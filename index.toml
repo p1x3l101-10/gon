@@ -5809,18 +5809,6 @@ hash = "78c06c2c3cdd7dbf1d19c91d2f41f10cba0c3a79b72de2588a95a11512532848"
 metafile = true
 
 [[files]]
-file = "patchouli_books/wishingfountain/book.json"
-hash = "1f8f3266714b557c97f27e9bca70f4e8c2e1265c0584c93b8a9b9c9d503c0659"
-
-[[files]]
-file = "patchouli_books/wishingfountain/en_us/categories/main_category.json"
-hash = "9911b792ecb88a3fe911a53b2edb5c218ca651d3f48dd571d18b1072ee14878c"
-
-[[files]]
-file = "patchouli_books/wishingfountain/en_us/entries/main/test_entry.json"
-hash = "c291deac37521956403ab0f39f1bb093f945dec2edc27aa7190780dd1cfce694"
-
-[[files]]
 file = "thingpacks/fix-recipes/data/lexicon/advancements/recipes/lexicon.json"
 hash = "8fb42f098bab870871f4d2387e85ae6707bd036c54b326149524d1b4848e62a4"
 

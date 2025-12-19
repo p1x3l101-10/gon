@@ -1,0 +1,36 @@
+{
+  "components": [
+    {
+      "type": "patchouli:image",
+      "image": "wishing_fountain:textures/gui/sea.png",
+      "width": 160,
+      "height": 125,
+      "texture_width": 160,
+      "texture_height": 125
+    },
+    {
+      "patchouli:item",
+      "x": 0,
+      "y": 0,
+      "item": "#input1"
+    },
+    {
+      "patchouli:item",
+      "x": 0,
+      "y": 0,
+      "item": "#input2"
+    },
+    {
+      "patchouli:item",
+      "x": 0,
+      "y": 0,
+      "item": "#input3"
+    },
+    {
+      "patchouli:item",
+      "x": 0,
+      "y": 0,
+      "item": "#input3"
+    }
+  ]
+}

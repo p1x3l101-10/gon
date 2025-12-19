@@ -3,6 +3,5 @@
 	"landing_text": "A small guide on how to make and use the Wishing Fountain",
 	"version": 1,
   "creative_tab": "minecraft:tools_and_utilities",
-  "pamphlet": true,
   "show_progress": false
 }

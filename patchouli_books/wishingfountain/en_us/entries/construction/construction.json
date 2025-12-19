@@ -1,0 +1,11 @@
+{
+    "name": "Construction",
+    "icon": "wishing_fountain:textures/gui/wishing_fountain_icon.png",
+    "category": "patchouli:construction",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Test text"
+        }
+    ]
+}
