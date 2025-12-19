@@ -5100,6 +5100,11 @@ hash = "4b537f8aa0cf4c25479b1045a6fa5f6e5be6dc868e8b898777b169bdde2af153"
 metafile = true
 
 [[files]]
+file = "mods/cheaper-maps.pw.toml"
+hash = "ef6e515f8b7b22a8919fe8a369de53d04197feeb09e55a49bf15d5d6b8d7de77"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "0954e926e3e48a9361d6e6cbf5b8d20708ee1b41cff8a10aa287535fadee0e31"
 metafile = true
@@ -5467,6 +5472,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7bfb891c32864c41b7ecda0730e61449324f2ea4e86689f72568e57d9e8395ec"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
 metafile = true
 
 [[files]]
