@@ -1405,6 +1405,26 @@ file = "config/adpother/Biomes/minecraft$wooded_badlands.cfg"
 hash = "4b625b6f5c32527a1d7f8d8d455961d0a9a04e7df54da402da365fa6f106f523"
 
 [[files]]
+file = "config/adpother/Biomes/mythicbotany$alfheim_hills.cfg"
+hash = "5e81d71c475200cb1fe4fef172edf4f53a27a7c1d640d9edccc9bd6c5e7786c1"
+
+[[files]]
+file = "config/adpother/Biomes/mythicbotany$alfheim_lakes.cfg"
+hash = "ebb4eac8d02dab3d757f4b3f0b1e307c398dd720f951ba80818383cd76da9855"
+
+[[files]]
+file = "config/adpother/Biomes/mythicbotany$alfheim_plains.cfg"
+hash = "cdd335be21199cdaf7fc423d3cffb9d4cfb71dcf5507fffa30f2dffdfb3481c7"
+
+[[files]]
+file = "config/adpother/Biomes/mythicbotany$dreamwood_forest.cfg"
+hash = "ecbbecfa2d84dc91c18a08633d64a7fd948eb49de052e8de162479a9526b6430"
+
+[[files]]
+file = "config/adpother/Biomes/mythicbotany$golden_fields.cfg"
+hash = "b9d31d25a735b5acf9106734a141f557cc390505014c2cdb3881bc80eadb2600"
+
+[[files]]
 file = "config/adpother/Biomes/tardis_refined$tardis.cfg"
 hash = "4d19f0ae634661bafbad761125160ac05e481492b5cce53ca3daa2bcc3e22f9e"
 
@@ -4229,6 +4249,14 @@ file = "config/blur-client.toml"
 hash = "6ab6714bad3c0cfc510332ce2624c6cbe9c9063cbc635511ee336e04d235f0dd"
 
 [[files]]
+file = "config/botania-client.toml"
+hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
+
+[[files]]
+file = "config/botania-common.toml"
+hash = "b305a87b0257f74008f155815f2d15c229002859d33828d453e64fbc172d7d77"
+
+[[files]]
 file = "config/brb.toml"
 hash = "099745a56f1cb0c0b8c2a8e46e0bf29586ec03066754c9cbdcfa0697ddc69bad"
 
@@ -4357,6 +4385,14 @@ file = "config/experimentalsettingsdisabler-client.toml"
 hash = "8bd61f7b0aaf5006922b82489f51717f2c9a39d8aca4b37894a19cb546024b85"
 
 [[files]]
+file = "config/extrabotany-client.toml"
+hash = "ed3cdd913b136866b5a19e894bb24c1436dbe117fa5228aeb72c00570d43ba64"
+
+[[files]]
+file = "config/extrabotany-common.toml"
+hash = "50375065ffc2be7d0d2d3366e9d993902b1ab33050ce656cb510c82b6bc61fa5"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "b7e21600e0762a23aedde6e5c52c0aa293dbf302c7ca454c7bc32e59a7c8123b"
 
@@ -4433,12 +4469,20 @@ file = "config/forgeendertech/Biomes/deeperdarker$echoing_forest.cfg"
 hash = "5dc935680c5a42985b6c15dd2d2f004b93b77934f71d1865ded08377687cd998"
 
 [[files]]
+file = "config/forgeendertech/Biomes/deeperdarker$overcast_columns.cfg"
+hash = "582879f48aba1726ee2a15e0d631f2eb74545edf4a8e75e1537eadcada2c43cb"
+
+[[files]]
 file = "config/forgeendertech/Biomes/immersiveweapons$deadmans_desert.cfg"
 hash = "1383faa7a4de551fe1a8e958df437fd8e28b9d97b75c9f571f144fd2ca681cb6"
 
 [[files]]
 file = "config/forgeendertech/Biomes/immersiveweapons$starlight_plains.cfg"
 hash = "8ec5d40aa068bc11c3ce39fea3c314ea031d73f14eda8f24252a74c9d678acbf"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$crimson_forest.cfg"
+hash = "622a6b6c3f375173d0e1aa0345a2e887c8350e49b1770cbff7e145e991db0b95"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$desert.cfg"
@@ -4465,6 +4509,10 @@ file = "config/forgeendertech/Biomes/minecraft$ocean.cfg"
 hash = "9c7c2cb4db28d427bcd9d05a597e5310acf3e438af02b8a6905ce0a5df004c51"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$old_growth_birch_forest.cfg"
+hash = "d5bee71b90718cce905fbcf4eb68e81bde2089d662e1ad2c8db9061cfa6a5bd6"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "889986622c92c7f763934e3ed388691557ef959fb2722992b335d00701a2185a"
 
@@ -4477,8 +4525,16 @@ file = "config/forgeendertech/Biomes/minecraft$savanna.cfg"
 hash = "ad70da99a2fee045a8d3648c0b86d7f8fc6897346c789adc8b60ec8371cb84c5"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
+hash = "5b7eb4d0b3154e2ef034d471caa776204214c4d06f1f0bc90d72d9e8e77a3c14"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$stony_peaks.cfg"
 hash = "aa722a7388a8bc6cb80fc0fb86352512305959c54104dab950d32cb347631808"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$stony_shore.cfg"
+hash = "9b85f9fe7d62fc31b92d9bad47462fba42466d8f8959a0a2b03c02a8722bacd6"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$swamp.cfg"
@@ -4491,6 +4547,10 @@ hash = "c07eb86a09474e7ac2eb2161996bd6217ebcd24606de22b786ed1364b3463fe8"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$windswept_forest.cfg"
 hash = "26292e15412193f0a6aa8e667ab44c05f9c3551abd606cdd315178dbeb44a4f9"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$windswept_savanna.cfg"
+hash = "b065e5aa2b0c22012aaae7c84ea3a812ee3f060afc5e17211a6d828ca10a6178"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
@@ -4761,6 +4821,18 @@ file = "config/mutil-client.toml"
 hash = "a37d1a85d7f36544d9d0171930e6a2f7202aa75a105d5596a6085a8078faeefb"
 
 [[files]]
+file = "config/mythicbotany-client.toml"
+hash = "49041c6e8ed19cf2e06b89986569e981a9c765df89d4c5c886b972cdb519a54c"
+
+[[files]]
+file = "config/mythicbotany.json5"
+hash = "a60fe155819ee2e9fbeeda25a7550d5a5fa39fab83e09116b098c7cfd5dfb9d3"
+
+[[files]]
+file = "config/naturesaura-common.toml"
+hash = "9c6d3dabf19f653e815aa0e125c0ab16f071fff6147e03acd7e9adfb67c1058b"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "254f67d1d2c394c8ba7a83faa5c3c349e39c73cc497f5dcc160c3ff671d3edcc"
 
@@ -4887,6 +4959,14 @@ hash = "2853025999a54fb2ab5a4ff5f331091cfcbc8921d34f1b7026ecaa2706e98271"
 [[files]]
 file = "config/touhou_little_maid-common.toml"
 hash = "df0facc79e33c570b4fc914edaf627bb9e04e9ce784302f09b76fdead5aaff33"
+
+[[files]]
+file = "config/touhou_little_maid/file/touhou_lostword_model_pack-1.0.2.zip"
+hash = "b910541bc4309c2781c0c91f80b4ab1d808a540e04fe91520fa42e7a4573e3c2"
+
+[[files]]
+file = "config/touhou_little_maid/file/yingbai_arknights_pack-1.0.6.zip"
+hash = "b4255ad6e73f94128610ee95804046def4bc529219045ca42a14f70c6b98e28c"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
