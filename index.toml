@@ -5490,11 +5490,6 @@ hash = "823fa4447bb149b61995c239a087848b48098f72885e137f99041fc5ed38d9cc"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weapons.pw.toml"
-hash = "91a932a4a91f867d92b4ac705b415249070de569ac6689e3a5a29dd1bbbf1ce5"
-metafile = true
-
-[[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "1499449107880ff7cf88629f93b5fefb45336bffacbece7c391d76e57b99de74"
 metafile = true
