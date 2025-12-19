@@ -4225,6 +4225,10 @@ file = "config/appleskin-client.toml"
 hash = "4f8278b45def834a2a6c03b9b2c29d821808bdb36e6be39abb4be38e81f863ae"
 
 [[files]]
+file = "config/arcaneadditions-server.toml"
+hash = "6ea8b38e2d969290072bb33662b08035ea4d9c0b727699a88484831339cb2a2c"
+
+[[files]]
 file = "config/attributefix.json"
 hash = "1e574b3455cc365a09fc63f7f0b880ea06af10524b9cd1e5c1d491c7e10c2685"
 
@@ -4461,6 +4465,10 @@ file = "config/forge-client.toml"
 hash = "c603b6f52f1e98a4e3d93d80c99e915e6655a52f6bce90ccaa65f303fa47a428"
 
 [[files]]
+file = "config/forge-server.toml"
+hash = "56196ac767c162f0c40e1d1bdcd088c94fd558302532927da36d57b96294f8f7"
+
+[[files]]
 file = "config/forgeendertech-common.toml"
 hash = "e3c7fbcf2865785d6dd5ec72b3db1abae3e7ba6376bd3aecc0472586ed21b6ad"
 
@@ -4585,12 +4593,20 @@ file = "config/hexal-client.toml"
 hash = "e43338d9c8588aaf4cc6f1871d67d196d9a563c86f48f3073d7cc5f8487e2290"
 
 [[files]]
+file = "config/hexal-server.toml"
+hash = "27257b4c5ac65817bc34952651850f01022c80f21e82c1897acf0582a88a8f81"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "ca18bdf6d08aac0f6664bb1e0406064aed8a4b688c1003a044bc49398b5f2ead"
 
 [[files]]
 file = "config/hexcasting-common.toml"
 hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
+
+[[files]]
+file = "config/hexcasting-server.toml"
+hash = "2fb59acbccf2fa56156e9483766ebceafd01cc91151337dfd86caceeae434bf1"
 
 [[files]]
 file = "config/hexstruction/client.toml"
@@ -4659,6 +4675,10 @@ hash = "4ba338d3672cd3e7054d90ea04bf1729918de73fb4ddd4a86e61edc48ec7ba67"
 [[files]]
 file = "config/immersivetechnology-common.toml"
 hash = "d1a1e5e383d536671b0ebc4e45d4ff2edfe07c95e6ba882af06b72f85357e458"
+
+[[files]]
+file = "config/immersivetechnology-server.toml"
+hash = "7e978850cb4df49acc03cf65b0d5f0781d88c58e13336f537cf92af30a9388d1"
 
 [[files]]
 file = "config/immersiveui.yaml"
@@ -4761,8 +4781,20 @@ file = "config/lexicon-client.toml"
 hash = "5506866b81ff87cc3dc48c1a46bfd79a493a40c7db006f4ef9b8749d1f8d8716"
 
 [[files]]
+file = "config/lexicon-server.toml"
+hash = "26482eadfcd10009509d6f5f6c6e5aa889285a251f49875a85b843c05b2ef161"
+
+[[files]]
+file = "config/magichem-server.toml"
+hash = "2f92f2c614f0b86eb49dc32473a603f26b8d0c68ebaee7357666c407aa4888f1"
+
+[[files]]
 file = "config/mahoutsukai-client.toml"
 hash = "8afbeb48cf77bda81a5aceeef89aae3594463735c5f9a64105d9d864e369f415"
+
+[[files]]
+file = "config/mahoutsukai-server.toml"
+hash = "01ab07a10bf25826ca3a16efa5b43900b9088b41bbf873ce7b4515930eb3d584"
 
 [[files]]
 file = "config/maid_beside-common.toml"
@@ -4797,6 +4829,14 @@ file = "config/mna-client.toml"
 hash = "abf79c7a6946f4503d01b665bd5337b9d1cec6e52f5987e88926c425fb411f9a"
 
 [[files]]
+file = "config/mna-general.toml"
+hash = "a3f897ac2a4463e9e39b35f9232ab281825de6785ca9cf42de3dfa23aca1c38c"
+
+[[files]]
+file = "config/mna-spells.toml"
+hash = "f3d176db4ee66c07ebdc5b4e1f80dbfeb2a97a93116ee40156cd1184f7ef75c3"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
@@ -4811,6 +4851,10 @@ hash = "f85ad76e43a673255d83bb837a72389a5a593877a04ce037a6c0c1d6c52fc898"
 [[files]]
 file = "config/moonlight-common.toml"
 hash = "f28173484cb81557cba16b36b87af8a4ca36592c7570f8e1a524cb453dd7d4fa"
+
+[[files]]
+file = "config/moreiotas-server.toml"
+hash = "afd64c205980e6d6f34f9662ac37705682e7955dafc1d154eb08737c438fcbbf"
 
 [[files]]
 file = "config/musicplayer-client.toml"
@@ -4877,12 +4921,20 @@ file = "config/pregxxy/server.toml"
 hash = "86db026a6eff1c090d363069db0536d0c3b6fda9bb239d32dfcd7ae4e280dab4"
 
 [[files]]
+file = "config/productivetrees-server.toml"
+hash = "3243d7c7d6f1e6c9e511c0d5f89077cf853c7b410b2113213ef6337d45a5d861"
+
+[[files]]
 file = "config/reactive-client.toml"
 hash = "f851e2d0c552475241a0b2efd41971b2facfae8af0bf8fce44662bdf776ed7f0"
 
 [[files]]
 file = "config/reactive-common.toml"
 hash = "7ff9219c6ddb5260bfb14e20ee2ad33cbaf259d462a17371af9ce66b98906a7b"
+
+[[files]]
+file = "config/reactive-server.toml"
+hash = "f3cd1c31c4739c007c924cde3dff960dd99ebb0e938b8b094f0f477f5dcbef36"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -4961,6 +5013,10 @@ file = "config/touhou_little_maid-common.toml"
 hash = "df0facc79e33c570b4fc914edaf627bb9e04e9ce784302f09b76fdead5aaff33"
 
 [[files]]
+file = "config/touhou_little_maid-server.toml"
+hash = "414cf8648e09cfdfa40d684527ec4a885e59f59c2f5b1079e588327e7c4b5c31"
+
+[[files]]
 file = "config/touhou_little_maid/file/touhou_lostword_model_pack-1.0.2.zip"
 hash = "b910541bc4309c2781c0c91f80b4ab1d808a540e04fe91520fa42e7a4573e3c2"
 
@@ -5011,6 +5067,10 @@ hash = "090cf77a65d58c12bc3e95d79f04a1f81f8859dd46cc66b82e92fcf2e2a995f1"
 [[files]]
 file = "config/voicechat-client.toml"
 hash = "366f0ef6b5ef068aa1e5ef636fa2ec723803b8bcf1b200f958ac99ec21edde72"
+
+[[files]]
+file = "config/voicechat-server.toml"
+hash = "546cc588bb021baca50efbbba84a488e7fa8d83948295923eb6f0182453d86a8"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"

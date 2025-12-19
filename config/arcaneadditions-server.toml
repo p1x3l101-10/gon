@@ -1,0 +1,90 @@
+
+[familiars]
+	#Familiar settings
+	#A list of entity types that can be bound as familiars.
+	familiars = ["minecraft:bat", "minecraft:cat", "minecraft:parrot", "minecraft:fox", "minecraft:rabbit", "minecraft:chicken", "minecraft:allay"]
+
+[polymorph]
+	#Polymorph settings
+	#If true, players will be able to cast spells while polymorphed.
+	allowSpellcastingWhilePolymorphed = false
+	#A list of polymorph tiers, each of which is a list of entity IDs and their corresponding polymorph spell IDs.
+	morphTiers = [["minecraft:cat", "minecraft:chicken", "minecraft:cow", "minecraft:donkey", "minecraft:fox", "minecraft:goat", "minecraft:horse", "minecraft:llama", "minecraft:mule", "minecraft:ocelot", "minecraft:panda", "minecraft:pig", "minecraft:rabbit", "minecraft:sheep", "minecraft:spider", "minecraft:wolf"], ["minecraft:axolotl", "minecraft:bat", "minecraft:bee", "minecraft:cave_spider", "minecraft:cod", "minecraft:dolphin", "minecraft:mooshroom", "minecraft:parrot", "minecraft:pufferfish", "minecraft:salmon", "minecraft:polar_bear", "minecraft:squid", "minecraft:tropical_fish", "minecraft:turtle"], ["minecraft:creeper", "minecraft:drowned", "minecraft:glow_squid", "minecraft:husk", "minecraft:iron_golem", "minecraft:piglin", "minecraft:ravager", "minecraft:silverfish", "minecraft:skeleton", "minecraft:skeleton_horse", "minecraft:slime", "minecraft:snow_golem", "minecraft:stray", "minecraft:strider", "minecraft:zombie", "minecraft:zombie_horse", "minecraft:zombified_piglin"], ["minecraft:blaze", "minecraft:enderman", "minecraft:endermite", "minecraft:ghast", "minecraft:giant", "minecraft:guardian", "minecraft:hoglin", "minecraft:magma_cube", "minecraft:phantom", "minecraft:piglin_brute", "minecraft:shulker", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:zoglin"]]
+
+[soulsearchers_lens]
+	#Soul Searcher's Lens settings
+	#An (optional) list of modifiers for specific creatures health values for determining the XP required to study that creature
+	creatureModifiers = ["minecraft:villager,1.5"]
+	#For every multiple of this number that a creature has in max health, the player must spend a level to progress their phylactery progress.
+	#Range: > 1
+	healthPerLevel = 20
+	#This setting determines how many blocks away the player can be as they continue to study their target.
+	#Range: 1 ~ 32
+	maxDistance = 5
+
+[familiar_ai]
+	#Familiar AI behavior settings
+	#Distance in blocks at which familiar ignores stay order if caster is hurt
+	#Range: 1.0 ~ 1024.0
+	stayDistanceThreshold = 144.0
+	#Random blocks offset when teleporting to caster
+	#Range: 1 ~ 10
+	teleportDistance = 3
+	#Maximum attempts to find safe teleport location
+	#Range: 1 ~ 50
+	teleportAttempts = 10
+	#Ticks between path recalculations
+	#Range: 1 ~ 100
+	pathRecalcDelay = 10
+	#Rotation speed when looking at caster
+	#Range: 1.0 ~ 45.0
+	lookAtSpeed = 10.0
+	#Minimum ticks between spell cast attempts
+	#Range: 1 ~ 100
+	spellCastAttemptCooldown = 20
+	#Mana to keep in reserve after casting
+	#Range: 0 ~ 100
+	spellMinimumManaBuffer = 10
+	#Ticks target must be visible before casting
+	#Range: 1 ~ 100
+	spellSightRequiredTime = 20
+	#Ticks before changing strafe direction
+	#Range: 1 ~ 100
+	spellStrafingRecalcTime = 20
+	#Chance to change strafe direction
+	#Range: 0.0 ~ 1.0
+	spellStrafingChance = 0.3
+	#Movement speed multiplier while strafing
+	#Range: 0.1 ~ 2.0
+	spellStrafingSpeed = 0.5
+	#Distance ratio to stop backing up
+	#Range: 0.1 ~ 1.0
+	spellStrafingBackwardThreshold = 0.75
+	#Distance ratio to start backing up
+	#Range: 0.1 ~ 1.0
+	spellStrafingForwardThreshold = 0.25
+	#Rotation speed when targeting for spells
+	#Range: 1.0 ~ 90.0
+	spellLookAtSpeed = 30.0
+	#Movement speed toward spell target
+	#Range: 0.1 ~ 3.0
+	spellNavigationSpeed = 1.0
+	#No-action ticks before wandering
+	#Range: 20 ~ 1000
+	wanderIdleThreshold = 100
+	#Horizontal blocks to search for wander target
+	#Range: 1 ~ 32
+	wanderSearchRadius = 10
+	#Vertical blocks to search for wander target
+	#Range: 1 ~ 16
+	wanderSearchHeight = 7
+	#Maximum attempts to find valid wander position
+	#Range: 1 ~ 50
+	wanderMaxAttempts = 10
+	#Mana cost per health point when familiar heals
+	#Range: 1.0 ~ 100.0
+	familiarHealingRate = 25.0
+	#Ticks between familiar healing attempts
+	#Range: 1 ~ 200
+	familiarHealingTickInterval = 20
+
