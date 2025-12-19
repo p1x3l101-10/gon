@@ -5810,7 +5810,15 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/wishingfountain/book.json"
-hash = "09a26d0c4ef4b5c0b1da6f0107d5c5414fbe474691292618f14d4404e1a81c2b"
+hash = "1f8f3266714b557c97f27e9bca70f4e8c2e1265c0584c93b8a9b9c9d503c0659"
+
+[[files]]
+file = "patchouli_books/wishingfountain/en_us/categories/main_category.json"
+hash = "9911b792ecb88a3fe911a53b2edb5c218ca651d3f48dd571d18b1072ee14878c"
+
+[[files]]
+file = "patchouli_books/wishingfountain/en_us/entries/main/test_entry.json"
+hash = "c291deac37521956403ab0f39f1bb093f945dec2edc27aa7190780dd1cfce694"
 
 [[files]]
 file = "thingpacks/fix-recipes/data/lexicon/advancements/recipes/lexicon.json"
@@ -7355,22 +7363,6 @@ hash = "f1ca226ccbf7dbb19bd6f743d0b5f6fe9e1b8d8e9d68e07d4d7d754e1e63aa7f"
 [[files]]
 file = "thingpacks/tetra-overhaul/pack.png"
 hash = "93eed47f36514a406bc10461c43533d4960d441fc26191559d59dc2d5cb77fdc"
-
-[[files]]
-file = "thingpacks/wishingfountain/assets/wishingfountain/lang/en_us.json"
-hash = "73a19ba2c7fc8405a2a48550111a44e6e6b8f53756afb74c4ca466c6928b1372"
-
-[[files]]
-file = "thingpacks/wishingfountain/assets/wishingfountain/patchouli_books/wishingfountain/en_us/categories/test_category.json"
-hash = "c4e7b18379bdf581b79a802d13e36e88012bf339b9e19259d1b504e0cb8af9d9"
-
-[[files]]
-file = "thingpacks/wishingfountain/assets/wishingfountain/patchouli_books/wishingfountain/en_us/entries/test/test_entry.json"
-hash = "77e49ab73e1b4caddb0716acfc4bd84058060651ab03dc38f5028916e099b49e"
-
-[[files]]
-file = "thingpacks/wishingfountain/pack.mcmeta"
-hash = "645fb92abfcffb8113ba6358754183e129089463025b740c712eb0a63b3e8126"
 
 [[files]]
 file = "unsup.ini"

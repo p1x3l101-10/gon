@@ -1,0 +1,11 @@
+{
+    "name": "Test entry",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:main_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Test text"
+        }
+    ]
+}
