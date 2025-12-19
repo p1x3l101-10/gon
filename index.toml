@@ -5081,7 +5081,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unify-everything.pw.toml"
-hash = "9f54fb535c90936437384f97a8cf75924bce62cc99338523e4710e2b5d21c6aa"
+hash = "15b1028501e0d85a856ddcd6fce8922f49239c128c4f702bca646d52bf080b75"
 metafile = true
 
 [[files]]
@@ -5393,12 +5393,12 @@ metafile = true
 
 [[files]]
 file = "mods/global-gamerules.pw.toml"
-hash = "2be698c364f54d13630757ed61f561a7656bd83d87c000070434284fd2a7e7b5"
+hash = "6b7cc8a18425875d3d0f4a95622c47e57637e0418caabd61228f87d59ee8458d"
 metafile = true
 
 [[files]]
 file = "mods/global-server-config.pw.toml"
-hash = "dea3aa619747c939727cfb4ba08aed9f8d2e78ab7df70ad88c75a6d1435a84b2"
+hash = "4b0182bba4d3117a272f71a7a2ab9acc043b63a23c4000b218ddaa3826eef14d"
 metafile = true
 
 [[files]]
@@ -5571,7 +5571,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
 
 [[files]]
@@ -5880,12 +5880,12 @@ metafile = true
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
-hash = "ebeebf7e4732f8ef93db59e61f5c08a55f447efab477ecc5626894d2956e6c73"
+hash = "c4c309710993f3a4e934c9a76bfd6da45d9577f744226c1243c63e2d58e5932d"
 metafile = true
 
 [[files]]
 file = "mods/upcycle!.pw.toml"
-hash = "ae930824ff6067bad86429555aa2152d1c8be495d511655960bc7e9f05789862"
+hash = "ba17035f3f63a8e97cc0ad5aaf90abfd7a90447913fbfe3f9f86e6c717f1a3a0"
 metafile = true
 
 [[files]]

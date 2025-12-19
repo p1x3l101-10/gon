@@ -1,6 +1,6 @@
 name = "Upcycle! (Compost Rotten Flesh!)"
 filename = "Upcycle-1.20.x-(v.1.1.0).jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MiQPF2hD/versions/hThHwFZk/Upcycle-1.20.x-%28v.1.1.0%29.jar"
