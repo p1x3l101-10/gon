@@ -6067,11 +6067,6 @@ hash = "4e758543de34a52df27c3b33c0cab7de55aec2e2b68980f90d880d614e7fd6cb"
 metafile = true
 
 [[files]]
-file = "mods/playerrevive.pw.toml"
-hash = "0e4e32a1b974218110ad20c2545e57e748979dbc7b0e4981d474a6386b898c05"
-metafile = true
-
-[[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
 hash = "6020a65a0cda4c9aa4ecd47d61ee34f9b0ff31655096d57ef069a478152af882"
 metafile = true
