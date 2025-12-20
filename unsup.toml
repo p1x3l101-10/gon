@@ -2,7 +2,6 @@
 name = "Gui Changes"
 description = "Alters the cursor and other things to look good(tm)\nNOTE: Fully disabling changes will break any and all fixes, and might cause your game to crash."
 side = "client"
-choices = [ "gui_changes_off", "gui_changes_on" ]
 
 [[flavor_groups.gui_changes.choices]]
 id = "gui_changes_off"
