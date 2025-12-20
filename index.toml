@@ -5549,6 +5549,11 @@ hash = "dbe49e21c3f4d8fc985b84b49c6be57e0ee929331527d3e25a5dd17970d10223"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
