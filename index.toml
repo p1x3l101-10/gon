@@ -5338,7 +5338,7 @@ hash = "2f92f2c614f0b86eb49dc32473a603f26b8d0c68ebaee7357666c407aa4888f1"
 
 [[files]]
 file = "defaultconfigs/mahoutsukai-server.toml"
-hash = "01ab07a10bf25826ca3a16efa5b43900b9088b41bbf873ce7b4515930eb3d584"
+hash = "49ce3dfe72b7bfa8fe03c9d87a073062c68c37dacacc77e250b04e054c1ab655"
 
 [[files]]
 file = "defaultconfigs/moreiotas-server.toml"
@@ -5347,10 +5347,6 @@ hash = "afd64c205980e6d6f34f9662ac37705682e7955dafc1d154eb08737c438fcbbf"
 [[files]]
 file = "defaultconfigs/productivetrees-server.toml"
 hash = "3243d7c7d6f1e6c9e511c0d5f89077cf853c7b410b2113213ef6337d45a5d861"
-
-[[files]]
-file = "defaultconfigs/reactive-server.toml"
-hash = "f3cd1c31c4739c007c924cde3dff960dd99ebb0e938b8b094f0f477f5dcbef36"
 
 [[files]]
 file = "defaultconfigs/touhou_little_maid-server.toml"
@@ -5363,10 +5359,6 @@ hash = "3e26aeb2404df808e7e4faa5de91e239644d61ebdf2aff4c7e66adaf95e88b43"
 [[files]]
 file = "defaultconfigs/upcycle-server.toml"
 hash = "3f8e615c75921e72ba033f27200705f67651a8c8bd2ad33b2c08f78794314368"
-
-[[files]]
-file = "defaultconfigs/voicechat-server.toml"
-hash = "546cc588bb021baca50efbbba84a488e7fa8d83948295923eb6f0182453d86a8"
 
 [[files]]
 file = "mods/Slate_Work-1.0.6.jar"

@@ -330,7 +330,7 @@
 	[projection."power consolidation"]
 		#This is the cost per sword transformation.
 		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_SWORD_MANA_COST = 5000
+		POWER_CONSOLIDATION_SWORD_MANA_COST = 50000
 		#This is the cost per cycle for creating the lake.
 		#Range: 0 ~ 100000000
 		POWER_CONSOLIDATION_LAKE_MANA_COST = 30
@@ -357,10 +357,10 @@
 		POWER_CONSOLIDATION_SMITE_RADIUS = 10
 		#How much durability Caliburn has.
 		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_DURABILITY = 1000
+		POWER_CONSOLIDATION_DURABILITY = 100
 		#This is the range for undead mobs to fear Caliburn
 		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_FEAR_RADIUS = 15
+		POWER_CONSOLIDATION_FEAR_RADIUS = 128
 		#Entities must be this close to the wielder of Caliburn to be affected by the sweep.
 		#Range: 0 ~ 100000000
 		POWER_CONSOLIDATION_SWEEP_RADIUS = 6
