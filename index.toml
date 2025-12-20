@@ -4242,31 +4242,31 @@ hash = "caf4326714e8346389373a0631c2b9330fdc387681a6f470f968ae419d6af1f0"
 
 [[files]]
 file = "config/bluemap/maps/world.conf"
-hash = "adfd4807ec76f843cc0bd174c1539555f2e6b6b58ff5c745bab7f80d04e4bfdf"
+hash = "5abda0daec6d5c9bb84a7a6178c352bfebbc2537dd6e033bc2d472b240eae173"
 
 [[files]]
 file = "config/bluemap/maps/world_ae2_spatial_storage.conf"
-hash = "22993e3512fb366fbc971e69196a5ac5c2638f7fa98e49809cc1f9ce6b3c3073"
+hash = "5b4d544ef4df6bab7694b3c2d6f2068c3ffd50cd21c43830908fd73f6011d347"
 
 [[files]]
 file = "config/bluemap/maps/world_deeperdarker_otherside.conf"
-hash = "73481f3cd94d6e0102cde4d38bcad9435818d99c8a3f8d213c83cfc042a131e3"
+hash = "26acd3aaf0adbc132f7792404bb5cedf2a0ba16a7a19e3e9156bcd66b73ec848"
 
 [[files]]
 file = "config/bluemap/maps/world_mahoutsukai_reality_marble.conf"
-hash = "ae5bd7469b350c42b1420e6d459bd4ee6a6c43706a590a6caa79bda7dcc7c147"
+hash = "7668bbc8bd53c26cffa871b23f14e7825a8005d9ad7f85acb27a875a73b7f25b"
 
 [[files]]
 file = "config/bluemap/maps/world_mythicbotany_alfheim.conf"
-hash = "fbe67de366451476e91a9bf116e5ec70ca6c0498bab57323e4c87d4ef58320a9"
+hash = "f7eeeb56d7e63714da0dc90381bc8e0a0f3ffb827cf62a4edeb73e9731f75fa4"
 
 [[files]]
 file = "config/bluemap/maps/world_the_end.conf"
-hash = "012a3525734195e70c0f03a5d5acfaba9b2fc573a8f56af4cfa7d2d2f89da1bf"
+hash = "073ed08979efb33521d5fe8dc4b939d0b9dade220081d59fb5bb8a2680323788"
 
 [[files]]
 file = "config/bluemap/maps/world_the_nether.conf"
-hash = "eec5daff50f2fb0310181cbae46ddb56a76febbe10eabfced474592476ea659a"
+hash = "897705ff44b710ea423b9ff5dfd9b507215218bd40ef87e7f59032ae3e71a8d1"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
