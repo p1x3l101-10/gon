@@ -4645,10 +4645,6 @@ file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
-file = "config/globalgamerules-common.toml"
-hash = "3dcaf10aaf59d5e24918b6eb475c1a41a9b39ee3101c7242475e696ad761b948"
-
-[[files]]
 file = "config/grimoireofgaia-client.toml"
 hash = "cd0b1e78d0ae83531b14c739a9e29970b1b35cee3006fe09c7c1ac73de7827f0"
 
@@ -5717,11 +5713,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a56562d4e3ee2511b5696fb9fa9b974558b13de98fc2db8263bb14c7e5219013"
-metafile = true
-
-[[files]]
-file = "mods/global-gamerules.pw.toml"
-hash = "6b7cc8a18425875d3d0f4a95622c47e57637e0418caabd61228f87d59ee8458d"
 metafile = true
 
 [[files]]
