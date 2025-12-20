@@ -1,0 +1,32 @@
+[flavor_groups.gui_changes]
+name = "Gui Changes"
+description = "Alters the cursor and other things to look good(tm)\nNOTE: Fully disabling changes will break any and all fixes, and might cause your game to crash."
+side = "client"
+choices = [ "gui_changes_off", "gui_changes_on" ]
+
+[[flavor_groups.gui_changes.choices]]
+id = "gui_changes_off"
+name = "Vanilla"
+description = "No modded changes\nWARNING: THIS WILL BREAK STUFF AND MIGHT CRASH YOUR GAME"
+
+[[flavor_groups.gui_changes.choices]]
+id = "gui_changes_minimal"
+name = "Minimal"
+description = "Adds the fixes, and *some* qol fixes, but doesnt overhaul anything"
+
+[[flavor_groups.gui_changes.choices]]
+id = "gui_changes_on"
+name = "Full"
+description = "Opionionated overhaul to my tastes"
+
+[metafile.dynamiccrosshair]
+flavors = "gui_changes_on"
+
+[metafile.fancymenu]
+flavors = [ "gui_changes_on", "gui_changes_minimal" ]
+
+[metafile.drippy-loading-screen]
+flavors = [ "gui_changes_on", "gui_changes_minimal" ]
+
+[metafile.appleskin]
+flavors = [ "gui_changes_on", "gui_changes_minimal" ]
