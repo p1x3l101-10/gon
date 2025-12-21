@@ -6229,6 +6229,10 @@ hash = "78c06c2c3cdd7dbf1d19c91d2f41f10cba0c3a79b72de2588a95a11512532848"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "155ec55db635a4d854b9ac29a5d488fd648f0b57178b57fe4d7b6d33cbbdee4f"
+
+[[files]]
 file = "thingpacks/fix-recipes/data/lexicon/advancements/recipes/lexicon.json"
 hash = "8fb42f098bab870871f4d2387e85ae6707bd036c54b326149524d1b4848e62a4"
 
