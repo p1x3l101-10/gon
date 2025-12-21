@@ -1312,7 +1312,7 @@
 	#If false, scrolls will not disappear in creative.
 	CREATIVE_MODE_SPELLS = false
 	#Should magic damage the player
-	MAGIC_DAMAGES_PLAYER = true
+	MAGIC_DAMAGES_PLAYER = false
 	#If Magic damages the player, should it be flat damage or based on mana used
 	MAGIC_DAMAGE_FLAT = true
 	#If damage is flat, this value is dealt to player's health. If not flat, this value is multiplied by mana used and rounded up.
