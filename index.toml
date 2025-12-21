@@ -5214,7 +5214,7 @@ hash = "2853025999a54fb2ab5a4ff5f331091cfcbc8921d34f1b7026ecaa2706e98271"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "df0facc79e33c570b4fc914edaf627bb9e04e9ce784302f09b76fdead5aaff33"
+hash = "e49d5b2dead04b727fc998cf68b5b183f3fc37f7ea4831bf05326d7b8e1d589f"
 
 [[files]]
 file = "config/touhou_little_maid/file/touhou_lostword_model_pack-1.0.2.zip"

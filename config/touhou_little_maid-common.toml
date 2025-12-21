@@ -39,7 +39,7 @@
 	#Range: 6 ~ 65536
 	FeedAnimalMaxNumber = 100
 	#Maid can switch models freely
-	MaidChangeModel = false
+	MaidChangeModel = true
 	#Maid can only play gomoku with her owner
 	MaidGomokuOwnerLimit = true
 	#The maximum number of maids the player own
