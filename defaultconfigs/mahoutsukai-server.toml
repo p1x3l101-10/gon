@@ -15,7 +15,7 @@
 		#Range: 0 ~ 100000000
 		ALARM_BARRIER_CYCLE = 20
 		#Messages are sent to Action Bar as opposed to the Chat window
-		ALARM_ACTION_BAR_MESSAGES = false
+		ALARM_ACTION_BAR_MESSAGES = true
 
 	[boundary.displacement]
 		#This is the mana cost per cycle
@@ -330,22 +330,22 @@
 	[projection."power consolidation"]
 		#This is the cost per sword transformation.
 		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_SWORD_MANA_COST = 50000
+		POWER_CONSOLIDATION_SWORD_MANA_COST = 5000000
 		#This is the cost per cycle for creating the lake.
 		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_LAKE_MANA_COST = 30
+		POWER_CONSOLIDATION_LAKE_MANA_COST = 300000
 		#This is how often the lake does it's thing to make a lake
 		#Range: 0 ~ 100000000
 		POWER_CONSOLIDATION_LAKE_CYCLE = 20
 		#This is the max radius of the lake
 		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_LAKE_RADIUS = 12
+		POWER_CONSOLIDATION_LAKE_RADIUS = 6
 		#This is the minimum threshhold a lake needs to be to be able to transform a sword into Caliburn.
 		#Range: 0 ~ 100000000
 		POWER_CONSOLIDATION_LAKE_THRESHHOLD = 150
 		#This is a nerf factor applied to enchantments to reduce the amount of power that can be consolidated. Lower is less nerf.
 		#Range: 0.0 ~ 1.0E8
-		POWER_CONSOLIDATION_NERF_FACTOR = 0.6
+		POWER_CONSOLIDATION_NERF_FACTOR = 2.5
 		#This is the distance before the lake begins to generate fog. (Note: Higher values may decrease FPS)
 		#Range: 0.0 ~ 1.0E8
 		POWER_CONSOLIDATION_FOG_RADIUS = 8.0
@@ -371,7 +371,7 @@
 		#Range: 0 ~ 100000000
 		POWER_CONSOLIDATION_SWEEP_LOOK_RADIUS = 3
 		#Should Caliburn be gated behind fun
-		CALIBURN_FUN_REQUIRED = false
+		CALIBURN_FUN_REQUIRED = true
 		#Mandatory fun requirements before you can get caliburn
 		CALIBURN_MANDATORY_FUN_REQUIREMENTS = ["EMRYS_HIT_PHANTOM", "SHOOT_A_SWORD", "SPATIAL_THROW_SOMETHING", "BORROWED_AUTHORITY_PUNCH", "BUTTERFLY_FUTURE_BLOCK_REMOVE", "GEAS_PICKUP_CANCEL", "CREEPER_BINDING_EYES", "CREEPER_POSSESSION", "SWAP_TWO_THINGS"]
 		#Acts as a blacklist if the toggle is on
@@ -1231,13 +1231,13 @@
 	MANA_UP_COUNTER = 100
 	#Mana required for increase, as a percentage of the max mana
 	#Range: 0.0 ~ 1.0E8
-	MANA_UP_COUNTER_RATIO = 0.0
+	MANA_UP_COUNTER_RATIO = 1.0
 	#Maximum amount of mana required for increase
 	#Range: 0 ~ 100000000
 	MANA_UP_COUNTER_MAX = 100
 	#How much mana regen scaled with max mana is added to player regen
 	#Range: 0.0 ~ 1.0E7
-	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.0
+	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.001
 	#How much max mana increases every time it does
 	#Range: 0 ~ 100000000
 	MANA_INCREASE = 1
@@ -1305,19 +1305,19 @@
 
 [other]
 	#Bleeding only occurs when using dagger
-	BLEEDING_FROM_DAGGER_ONLY = false
+	BLEEDING_FROM_DAGGER_ONLY = true
 	#The block range value for any spells which use the player's line of sight
 	#Range: 0 ~ 100000000
 	GLOBAL_LOOK_RANGE = 100
 	#If false, scrolls will not disappear in creative.
 	CREATIVE_MODE_SPELLS = false
 	#Should magic damage the player
-	MAGIC_DAMAGES_PLAYER = false
+	MAGIC_DAMAGES_PLAYER = true
 	#If Magic damages the player, should it be flat damage or based on mana used
 	MAGIC_DAMAGE_FLAT = true
 	#If damage is flat, this value is dealt to player's health. If not flat, this value is multiplied by mana used and rounded up.
 	#Range: 0.0 ~ 1.0E8
-	MAGIC_DAMAGE_VALUE = 1.0
+	MAGIC_DAMAGE_VALUE = 3.0
 	#What type of damage magic damage inflicts.
 	MAGIC_DAMAGE_GENERIC = true
 	#If true, only allow blood circles on solid blocks

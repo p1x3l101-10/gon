@@ -5338,7 +5338,7 @@ hash = "2f92f2c614f0b86eb49dc32473a603f26b8d0c68ebaee7357666c407aa4888f1"
 
 [[files]]
 file = "defaultconfigs/mahoutsukai-server.toml"
-hash = "49ce3dfe72b7bfa8fe03c9d87a073062c68c37dacacc77e250b04e054c1ab655"
+hash = "b41ef39cf04e93243c72bbace21d84cc31b015e4f83ae9af3cda3323abf89308"
 
 [[files]]
 file = "defaultconfigs/moreiotas-server.toml"
