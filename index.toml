@@ -5914,6 +5914,11 @@ hash = "d6e06fd8a078f3a7911b6aa494a55e8224146f8395544732d544cca29b617491"
 metafile = true
 
 [[files]]
+file = "mods/mace-combat-backport.pw.toml"
+hash = "c84082cbf6384c3b3a10e95ebba756aef58a019f6d0b2e77c76b90919b9de536"
+metafile = true
+
+[[files]]
 file = "mods/magichem.pw.toml"
 hash = "65d3b8364d1e5d95a18c9f126cccbf3dbab8deb1977ee31efa0a901a86863466"
 metafile = true

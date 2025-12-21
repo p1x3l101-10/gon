@@ -1,0 +1,13 @@
+name = "Mace Combat Backport"
+filename = "mace_port-3.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8LJoFQcu/versions/cZrDUhuw/mace_port-3.0.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "d02de5747f596163d97be14fe6ada167e09c2f5a735e8ccf97d281fad475a3ef7ce5467a534e8b023f1cc0d9315d6ddeb08ab0627750615be84504a2ac355d85"
+
+[update]
+[update.modrinth]
+mod-id = "8LJoFQcu"
+version = "cZrDUhuw"
