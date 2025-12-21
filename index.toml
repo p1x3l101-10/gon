@@ -5022,11 +5022,11 @@ hash = "557aa8a0afae40f9e05643ea898f3accfd546a70b42f0aae17a38d8afc03366e"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "3ea610fff457a4d37f1387b831a4c0c09de0abd3389724c168656f74f597aace"
+hash = "65ab268ce3395c3d471ccaba936547d06990b997139bed43d18d602d165ccfae"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "338cfe5b78ca54048b120038e6576ae784a8977be20230df75d07f4342623c57"
+hash = "8840647aab81568262694afeaf0adfb44e08e1fa29fad7b0ee9238adf807fc28"
 
 [[files]]
 file = "config/midnightlib.json"

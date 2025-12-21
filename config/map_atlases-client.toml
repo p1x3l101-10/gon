@@ -18,7 +18,7 @@
 	zoom_multiplier = 1.0
 	#Controls anchor position of mini-map
 	#Allowed Values: UPPER_LEFT, UPPER_RIGHT, LOWER_LEFT, LOWER_RIGHT
-	anchoring = "UPPER_LEFT"
+	anchoring = "UPPER_RIGHT"
 	#An integer which will offset the mini-map horizontally
 	#Range: -4000 ~ 4000
 	horizontal_offset = 0
@@ -57,7 +57,7 @@
 	#Shows map separation borders
 	map_borders = true
 	#Use sky color for minimap
-	darken_at_night = false
+	darken_at_night = true
 	#Plays page turn sound when current active map changes. Works best when paired with no rotation and no player follow
 	map_change_sound = false
 	#Automatically switches to the nearest slice when possible
