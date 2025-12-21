@@ -6169,6 +6169,11 @@ hash = "1239b35eb1d800f73eccc7508d12de577f2a402aec44d38dccafbf8617e25a13"
 metafile = true
 
 [[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "1f9ed7d78a4e7263a46a7ff5095394e3932d526e71ba8bdf1cd64c6f3b2594d1"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid-epistalove.pw.toml"
 hash = "0e5ce3fbd1ead0dd9933bf9f4fff9c4b3609e532d3813dcdc579727e18fe65e8"
 metafile = true
