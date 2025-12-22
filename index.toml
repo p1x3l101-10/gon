@@ -5974,6 +5974,11 @@ hash = "0579c251f298660c85c1374fff09a96ea82a4ec9eef45b44e9aed7a9fa0e7f03"
 metafile = true
 
 [[files]]
+file = "mods/more-magichem-labels.pw.toml"
+hash = "36a567626041f37af326c6f75ac1518b7bfdfe3cc98ade7c978b203b6c2e313b"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "7cb86703523a25272f8222d93f6d6ae2188f29d81054634c061c6d92cadb8ae3"
 metafile = true
