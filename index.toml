@@ -5590,6 +5590,11 @@ hash = "2f9138e6a9ccd10e2e25471d7bd1e38c4e4db29be58ba01a64b01929fc3db949"
 metafile = true
 
 [[files]]
+file = "mods/drawers-tooltip.pw.toml"
+hash = "97fd4e20cc0733c702d87a42ba012bfa8dda874b9dacac0eede184b1edb8a78e"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "e0d378e3a1c413c67634413187f138838e198df51d3481d77216747bd6d9d2da"
 metafile = true
@@ -5972,6 +5977,11 @@ metafile = true
 [[files]]
 file = "mods/more-magichem-labels.pw.toml"
 hash = "f1d95312a71d43f6f7190fa01b3a16803c365597f01e207e2156965f65c2fa68"
+metafile = true
+
+[[files]]
+file = "mods/more-vanilla-drawers.pw.toml"
+hash = "c038ba2470bfe3bdd23bccaefa3c94564e322724235439a8d4c3f23ac1a029a8"
 metafile = true
 
 [[files]]
