@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"remove": [
+		"mna:spell_book",
+		"#mna:staves",
+		"#mna:wands"
+	]
+}

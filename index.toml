@@ -9041,6 +9041,22 @@ file = "thingpacks/no-java-logo/pack.png"
 hash = "610ff938b83f37697b501b1f03832b25564fe800bdbda3c6d52600e98c8bebe2"
 
 [[files]]
+file = "thingpacks/remove-mna-bad-curios/data/curios/tags/items/back.json"
+hash = "eadb1bcbc32c4928ba6fd7ac993ee6a2f7a9f808f57ea3087642dc34b602b961"
+
+[[files]]
+file = "thingpacks/remove-mna-bad-curios/data/curios/tags/items/belt.json"
+hash = "640f29c81ab215329f240147835c9c8f9434437936b39b50b956a781b7d0a757"
+
+[[files]]
+file = "thingpacks/remove-mna-bad-curios/data/curios/tags/items/spell.json"
+hash = "3b81f95241838a1d8ad812596b9f90888b39e43fb803a134b3af2b1fb085c6a0"
+
+[[files]]
+file = "thingpacks/remove-mna-bad-curios/pack.mcmeta"
+hash = "5f4765a4af2e07c498550296380a5511c82b5e46f6c51c75394b14f57f96bef6"
+
+[[files]]
 file = "thingpacks/stop-books/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
