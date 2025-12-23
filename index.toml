@@ -6164,6 +6164,11 @@ hash = "09f2ebfd09f4237b14c27a6df53485fa55ee691344f1b0c006ac0e4de1cd7d2d"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
+metafile = true
+
+[[files]]
 file = "mods/telepathic-maid.pw.toml"
 hash = "303444820655bac8820145db3505f44d6ae3d488dff15937b162d373a580705b"
 metafile = true
