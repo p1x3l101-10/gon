@@ -5970,6 +5970,11 @@ hash = "af9eff4739392662998aaf6b2f95be25f6a8dcd6d1c155f532eb1c89f03130b0"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "bbef5e271ea7e225d0cf05749ef319f682d830f75376d301b80aa16671223b4c"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "0579c251f298660c85c1374fff09a96ea82a4ec9eef45b44e9aed7a9fa0e7f03"
 metafile = true
@@ -6032,6 +6037,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "3ab94cfc5c052117f4d9a9e849fa420dc8fc393e4c693fe48e8e6906aaf52380"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "52988bceff6ec6e7fa086c85ff68486d62486e60103d7413631bdb23a43447de"
 metafile = true
 
 [[files]]
@@ -6148,6 +6158,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
 
 [[files]]
