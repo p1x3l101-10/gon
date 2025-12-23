@@ -5337,10 +5337,6 @@ file = "defaultconfigs/magichem-server.toml"
 hash = "2f92f2c614f0b86eb49dc32473a603f26b8d0c68ebaee7357666c407aa4888f1"
 
 [[files]]
-file = "defaultconfigs/mahoutsukai-server.toml"
-hash = "e66efc2edbc2e594b693853e7caf00ae136d6ca6e5323c036d7b7195467e9d13"
-
-[[files]]
 file = "defaultconfigs/moreiotas-server.toml"
 hash = "afd64c205980e6d6f34f9662ac37705682e7955dafc1d154eb08737c438fcbbf"
 
