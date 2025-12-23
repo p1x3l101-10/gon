@@ -6269,6 +6269,2490 @@ file = "servers.dat"
 hash = "155ec55db635a4d854b9ac29a5d488fd648f0b57178b57fe4d7b6d33cbbdee4f"
 
 [[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/astrolabe.json"
+hash = "afd14c87b9834c3594d052839e38fdbb8938d6f573f0b53bff011db190559995"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_blue_butterfly.json"
+hash = "2bed88bdea3c84da50a73f6fda3a044003a40598f6a1522e061ded1554181933"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_cat_ears.json"
+hash = "deb88784db17d556169e1eb1186370f346d46d81d6e2c6fbe0a11a3b6f644dac"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_devil_horns.json"
+hash = "f10aa6c92d6d9d2563a531fe8405674455071373cb31f2d9bfa9521ed040f551"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_devil_tail.json"
+hash = "3b4ce47bab40c77c71240f11db51491c8e551524740b0faaed9f154b10f6f4b5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_eyepatch.json"
+hash = "f71f85793b8b5f463537383866dce958123e96c3dbcf4f6ea8bc9512f77527a3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_groucho_glasses.json"
+hash = "84e46880766bb013d216c3600baac54ca9c7690f5f6d30b3e15899615e724813"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_puffy_scarf.json"
+hash = "ce710b5edb03d917ae9739c50388b0a992417596ef6148f512b5033d9a6da6c9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_red_ribbons.json"
+hash = "c8d4efc239a9cbe981acf290d0cc3a89d219889dad42930d5db0fbb8b6399025"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_thick_eyebrows.json"
+hash = "e25555392f2e79048d48b36fda4f9e84f5ef3f0e1450f63111dea8fb8bcf3510"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/cosmetic_thinking_hand.json"
+hash = "90ab36682b1769e5c4aaa721b7ea3adab07a2279f5b40c72e106d025a57142f5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/crystal_bow.json"
+hash = "59b3d835702556a6142fc5ceb3f5fcded7efce1338dcb0c216a5257a6fa8416a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/desu_gun.json"
+hash = "792e71fcec2c7847f71ba363d17c445b0fd0af43a42f5d1dce75a9464fdf6651"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/desu_gun_clip.json"
+hash = "13406c665c1504018132ca4694908f951f09cf9c4d8d49947f1f65ba6e6993cb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/ender_hand.json"
+hash = "e16e6eaedec594bd15437a9a7d955c53a4c3b67ae5822491289f9eb42ff54b4a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/flare_chakram.json"
+hash = "b82d335574a5a4938c55d54d29c81a4581b6b522fe754df2a885fd2f13e2ffbf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/horn_grass.json"
+hash = "e0ea868514fd8112250e388efdc46fb4ed75d08262eec1cd0930c90dd4f95ea1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/horn_leaves.json"
+hash = "a96ccda295c77f1eb06d51157e237469da7619aaba099cc1e5a5e6bf236da0af"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/horn_snow.json"
+hash = "b7b6c9072dc198558edaa63077772b666a6af0c1750ffd858f68f79126c91ccc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_bounce.json"
+hash = "d044de636ba7a2914c83729b9663720366d9b06e5a565705cb63b83381e1ca54"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_damage.json"
+hash = "2ee7d07862ef38563f52a91bccc4ef0fcd521a7aac6fe156cb5b16b0160cc786"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_efficiency.json"
+hash = "ce011cdb16fe43b514023b9a60687e973d04d19a3ef1d704e5087f8a753f5843"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_explosive.json"
+hash = "243b1274c90546b819e119965195245d2879a4ed7da27938edc4438bb5b46a8b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_fire.json"
+hash = "cb72fa04f2a4183447524cc48e6573b2aef7aa713d413620996b47fd3d3a5b69"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_firework.json"
+hash = "009d5fdcb5a99692c97c13228fea44c96917aff468a5b1ac96b27d2ee283d280"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_flare.json"
+hash = "f96084801c80a2ba73f95546ec32b31c156da9a1b7e9eb1268e90de5d3141491"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_gravity.json"
+hash = "a77a2a29574ab564e96a3cb49a11af8c6f5860f6f9a5e1579970e9eb7b49b117"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_influence.json"
+hash = "c42bfa0467a8ab3591222a65e50b9c5cca146f74639e6598664e1c80027c3c19"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_light.json"
+hash = "93cfa5313bb32aa55ac06ebe1246450a5d5d46c8ee88650bbbb014cac2d25176"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_magnet.json"
+hash = "fd71eb85315cca075c35c1a14fc6565e6aee1dc3a6d2f48372b8fe6b65180ff5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_messenger.json"
+hash = "b1883d21b3f17457ca5b79799db117e6b44d2e5428dc2cc3839fc1f68207ecd8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_mine.json"
+hash = "f23210aa65df061d3cab26307ae8e24cebb6ecd9d9b85e1fe4a01accd6153156"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_normal.json"
+hash = "0aca57171720ee9f4d053830e717638e7c6abbe2d401d5ce1f7e3f5d5792edaf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_paint.json"
+hash = "4b35af88bff07194f5daa7382ecc0dbb2cace870d4b6127d29a8f02bf4251592"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_phantom.json"
+hash = "8442983e7911ebf58732522ecbeda512dc6b70b88c8d9ea3221695dafaa5f9f5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_piston.json"
+hash = "a8894294f9799e19ae4d083fa8fca9245ae4c9fbeef5bde45e4807b7a8c6ba7c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_power.json"
+hash = "2670e119e758f1be7f722766581c823ba1d4dc0f39511f0a3171da1368b671a4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_redirect.json"
+hash = "d2cac986b9c3a26f4eaa77af796912cfa861533e0dfe7684542c97b038843bf3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_speed.json"
+hash = "cf0176b222615e5cdae7cc67a26395d2d1b5dc2eb55262245baf2cd1a3db7b10"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_storm.json"
+hash = "eadaef125d790d46deca5182c6ba3d38184049c9066fb23b2ddd3709cf412362"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_time.json"
+hash = "7e23aeebc4f5949e78f9028550f76e0a52afc9c48e37a419fa39b6bf94d4bd2b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_tripwire.json"
+hash = "8c53d3bacbbb11483b19eca5823018a1760621c1ad018faac39ee544e487835a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_warp.json"
+hash = "cb2324a188531b27a122e46395283c458521a696abccbe345fa1f4d8325a6b46"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/lens_weight.json"
+hash = "055289a093d5b5179f2e162b483388d85f3776df2fa4e8f66324a21c4e20f997"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/mana_gun.json"
+hash = "1765ac1c484b8eedd4ba53e2a59700fe66f9658932cad3347bf5a76ca5175481"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/mana_gun_clip.json"
+hash = "ff87c329686494cacf3875a9f32463f9d472a00e6a549251765dd1ec0f2c8dcf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/sextant.json"
+hash = "e41c99df104381713aa8fe12d8a3506227b2898061d7130dc7589eec6cead4f6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/slingshot.json"
+hash = "de5f9f25af4dd1e75695718e6c5b7158fae33ebd6c2d3d2f5926bedf15a5ba6a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/models/item/thorn_chakram.json"
+hash = "e68bad6b957184cbad6e204421300f662b9c6958ef77de2a48d7624f70f9928b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/agricarnation.png"
+hash = "c20d069d592b38210005a34d92107b4cf28bddbf89a8c19855c305bd1bd3fdcf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/agricarnation_chibi.png"
+hash = "91edf7f887c5f47ef83137c5aab597e12a7289c0fc3b808612fdb2f0b7611073"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/arcane_rose.png"
+hash = "6b6666bd331c36f6a709f22c296909748d4dde20c1cdc36129e917a47b057e9a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/bellethorne.png"
+hash = "85eb239016c236f6814e59287a7d261ac7013d5f5eac4318d0ffc7b59826d706"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/bellethorne_chibi.png"
+hash = "f9dcfed99e93390613ca29b1db9e9992c0431e9892eca2ef7f6d7f609725007e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/black_double_flower.png"
+hash = "3f75399805384748706f41fa33d072c94c6b90e6b7251155e191a58ec356a1fc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/black_double_flower_top.png"
+hash = "8157e6f98914ab84d3f101c1fe30d462a8b0e443b948de42564e1338db6e6a03"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/black_mystical_flower.png"
+hash = "ea0f9b34aa944223d1daccff86170f78033ef40017b00a258164f9a9004fe465"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/black_shiny_flower.png"
+hash = "8d241b0fd3ba1733584c1acc29248850b363cc764a3018a45c05c96dc8a7a138"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/blue_double_flower.png"
+hash = "da5060dae122895a8a2498543bb0823aa7e00cb3f89f0ec2febcc2ad994d8a36"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/blue_double_flower_top.png"
+hash = "8ab85a2b5c1c46405c57b0d00bd9e20956f2851eda6c6bcef0d53b830373d1bb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/blue_mystical_flower.png"
+hash = "42638f05906f9b8aed59bf77924946eb74097c5314c60d82d0a108216e79d4ee"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/blue_shiny_flower.png"
+hash = "49ef2502cfeada778dd599929c032448e893cd021f602a797df37ffe0f9bfac3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/brown_double_flower.png"
+hash = "bcc0ea215ec57837dd0713a6f963483678c986c2341f15d1bc739cf03bbe879d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/brown_double_flower_top.png"
+hash = "3402c6859e1abdc4da45ca7e089a8c5e86633a2bcfa3a78d0e73f06b68dc3f7a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/brown_mystical_flower.png"
+hash = "a098ff41443acf373de2adec550d6ecb858d4522e842f125213ddb8bfcf96985"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/brown_shiny_flower.png"
+hash = "da37674ca1ba297bbac259223464985f655324c1c6f47dfdd2542de282cd19a4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/bubbell.png"
+hash = "70c9e8b466a61a6618ab9a5204bc0edb7b519dca34feff14d5136842709cbcf1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/bubbell_chibi.png"
+hash = "535680d3b1e3b0ca18423e7e922b6e01d423fd45de6f81365610bcf502e5f43c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/cyan_double_flower.png"
+hash = "1633ae320c97989436c1560b01b09f3ac5651aa686c312172eb582ee012bf35d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/cyan_double_flower_top.png"
+hash = "d2c0a36d1d339192eae447c261a769ac66819a951c2d737adbc09df301075525"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/cyan_mystical_flower.png"
+hash = "9b2871a9900625c9284ae82cb1f54375a728ea2679c394534ac951c564c5d273"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/cyan_shiny_flower.png"
+hash = "199475de2414a12e6bb99e6cc077871f53d26b10c3117b8572ae7ae27892a3ae"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/dandelifeon.png"
+hash = "aaedacb5677f1e3dde94b8b5c021d7f47b4867460e42c5007ca19c7e2a4388df"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/dandelifeon.png.mcmeta"
+hash = "df232623e4fcf2f8eca6679f4ed2bedeedb4e7b389075b28ad3b519b9b1018a8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/dreadthorne.png"
+hash = "f11f0a78604cf021b53f944ee39de19f769337875c7f6da0a7eca0f32efd27fd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/endoflame.png"
+hash = "afecd8b005b37d15470a9b6527fe66876ee86dc0aad18105903425865c0218fa"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/entropinnyum.png"
+hash = "9f630cbdd8ab2a04ca83dafca0212162d639035335310ce6ccd40de1e304a66c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/exoflame.png"
+hash = "f55828f21ec8dfabf8cd33a6628e096a565c395dc14f01f947ccbdbee8dc5d5f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/fallen_kanade.png"
+hash = "2dde871f98c08deeac0d491eb277a45d09899dcd0ce9b8af50007f3c8c767262"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/gourmaryllis.png"
+hash = "fa7927bd2c577d251e877c4c93cb03f25e06bda0a58c1db5d47942c6f574f7fc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/gray_double_flower.png"
+hash = "22d9d9473a280d7df10815ac9ecc3401885c69f0973e78fc7fe0d32f10e4a83b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/gray_double_flower_top.png"
+hash = "3a42abadb2b15f0b33a96b662ba2c6c8bd84221be24e675ff27cf2e6b3621afe"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/gray_mystical_flower.png"
+hash = "8413f21d636ce9e8c7c4b2a7fb13ef80ac6f854ba2a5ba43e2044e515a2c1cb0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/gray_shiny_flower.png"
+hash = "1798c194179e931a3b866f4021bbff36c5c6d9956b248148ac248381711df8ca"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/green_double_flower.png"
+hash = "5ac4adc80c921405a94bcbf8a3b121d73ec431f748715a8204b2d87b2e738a3a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/green_double_flower_top.png"
+hash = "2cd5c16ff90769931d4e5d2af41a6abf00ad7e506e69ff447bf7c3856ec471b9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/green_mystical_flower.png"
+hash = "86a457c11e4f9c7c3ede9da6ef9851f916dc3006081dcb1243d9551f572cda36"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/green_shiny_flower.png"
+hash = "37057f19b5b538b8fde765b8ca0ed25b9926526eb91fb3850ae76a16f8afc296"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/heisei_dream.png"
+hash = "2e9c7bd139e1f059d5fc6749cff032f180c464121b3cff1c3e1f0331a838cd0b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/hopperhock.png"
+hash = "ab0c103f72a3b53b40e579c8d3362df6bd56e090bdd10979fd2448e32e36c460"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/hopperhock_chibi.png"
+hash = "ad78547f60a3cc1acb02ca298f39685f09dab1f23c46c697d39eb34a154ad702"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/hydroangeas.png"
+hash = "69f38ed3183368fd9c489960b965d94a7ac0a367e444bd21296a9b3b1e165b25"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/hydroangeas_decor.png"
+hash = "be106da4df392b70a48d87e7d974596b0cceb586c393844262617568eb54541f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/jiyuulia.png"
+hash = "fe9ff5cb924fc41cd7a58f2600f28dfd1435f130cd15a76f6129c684dbe59966"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/kekimurus.png"
+hash = "6b26976f0f57150ef829fabf07273824f09fcdb296f81c63eaa28cd39d8b1f56"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_blue_double_flower.png"
+hash = "b79a408851fcd9f29f6ae45804a44085b1d27e9c535cc66fae5ae8fc14695341"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_blue_double_flower_top.png"
+hash = "1939aa14c8b5ad483d5669eb95730a6ee211c3ee340cdc330b375d9b22cd7503"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_blue_mystical_flower.png"
+hash = "0fc3bce971cd4478d97f957e787f66a3aa73dc73fa5591dfa3541fdd573d7cb9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_blue_shiny_flower.png"
+hash = "66c61dd9e737743f74f235ce7acdeb202d36ae8746cb6d61c463e1e610b94441"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_gray_double_flower.png"
+hash = "cf0638635e57bcee5fd083edc6b1354b700e6b938c3d626f6f514f676184ae08"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_gray_double_flower_top.png"
+hash = "f184720ef9d94aa84d2d34c9d0bed3460289ec8d3cae9be9727db4eb337f6fd8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_gray_mystical_flower.png"
+hash = "b4c5b4c30a199e61edbe567b7ec1d3fbc7dc93d067ac96609dbf56db903edb57"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/light_gray_shiny_flower.png"
+hash = "460f5301a2415eaaa6bb7ba999c0e4668dd80fcfa50206ee506c271d71484fd7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/lime_double_flower.png"
+hash = "17484b31610d4993959cf425416a3de2522ad08dbf0caa22b97a8b7d63dfdee9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/lime_double_flower_top.png"
+hash = "0668ac4fcb873d8c6c8f62762d075812e6910fcc4870359721f624b2c2ffcff0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/lime_mystical_flower.png"
+hash = "0fd00a0fd32e04c9e5224b2adc68d333ad3b352d8551ae7042828831c2ae0a50"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/lime_shiny_flower.png"
+hash = "0d266ce5eab2f8fd68a585a1c59fbde3aaff4c1ac7b4558d2442189be04cfc59"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/loonium.png"
+hash = "b88c77387d7ca0e734c0a2e9d27dac002f730fc3c37c89da4b28466e110b629e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/magenta_double_flower.png"
+hash = "71a724284fb4084f4c3557730653d753577cb9a37fc65061ab2439ca9835a802"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/magenta_double_flower_top.png"
+hash = "9e16d340eb213cb819b0ca32af1b80baa4b311d82e00562d868489bc8dfecd1c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/magenta_mystical_flower.png"
+hash = "0545102ebafc7d961f0d8d08d78782405a01029135712c86c97c8fde874ad383"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/magenta_shiny_flower.png"
+hash = "22da617703883a25887b383643c5334012b55baa70db85b3567146d934744a88"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/manastar.png"
+hash = "9b5834d5453b34245a0686f896c644c28d243d6269fd244cf9ec0f978d1ab089"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/marimorphosis.png"
+hash = "8fa9388864a47b80f744f15cf37198f91d04149afdeff36067047c51a4042122"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/marimorphosis_chibi.png"
+hash = "837a453c1472c1b2c4b5367d3f9c6e192b4c2ebff837826c65df20c4e347e4ea"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/munchdew.png"
+hash = "21613e16d8e73972666813a4829f05fffffdbf23bd7eba838629aaf4bd1eb080"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/narslimmus.png"
+hash = "890c145c9576bf350c988e4351b7e629fde42acd4b281131a0f3ed8ec412b3c4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/orange_double_flower.png"
+hash = "39c340d73208f79a30d3aaca2fad5ae10a5a859e1c63f072e9eee3d5302ffaba"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/orange_double_flower_top.png"
+hash = "13425cd32361fd6ab113ad835882b811af8e7b22f70d2c45d3b6f27dfa0cf2d3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/orange_mystical_flower.png"
+hash = "ce97bbd1dd9028e9b4d81bca124547bb8f4b1a55b21de1337899b0bbaae072e4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/orange_shiny_flower.png"
+hash = "d05248e7403e7a23a28ccd5ab3bf708e6749b3965e21ebc200b944731eb89878"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/orechid.png"
+hash = "2b354232456725e718d5c7e51c857795b286918d69a4faa8c54db407e77fc9a7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/orechid_ignem.png"
+hash = "ff2a446a011a367e46d16cb6102b28e2aa39101c7e256a4692bae90a90299978"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/pink_double_flower.png"
+hash = "39e6f1c56fa6c5dc9cf07b0862258661fec3f7ab563992509199dd4a19ace24a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/pink_double_flower_top.png"
+hash = "c8c03c9949fffdc7191a356e534b2743b1ef8e41a93926706bb4f93882646395"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/pink_mystical_flower.png"
+hash = "d9690bc99b8dcc0f2d13d77d7e71b70f336f81f96ca3cddd6c524b8044561a34"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/pink_shiny_flower.png"
+hash = "d24696ab2a0aca0060397fc376ac5460c6f1ed66f2f89d05c8522f7249b45cf2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/pollidisiac.png"
+hash = "aef950789a5ac8875a69e911f34b7f9641cf764f79d2ca223d962a6a459c6194"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/pure_daisy.png"
+hash = "ab55cc5492f4e68cfce7e5c762541f88c8e5ef6a405bb4a0fec9f9b15958814d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/purple_double_flower.png"
+hash = "fe32b56097f3b6122ebb954cdaf6ae6b910ed767cfb887b886dcacf6622f1b50"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/purple_double_flower_top.png"
+hash = "efc9388ad4b9336e9ce9f696730800877939bd3c4d4870a5f6cf11ff7836fc25"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/purple_mystical_flower.png"
+hash = "f504839f625e289700b432e4918d8d7213828ab2c91b94401c6f81d400e60b69"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/purple_shiny_flower.png"
+hash = "f12e0d2d605dcd57d70bfdb06db2a6660b96cd983f5d62e760c4f7f7c76a7e44"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/rafflowsia.png"
+hash = "ffb96b3f2b7f2c4b5fab40cf690930816ebbbb302517ae5f77841432ea08eba2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/rannuncarpus(UNUSED).png"
+hash = "cc4c4ff9a2ffa5159e962645245fcd4c42ce34d86f7d14b99ffe4d883e3fc588"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/rannuncarpus_chibi(INCOMPLETE).png"
+hash = "8456cd49ecd854dfe2d59b28b9c5b5d40d4c4715782bc62d8232ab309eb494cc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/red_double_flower.png"
+hash = "97e48680ea3eeba52261b9095836ba81540994dffbc032103db1d74580ae0e34"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/red_double_flower_top.png"
+hash = "04ecc685f4c5f0b0a44b3a581e69e2676f7c2e1a1a0dc5dff679d199149f7bb9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/red_mystical_flower.png"
+hash = "692c45530ea41fc1caa7ac8f76ad9a14d0d6a5e20aebd7078fe72d346f70c8f0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/red_shiny_flower.png"
+hash = "3ac2d354484313e0f3cfb1f779f0148072ed10899ab58724c2001d75fa8230e9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/solegnolia.png"
+hash = "b5f3c9c1c3ff128138c903026b7375442aa9e7426f7420f53fb73bcd774b38c3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/solegnolia_chibi.png"
+hash = "e9588f459d9a770e42dee65d1f384b67d949afc6402feefdf5157fffeecd509f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/spectranthemum.png"
+hash = "fe14821ab5a4bb928d64d16a381a767da11b9711256468dec765bba271f43ced"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/spectrolus(UNUSED).png"
+hash = "b18664c45a0ef0a198a5b388d6f24887dd1678cb8edf8c35902fdbade21eef84"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/tangleberrie.png"
+hash = "b470a93d68aa1a4f5c2d0ca0890a75c032af9e784f16760e0c06f4e7a639b581"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/thermalily.png"
+hash = "5355b51d67ef45aa2d996b263cc7722a6730b8ae2914482a508e158362188667"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/tigerseye.png"
+hash = "ab8696a565277ce3fa0fdc4273bc5347c95146a36bdddc3a2f05b660b17c2e74"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/vinculotus.png"
+hash = "afaf044816b9ecfc8cc5a2d883acfedd0bdefca6324c7d9480d6c480b0f2ea5e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/white_double_flower.png"
+hash = "1fe4c26c6d239ce638f7dba83e55ae13deb43a3dff451dda31148745c1d3c13e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/white_double_flower_top.png"
+hash = "188c8c014d9f72cdb08be71b5c68550b76d88c8033b540362625f6d940fe8b5b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/white_mystical_flower.png"
+hash = "287dcc0380fe2555b575b7ba03f2297e9e1be27d56ca140c0fa5e382d5a299e3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/white_shiny_flower.png"
+hash = "71aa23dc18ad2e97f3fe79ffbb02eb186badb580e3b358fa347a8cdd2a68bb4a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/yellow_double_flower.png"
+hash = "8888e627933e69a117682ea2908cd4982afebff0400171d0a7ace223a2ab798f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/yellow_double_flower_top.png"
+hash = "1de31c401d975ee6f14592a01068aaac7e35890a4e17d6f34005244505c0d9f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/yellow_mystical_flower.png"
+hash = "a56574c30131bbf8c74ac7db1dabb51ba5c981fb87eb849e8bbe9d8b3804eaae"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/block/yellow_shiny_flower.png"
+hash = "886bb92860bcee88448031c499a708b5bb47ab92e243d660c68eeec74d7e9e09"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ancient_will_ahrim.png"
+hash = "6d307bd230fa6218abf98c1a4ab25305ac97288889cfa020282dcb35bc1118f3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ancient_will_dharok.png"
+hash = "99fc02fe279705aecec64a442abd15afb3353e208395350e96953f55b8ab4d17"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ancient_will_guthan.png"
+hash = "b724851628c403f1c4ca8ad944e3d417c2146547979e2051778efd048facdd53"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ancient_will_karil.png"
+hash = "3219bdeed885259cfb0665ed6b9d17801b70fbb26f20903854bfd50cecff9104"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ancient_will_torag.png"
+hash = "55565c5eedfcc6199afa0ef3de826a40fb23d873c1907063277a98785f904efe"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ancient_will_verac.png"
+hash = "23cb648a6859fd3ebf7b132f1600ad4be2e8f8953b4bfaaf91ae7426a4902ae2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/astrolabe.png"
+hash = "b47d1ab13d635ce7ab1fb0b88b953841146f9c662bf10e6bd47a183d6486bac7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/aura_ring.png"
+hash = "cb10e753f7f947be87c19adc7cd2051357651fb6679382778d15c933967633e3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/aura_ring_greater.png"
+hash = "7f371ed86b2e3218bd2ebd114ddd1a4eb29a153f448cafe923ebd9e00126e0c1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/auto_crafting_halo.png"
+hash = "1080d57e2db5f9a4a6c3e6c8078262d63c1c3ef5dbbc914ba13dbe39afb1ad63"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/balance_cloak.png"
+hash = "97d512529847e58567c62621c9866783bbedba48a3ecfdc7ada514e3c956231a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/bauble_box.png"
+hash = "e778e52d87dc2e181274f1a3f710c65444be2ae52bbe2f789faa25050b607cdc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/bauble_box_open.png"
+hash = "ab78de0126648dd8af4b9f26781e70df71d909cd3ad04bc961b14d0dc2301239"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/black_hole_talisman.png"
+hash = "5f635d640b9065db1baf7dbcd923eabc14475d16c86fe730f1998ac946fe323d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/black_hole_talisman_active.png"
+hash = "4bc5f4bcc12bdac6abe545cffc028d0f55d1ae4c7598e87fdb3aa854b85471d5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/black_hole_talisman_active.png.mcmeta"
+hash = "878e523fe4544dfe34d816f969f2cea19399a494e8e9d8d013a701b4c501f26d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/black_lotus.png"
+hash = "3a000f58cc0b7d177cdb1fc8881f235456f3075a5fe9fccbf8385a39a7b50e9e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/blacker_lotus.png"
+hash = "663111dab79e49c3c0ed9a9536980b4b22d0dadb366edad95c78899ebaba1e32"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/blood_pendant.png"
+hash = "51c059536e2943fd34d50a12988e06437c1c62675317337f1435f39937e1326b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/blood_pendant_chain.png"
+hash = "b687a8fda1857c99bc3570c5631e1decd7a990a8f5b92ca6bad34d2db36e3223"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/blood_pendant_gem.png"
+hash = "b4a2ec5eb0545b422242421e546ea16b59c9f3a472e8d69f72678b90f801e6d0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/blood_pendant_overlay.png"
+hash = "2b972a4b55c04ba114ab353813cde02890651244b28725a72c3ed63b338aa74f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_flask_0.png"
+hash = "9f76ad759bfbeea95f028c25aac458e25695e3c88a893572eccb50ac6fe39930"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_flask_1.png"
+hash = "b70e628f15a0f52d6aeb80b8ae887667ddb4e6e7fd9172beaf1da38313fc8fa7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_flask_2.png"
+hash = "e75b798ff8a803ca976b933641cd51f9f33b708d962639324d72e9f66359ed25"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_flask_3.png"
+hash = "3f0d24710bbea561cfa1b0c23100bf523d5685e81dd026a5c343c1b6a749d61e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_flask_4.png"
+hash = "da69e476d8d89adcd0be093765bcfbb79d3d7011b54a9c4f579140bc05f84b49"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_flask_5.png"
+hash = "8fb63a5a13d67ccb0b7d10c0c08faeb0d476c044369bd491a925314c7ff49602"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_vial_0.png"
+hash = "7ca8a21b7f99f49b1e9c3a9a09ee4fb9a6c355d26b333675d5a028195c5778c3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_vial_1.png"
+hash = "d401bfc3232ebaa013ecc9d033a7fb28796f575082a3afd85ddae3e9b7658216"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_vial_2.png"
+hash = "6abfbefb64c60a320a8ae4299506461ab6f266f4c69d9b0dcb6670f812f21574"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/brew_vial_3.png"
+hash = "67538cd5b0f47903aec1ae10fd4ff9e0b7f9bea0d138b12239a6e53cc667f2e8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cacophonium.png"
+hash = "e1c38921d5a81bce33d2cd5f1c3b1acf73b08982ed392e335c913141acd1cf9c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/clip.png"
+hash = "a54046a8f23641d9701557e9467e87b5369ae1dcb1a94689b64cd29a47a368de"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cloud_pendant.png"
+hash = "90ea2acf44679fca1e9addac8b194da346fc0cbb42910750577e2048ff3a6dec"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cloud_pendant_gem.png"
+hash = "eb3516c4bdc3b782532c229dba88483a8def3148bacba32f74068a8a9ca78a3c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cobble_rod.png"
+hash = "aacbbcea28b4ecc4a07c95593b56c4d717eeaf97e49113d5f0dd28f149c7f900"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/corporea_spark.png"
+hash = "293d449b53502ea0a6e85299cb0a2054d1557c3011e6c757fa030dd467435380"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/corporea_spark.png.mcmeta"
+hash = "0fba030acee0f6014f14eaacfce66a01ec1a6a433b5184ae5a589c22da610c33"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/corporea_spark_master.png"
+hash = "f7570f44f1fd805c0a384c9922ca10563105716d8a671806d0db6e0870b05345"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/corporea_spark_master.png.mcmeta"
+hash = "0fba030acee0f6014f14eaacfce66a01ec1a6a433b5184ae5a589c22da610c33"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/corporea_spark_star.png"
+hash = "6c1b2386680fd48a78dc7d46da3cb3f30765a0b77422189195d0d3cf5b8cfeb9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_alien_antenna.png"
+hash = "6b485d2aa432073ff895df1d1ac12be44b56d9da99253eea5841f667246572bd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_anaglyph_glasses.png"
+hash = "4edfbce778c9bae249bc2d25d4c2db34290414af9228eb04c1c5d15170bce63a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_ancient_mask.png"
+hash = "d2f76cf3e54c428f8e8c688906c4b158d8974876931e97a6e567a2dc8811a0e2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_black_bowtie.png"
+hash = "8393b79cc0f3b0934a9ca93407fbbd0ccda5749f1a294836704df18c32ebfd0e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_black_tie.png"
+hash = "35f89091f40bff89c0196956c2eb396c9e4bdfd7829bc49db3447f67bb9cedc8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_blue_butterfly.png"
+hash = "c1251981f70f7b2cfd9a4b848827cd5ffcaf760106642cbf64e7d67797a6dc9e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_botanist_emblem.png"
+hash = "700f6ff947bf751bc0a9a1a3fb45054cbc5188c636cef847c110f9938297f30c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_cat_ears.png"
+hash = "6fd5ca29bcb27158de7527450effdc0e2c59b3d9ebb9d258b78628503c612b28"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_clock_eye.png"
+hash = "4719683f56cb342e5d4a11dcefa5ca6da1667ee33a2c49e4861d9ce404624e6a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_devil_horns.png"
+hash = "9614848a3f5719e27bb0d668b3c7baee2750ce626b000be0727b3b81aa288743"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_devil_tail.png"
+hash = "0f8d7145a241fb95a2bfd0c2ccf6cd92feb8df0d15158a52f6b548e5777f8c1f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_eerie_mask.png"
+hash = "d32b199dd05b144d97ac2253657c765cde43d5f29bf43b7095fc484e90bf46e4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_engineer_goggles.png"
+hash = "89da9031840bbbaf2403012210ada468a68fafbd55265445dc1ff10ec21c723f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_eyepatch.png"
+hash = "a797353e00277c32e17d288d0d8f38b7a1ea0649eb3fb9c2199b2eb45718058a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_four_leaf_clover.png"
+hash = "a971acf398f5a0442d0b8258372d6b99df2c60ad96c21c76a4a43e90e0c7453a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_googly_eyes.png"
+hash = "08bec5b6d1ef6a4eb35e84736c6e1a5486ff1c505e5df35d472235aec6e52cc2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_groucho_glasses.png"
+hash = "8a22952c47fbd197d27739e0a365e2b5662b165156ffe5e8b3da9b599e7dc1f6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_hyper_plus.png"
+hash = "b326b0a89c967cd8ab66de839d6fa1025c022ad10444687f243c43360ed9d4c6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_kamui_eye.png"
+hash = "9da1757959da1d5d621baff277b6c3d15bb3325343237b554e845da97c4b00bd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_lusitanic_shield.png"
+hash = "eaf76c5cddf24d86c190020e0c8498100468b10f93dbeafbb22229b0b34a5b25"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_orange_shades.png"
+hash = "3370676605d367e936476789896c6059abc688927d05d2c6ded18302a2bbc07c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_pink_flower_bud.png"
+hash = "cc5d084319a25bdfe9be1fc0e331671f08dfc397729d12136de760bb8ea52d0d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_polka_dotted_bows.png"
+hash = "31a08bce2a5d7a7230420aebdd9129cb27f9863082d1d7d9b9559dcc7081e0a9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_puffy_scarf.png"
+hash = "c82381f72d81e3ad0f52a7295a0c9d5dbca9da8ff5c94e063d3f2074e814302a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_questgiver_mark.png"
+hash = "3c5b1b1f6b77e14faf37cad642b3c21d611621fe7c698c14d0469fb73c4b7206"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_red_glasses.png"
+hash = "29e31c9905478eef850209fb26594cd59173393e7808400e554590711c76e10a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_red_ribbons.png"
+hash = "6607c8a7b64c049dd505f9e850dfb57df167ccedc101394b37c6760aa07ac33e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_thick_eyebrows.png"
+hash = "e00667cd910d5af2bff49d7dc9ff6d851ebc21a73d416cc78c56305775a08ce5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_thinking_hand.png"
+hash = "d99003cc02ea20cb47314a9224fd52262a61fb7bcc689c32fa763cd7d1205de8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_tiny_potato_mask.png"
+hash = "0b958cfc822e1565b1633a61159bf0fd483090f76ba5ffad80827e670d2616c3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_unicorn_horn.png"
+hash = "84c62f4b79ed8227e79a9cef9f00b4fcca98ccd811050335baad6b4ee224cc26"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_wicked_eyepatch.png"
+hash = "824538b7a18ab1b8d3673b87a12e47e87803c6502b181a3ec4dcc6f921078de4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/cosmetic_witch_pin.png"
+hash = "7df1950b373c7defada8dc09c26348379fa501cf08bf6a605d3add2d1271c21e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/crafting_halo.png"
+hash = "a4b0175f16f95b44170736757231377fc8db3832cf0df8af1b736c67d4cdb22c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/crystal_bow.png"
+hash = "62afbd8d1c4fc58d62af33776635c497d51761e647481632d7e0882ea3cd2d91"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/crystal_bow_pulling_1.png"
+hash = "c0ef546ea1c5f5fbc34b13c8e1aaabd51da12bf519cbdcc1e890c960515c34a6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/crystal_bow_pulling_2.png"
+hash = "54741f6ddd6fe3f8e2b8b0e98ac7d996aaeff900a1a9ad9e44f7ebd46bdbccb5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/crystal_bow_pulling_3.png"
+hash = "8622379a64f24b0b52f3dee604b985da63cee62775a5815ddd1c8a9229420ed5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dammitreddit.png"
+hash = "13d7b9ed61deea3823f6739be6fb44c9af432d152be5766bfc7f03383d27cef2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dasboot.png"
+hash = "a4c412c089708cabfb5f07270f6579f6ca54c87d4c011ae816038aa7fe4aaf71"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/desu_gun.png"
+hash = "c0807e56742b34d9ce950ab7270035470e6e2f2e580c0f81253f3ff531c149cb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/desu_gun_clip.png"
+hash = "cbf283db995dcd8c26a47d880e52f8f334b5fea9a1000630a389367620e14996"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/desu_gun_overlay.png"
+hash = "b687a8fda1857c99bc3570c5631e1decd7a990a8f5b92ca6bad34d2db36e3223"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dice.png"
+hash = "9708d2f9eed18dae44ad1d6e828b586da645112bef807e6540621efc33dfb2c0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dice.png.mcmeta"
+hash = "780218918c526a70babc393692ccb9745825fefb028e5537dc1c56c907258775"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dirt_rod.png"
+hash = "caa8eb3595ab009e069a9ebb89824b7bc599187f2323a3f8b708ec35fca70deb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/diva_charm.png"
+hash = "f35c1022b015b320f2e2e74985f4c6e9249fe6a157a2a5dd69f2fb33f4f563a1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/divining_rod.png"
+hash = "af2d7213930676890ce60bc312cfc43f6ed93d1391c45f25005920bd40456f53"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dodge_ring.png"
+hash = "9e0f8c1c6492efc27577ef0ac053126dfbc8dd8d8ccd5d6e72ba9df1c00a3578"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dragonstone.png"
+hash = "45ed7aa349d41f127867abd329f1b0db33759e9850a7ae930224399321a5917e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dreamwood_twig.png"
+hash = "48ffde9a8ae3d416ef31700f15b19883890cca9db9d895915ddffc751c767e84"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/dry_seeds.png"
+hash = "066157e3d74174d735d40251b1cb5de441034307577fd8621ef53c148eac560f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_axe.png"
+hash = "39cadda494f639289f0040a678c50bfad89d4565077afdf25fb6205a252f21ba"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_boots.png"
+hash = "99c7b77fef96e00eedc81833c7acb21663cf96cd5b403006ddace26de046a465"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_chestplate.png"
+hash = "039cde5e104a94b625f172be0e33fcbb15f868f385291132d9bed2cddcd14ecd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_helmet.png"
+hash = "c71f67fb1a5a1cb015ffbceef47b78c67d0f295dc07fc845acfc43d288a81fd2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_hoe.png"
+hash = "2ee43e4b80df4a8944dedfb9664fee1ffb20f3624db45c1bc1259db91acdaaad"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_ingot.png"
+hash = "4625180463f6d80720ae2a5027b42658f4a53eb3380c331fa54beb7cdd4f5a6c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_leggings.png"
+hash = "292ca5f73c1c287fe6deb5e84cd449148c37765695ba00269ae750f429e3cc43"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_nugget.png"
+hash = "db63f9d9e8e21d1f7bf2d0c959a416095359f6577909fe2633e5db623b3f467b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_pickaxe.png"
+hash = "49f580e4f1d2e2147902b09c6c8cc9ad85559941112d2e20ebfd0692a4c1d771"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_shears.png"
+hash = "d99e0a5dca059c2e6de4e2b26687648a694203023b2676aa1b91eaf59924adbe"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_shovel.png"
+hash = "f8a6aec8753d9e6068e1dd3103406b964e55e9477f54fe97a6476727ffabff6e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elementium_sword.png"
+hash = "ebe8b1fb65326d25807de142cc7ba65c6163e88d6febceb6be3705e96b942586"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/elucidator.png"
+hash = "1390ff0a8a02e298fbbef35c30e2e6a1f28167fe284b7399626541622d989f1e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ender_air_bottle.png"
+hash = "d21940d31454908e8a52371f9bc912aae166b00b991adff0e3acdb47e1fe61a3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ender_dagger.png"
+hash = "f737eb621efc70e77af6dc25fb12d64544a04032cdc086194b7c51e354c4be0e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ender_dagger.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ender_dagger_overlay.png"
+hash = "196ad34d6446ddc4ab4e1e3f23b2c081c395fad7e7750cb70b1d19d86c93bb7d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ender_hand.png"
+hash = "d16f4d2904c16dd0e937f949de48d7db34d4050e19314a8d193c4eeba0c57187"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/exchange_rod.png"
+hash = "857bd43f31b5259b58bdf1bd3b7b1347cf9a883e09c53200077196840e1a6e49"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/fertilizer.png"
+hash = "d4a110229c9c80f9a65a42de239f83969de619044783227eb6a7737f6151a785"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/fire_rod.png"
+hash = "a179ae9b10d175d4fb6bb7195f36873e2aacb6c737455209ef2e14f21a290228"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/fire_rod.png.mcmeta"
+hash = "1fb513e277d228cac0e535da2fd32fe43a7280cc9d6f744bccf207c6d4e06cfe"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/flare_chakram.png"
+hash = "b36351599f86dd8eb3a0cb3186ad2fe3d3a8b76bec7ed0db383926c89bda2848"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/flask.png"
+hash = "8c1f0f30a2a0bb3e48d908a4cc828de2e0a1e77dba21b9aed3f7ae839da3bb19"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/flight_tiara.png"
+hash = "980d1295c8f5aa64cb78695b17b5e675f29955a544ff7d882b0e211c6b721b32"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/flower_bag.png"
+hash = "06fa04b4fd07444fe07a013de1781c3291460aeacad49ef122f062c140e8224c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/flugel_eye.png"
+hash = "c939acfa408ff2e6159d57fa9fceece767b53fc0d79d799b2958f222264f76d8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gaia_head.png"
+hash = "03a410f78f92427ae7621ae5db45e3c435efe60a02a71868bcb64253e491de0f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gaia_head.png.mcmeta"
+hash = "a3cd82485efd8248e29e26deb1db5791a58558cd1c4ca9433c4889d148e52bd9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gaia_ingot.png"
+hash = "84bd3942b5032b98f9d8800b8eba152795eaa9e6ae8379ee4a14397c5fc09501"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_0.png"
+hash = "fe01948445a94f0d6d487fe4ee8a23d0d839db507007758ec8b63d5229b24849"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_1.png"
+hash = "1923fe9fd44d34bad8feead0b78aa23bd82d61795830956443365ccf89caeda6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_10.png"
+hash = "d50936e47751b812c62d48a3439250af6fa480fc6c417bce42d50b85dee3a737"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_11.png"
+hash = "94bf4bafe0221269546a21f43345bb7babfd1e05255fd9c9610d96a9acf36ade"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_2.png"
+hash = "68e53f5dbb4c28b5f418083357cc5227fe9ff2d0c4e47f37bbf824aa2f2f03a0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_3.png"
+hash = "e85143b85d7232fddc667b4de8c059e82110a28ff409c43798b77ba0a1d211ac"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_4.png"
+hash = "03180648a908d77024e7419a6a2030f2d7be2641ad72e6657456466642d3cf13"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_5.png"
+hash = "6c98b3acc21c4e8cc914aea584caa14b513b65e59a63587a0bd4e5f1f396278c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_6.png"
+hash = "a3a142f81da3d8a03d7dfe905c468fb3e282c2cd2818ce3415be6e0427d16be4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_7.png"
+hash = "6c5c35debc66ca14e0c83261ba94d6e4d1ded6f3b149be3d7007dded51d64f25"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_8.png"
+hash = "1c77af0ee6b1aec16524e157d7a3b8cbb92eedf4da565921321d74344e36464d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gate_weapon_9.png"
+hash = "b3ecd347ef969f92ec43fbc6f3c1a5b07cab2e55fa190ad3a4aac82b42c20ec8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/glass_pickaxe.png"
+hash = "cbc58d9fd2c7bf11ffe6670e36f623d25eb6e4a3c4b5019a00f6bceb8810aaf5"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/goddess_charm.png"
+hash = "1d68837b20362dd2d899e3083aa719c7dd29c413f86bd353692e237161a4974a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/golden_seeds.png"
+hash = "fdf9990add6c990e658326b5ad0ce36ba70f837f7c41a918bb9331985c829c25"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/goldfish.png"
+hash = "7f5be5954e4dfe6d257af67870129e5634b723f03d7b411fc598801b8caf4f2c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/grass_seeds.png"
+hash = "d65ccb585c9b7600afc7805b733594d90e50ef421a7ae844b82427aec036491f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gravity_rod.png"
+hash = "78810f0f8a9b93e477241c563cef3c81f63960b9766981c6663130bbc127820e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/gravity_rod.png.mcmeta"
+hash = "e00b9f6500513af8a32e60cc3a7c2bf9e502030ff333be903e2edd9c31399ed4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/holy_cloak.png"
+hash = "54bf4b915f80d9678bd203764818e264a59f0cf88ac66fcbb0533cab103d9b4b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/horn_grass.png"
+hash = "6e00a38c272aed69a12246d8b63cc521911295380198926c9c62218c93d15936"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/horn_leaves.png"
+hash = "ddaba3950769d3064040c867a3c43736e04cc16fb8874a8485f30924f0b31e9f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/horn_snow.png"
+hash = "0b2a4246a89e30d3221aa08655eac64a1adb4bb5a80518a326212e7a83a96679"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ice_pendant.png"
+hash = "54773952ac56158f546a527057881133b1b90153f52c52c90fd9750d5f62e9c4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/ice_pendant_gem.png"
+hash = "5f1cb005d8d042c86dd322f7ca8c9b0c452b1df2be7f2ad3c35a20f7c0074142"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/incense_stick.png"
+hash = "a15dadea20d5937aee22dc2b89634e0ab0b19c61702cc8f675b83b8cef4e84b6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/incense_stick_overlay.png"
+hash = "a1361dc8d38bd8894383d8cc2e8ff6292b095603d90b52672ae0bce903cce735"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/infinite_fruit.png"
+hash = "71a0049d843ca65756559a1658f774ac9bb9358290365268af70068fa23e76f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/infused_seeds.png"
+hash = "ad7a1ac58170749f433d12385672634d538a2c37ea7b2586814bd8dcbed903a3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/invisibility_cloak.png"
+hash = "39a81a6bd09d334941e32ccbfeb47eae602133e12313bc6db89ba49aafa638b6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/itemfinder.png"
+hash = "b4ba9d84d219b77d2df6ebe387eca9bda0f5aa7aaab1dd29d297fbfae6eb2bf6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/itemfinder_gem.png"
+hash = "c61d5c97f04707aab90cd0ecd1aa69bdf93fb3c0f95a743ad4da8aa661f3d069"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/keep_ivy.png"
+hash = "8a35938108765e0e0b15923e4d3272bed0b6f497cbbcac0ec5de85e085e3fb4b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/king_key.png"
+hash = "30d42c11cc04c479745c3563913e9864eb87295e1fb2f2c42ab20085b98f4cef"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/knockback_belt.png"
+hash = "7efc8788bd76fccbcfa26be55fbaa14dc6720c440c1a38ec22ed7f9ed8544254"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/laputa_shard.png"
+hash = "73bbdc2d8be8999f207fa7d71668f13c9b8786f1f6bf57dce91f64dc0c4e5475"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lava_pendant.png"
+hash = "41cf48d2b3d5e3f70c900427895a80fbb2224bf6a31ca68bf404581820701d99"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lava_pendant_gem.png"
+hash = "dc378639cb580b563829e67accaa8e3a0b00748746af2f35f250d7929b09e31a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens.png"
+hash = "8eecf7cf742c16878e971058f6d55ee458988cd62662f5dbe8b1652152eb1eff"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_bounce.png"
+hash = "8d87ca920177bac8a27859b69c404f24b49b4b3ad164160f2593cabedfc1b1d9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_damage.png"
+hash = "39c6210532194575ea40b75b70369e98c496c38e3926e533819076cf9300e55b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_efficiency.png"
+hash = "04288b7f8553f51d93b353e32b9f0a085653c997754eda4f930b88c3918413b1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_explosive.png"
+hash = "2270701cf0caabda2b6cc39d9468053c819f8fa7c7563a4af2ff3793906e41cd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_fire.png"
+hash = "16c58a8a1eebd85212237a5a66fdb93e32d670a9e455fd50d81160974b9bde2d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_firework.png"
+hash = "725528b83ad2a68db86d44b7e4263a351da78b3b99ef81a1f0e88a3880c380eb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_flare.png"
+hash = "f127d782445bd53246f8b50a1a5cb87c6ccb3e48cbfa111e7801fe72f5c6ee80"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_flare_overlay.png"
+hash = "803c680e495260b45342ea9f762dfa04271a5a1f7e239b13f44de62dd45fc56e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_gravity.png"
+hash = "2d395689ce3c4c0da8af141dd66731de2d43995a15cce183f3347b1ca2683a56"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_influence.png"
+hash = "bd893cb7bfc8719a9bf90595858c6953bef373106e695102bc85be970a941dfd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_light.png"
+hash = "779a7759c478420ccff81f51c4ba118a6591f698cd49e3308be67bd73319db35"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_magnet.png"
+hash = "23b33e035a0154927d951682fe7adcee630586e3e8c451df218a08e0d8f528ef"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_messenger.png"
+hash = "fb3a195c7b9563981fe34ac7e475fcca9ad23ecac628e63816ae2cfa69a1ac86"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_mine.png"
+hash = "de4d4cde7ee6af2b6adc37718eca79ef0673945310bab68fe66dae664065fbee"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_normal.png"
+hash = "194f968db93130575cd02afebb052e49d31e4e4c8d017654cdb80be22d43d3bb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_paint.png"
+hash = "b687a8fda1857c99bc3570c5631e1decd7a990a8f5b92ca6bad34d2db36e3223"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_paint_overlay.png"
+hash = "d0b5f451febf2388fd1ed2b5a6e19975d072d4a35bbb3e15e58a9151ae9f6623"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_phantom.png"
+hash = "94176abfc68b54e555bbfda72127d639f2de7d682dd0058e120769d464d61405"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_piston.png"
+hash = "b3b176b157b501473570f3f3f60d26b3bd0c09a3d0a858cb5d55b39f1aea7540"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_power.png"
+hash = "e5107ad6bd016b326202ae48e8d4895709ff22fd373417969638e772b926ec63"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_redirect.png"
+hash = "16185254837b4922efdde576bdabd799221e2c8c3b8380c782a9574fbf2704ab"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_speed.png"
+hash = "38800bd2132951b61d94a84af047affebeb55d0f1e6d418a181a847a5cfef367"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_storm.png"
+hash = "6c5d1f9e21db70782994c0a7f2e4b50aba685cdc0de7cf3499b543abeadee1fd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_time.png"
+hash = "56fd4b51d2fc309d185c4355addd2211d0c39218409d54be8912b76e2ba2cefb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_tripwire.png"
+hash = "54ff3f460a3bbd826fa514151e93d66ba244593f0359cfc0285527d1dccd7208"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_warp.png"
+hash = "397884fcf0c718c50fb0aacbf0096ab58b7b003a44c54cdf9f641466a86f039e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lens_weight.png"
+hash = "f422e0b9b3380a64545bbf09138fcb77795c82213625ba8e806bf2c35db5045f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lexicon.png"
+hash = "6a13da98e0a57efcb6a7a7c1fae9714393ad85df747c45d16b3a596b586bafd3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/lexicon_elven.png"
+hash = "7bbd76821cdb3ef732658d1f00bcf192ba9e990f44055fb3fdef9c68f26bb12e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/life_essence.png"
+hash = "aeaa6b3d843e7a54fd964713c423ad79c97e509451de4868dbc6896faba18fc2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/living_root.png"
+hash = "81d286fce64576f62d4e58a9d7809d18ff1eff3edccedd5d7502b1d86610e111"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/livingwood_bow.png"
+hash = "288cea97b0c70b9eda747b3e3b9d9fa8348cb387010b89247e917c183cb672fc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/livingwood_bow_pulling_1.png"
+hash = "e3e90e98b58c6a328459f0b2805309eeecba15d125e0ccb36c1201f7f13f06be"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/livingwood_bow_pulling_2.png"
+hash = "00c163e2d16d786a18c43859e5cd39f6237d195e7b7986655ef525ab969c31b8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/livingwood_bow_pulling_3.png"
+hash = "f2a6cac46237a5eded347ba510f8e3e1d42e41d81be134948b9990cc3f8c0cb3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/livingwood_twig.png"
+hash = "62b12efa8c7b3d8d0745c58a55c3d7ca3ceb80ed82e1bee9caee97bd271bb137"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/loki_ring.png"
+hash = "b925d9956e7166f05e5789c60ed7e3a694f4f6a631377bb6c9e2d70af92957be"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/magnet_ring.png"
+hash = "c907f3d115d71aac8886aee8d9da0b9d80d6146fd93eccb19eee00752521ed31"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/magnet_ring_active.png"
+hash = "1ccfe97b7f83a47eef1c43a56c8414aedc4881ac9ac5f9caf51a8bafafdb5f9e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/magnet_ring_greater.png"
+hash = "5d62d2e2dbe8a7848b7c380b0edacb6c68379b539a4c00e1fb2b0a0d12137923"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/magnet_ring_greater_active.png"
+hash = "e14e4392e3cd17f697eea368adfad0c22d3d4b8c40902c4e13b55713cc590ac4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_blaster.png"
+hash = "c9072d8c1cec703333340384af6343bc4daa601b4de3d06fe122c82fa8cb1c22"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_blaster_clip.png"
+hash = "8d8d805884be028841eac13e2431c6c0ffb7d111c8f532fd6a07cbd508053633"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_blaster_color.png"
+hash = "1daaaf00933ca4b31586b8fb6208cb78f134cbe457db51bc868687632e66a290"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_bottle.png"
+hash = "c04da2dc329e95771531571acad50a54433051e24428df99311c18b66b056846"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_bottle_1.png"
+hash = "cd793fa2baad1125caa24877a89ab67dc37114c63b1c6a04a4531a0e46f82ebc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_bottle_2.png"
+hash = "f44b8d14d93f7ed435c3ee0796077eab376584b21b90f449c71d12322ddd5867"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_bottle_3.png"
+hash = "51d03253c979ec7255153794e370020b13881b30240debeb7b13de66a2989de6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_bottle_4.png"
+hash = "bf121bb4b1ba2440f2b50aee78ecad3f387aeb45beeba987ccd3485dfefe632d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_bottle_5.png"
+hash = "ec6c31051de92fc64cb1aa74c94d690b8a1de6b8ffb2b372b1c350b735e49997"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_cookie.png"
+hash = "6d47e0664c9f0b8eb954dc52e21778019d0f72dac120c7165eb70a752ee9c587"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_diamond.png"
+hash = "b26bc1318e260d50036708165ab26cce74e08267b4354228d4770db08109d463"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_mirror.png"
+hash = "aef67b6051addc2b2cb480f64f0ead5a1f8bc5758ae8af96ac0a95424a935d4b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_mirror_overlay.png"
+hash = "7cab3315e957686acd04429f83a59dc99e68fbfebe576c180f07d33d0a648e13"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_pearl.png"
+hash = "188cab1c7614fe9f7771120a179a05389666283f4e3f5a8acfa455fc6ddc01e4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_powder.png"
+hash = "0e7bc4ce3c2ab0b840d1cf4d2976cb79f2bc536a1a37e3699a3096ed11ae3245"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_ring.png"
+hash = "fc4d33d9b4914c0a77e1a2809bbeef5378db65229c205a88f105c0579cd87027"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_ring_greater.png"
+hash = "e3c40284de18d291cafe476c3d31bbf27fc53a3b92ac24c1722c30cd2360bfaf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_string.png"
+hash = "461469595790259d85b3642d3b9c70bdbd2a66fdf0ec1171a1f4c545e86c7699"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_tablet.png"
+hash = "8d86ac911e221a92b675cc4ead1582dc85c669aef34bbaa66877f61a5879d576"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mana_tablet_overlay.png"
+hash = "123d9537a9894da03c717709ed190b003da1367b93ad59efe52a16fd450a7b2e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_axe.png"
+hash = "4c639e797482c611283c0ee6d93d880e3e17f4fae548d9c59c145ac3645f8324"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_boots.png"
+hash = "1031c802e5d661065cd0c05210e5a3be29aba3f3032d15c1a318e60390afe9ee"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_chestplate.png"
+hash = "d47652285d0d29a1ccb7fd1dec9372208b1ae89c93d1e84bece0ac2324c0d629"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_helmet.png"
+hash = "0253c0ef6cd03cb140761c932f780767cc02b46791d2eb4bd2a950b8a6d68e92"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_hoe.png"
+hash = "4c152c734ab42926de97bf89b54cb70f921b234f5504d4bd4e41a443b6657400"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_ingot.png"
+hash = "b90b707165674f1a99a8ff572453e8870ea52d5c3ae7a8eeee4b192803d32743"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_leggings.png"
+hash = "907e683a525394b77e39e4cf9eda5eaccc8fb738a5203cd74cb987fc70eb7f65"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_nugget.png"
+hash = "fd8577ed5e9d71300f5a9333238c57d15ce287de15e5416afac84fd17ea1e734"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_pick.png"
+hash = "9a51c860a261bc469d5bfe6e7c5bf2a889c8e791e73866268d82b73376b2c222"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_shears.png"
+hash = "c1498a0b1147d36e9b5c4756410cb2d4c5713ccfcd62307e2a111c9bc6326f7b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_shovel.png"
+hash = "9e12acfbee33b80e95e3e64349d0b90982583a38732a52e8b6c694778bfa6141"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manasteel_sword.png"
+hash = "367e23e4cea0eca5a3e3bd585454793e78faf291e0a73f5e214c7636f6210dc3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_boots.png"
+hash = "0f7cf8328cafef6b79a89757d08ea517888d975317658a34ae46c9b7c29d9476"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_boots_holiday.png"
+hash = "6449571a9ec912d29bc67583a052a05bfb76b4c8c78f0f35816ebf7e9eae9834"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_chestplate.png"
+hash = "730c3507ce660ea4cf4758a3921aaf52001ecbc6c962c7de9fac70bf130ff8a1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_chestplate_holiday.png"
+hash = "b0877ee98a751a01325dadb8718466050b91e75f11255580d40f88241f81ce77"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_cloth.png"
+hash = "b785878527258d4a87258b629fe0967e837687fcb37bab6eb9cc332593ed9cba"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_helmet.png"
+hash = "25ad81dc1fd3feb706224b0f27369b1089b929ce7b0968c22dc81b58417725d0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_helmet_holiday.png"
+hash = "ea3ae6d8ef4950b60d52683b9b4e335fa275a521c2a859ab63a0007360f19c44"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_leggings.png"
+hash = "524bcd732d58d56f52f642a9591d244fe88d6147d8cb74555abae66194164698"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/manaweave_leggings_holiday.png"
+hash = "23fdbdb1356aa390c7541de6a2878e2c54de0902b75b75b972bae1daa57292aa"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mining_ring.png"
+hash = "176e130c8b15ddfb67ddfb0fbee9453b04b60c0a57a1e1e470612e8108fd790e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/missile_rod.png"
+hash = "8d71724cb14aadd3b70ea6183d0762d160240cdb2f1ed3802cf0f7f10a75462c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/monocle.png"
+hash = "613e8b8be3097143199161ae1b19b70a4eb869a631de4f191e52ffe63b6a0287"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mutated_seeds.png"
+hash = "ef576630788c37c4a6d90ece0a8c00efe325c4dd9fddab34fa65a2ee5a06a503"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/mycelium_seeds.png"
+hash = "fbab50a1c4b9644cbd8c070c0b3ef508bc8da29a75c2c646aadec9652933ceee"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/nerfbat.png"
+hash = "fbacefa2e38e54d295cfef4f27e9341d222ebd06636dd90e491ac0240f53574a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/obedience_stick.png"
+hash = "c79d71c65c21778423eadcbc127524866f3062ae96ce78f4b4d05425f2eeb65f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/odin_ring.png"
+hash = "1ad1fe570c9a119edbd78ce242308fb5b57a425a316c761e02c175191d4d72f1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/open_bucket.png"
+hash = "9d8b7df663e78e429356f32faca7764b57f909265b17ca2677e09c25d82a01f7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/overgrowth_seed.png"
+hash = "bcae70a3a062ad77ac99a1eefbeb521554884869877b1b358ee59a375a2b2e59"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/overgrowth_seed.png.mcmeta"
+hash = "57a8a2a0f0638020869051267ac49393745b00cc9ae1436557c0009803e946cb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_1_1.png"
+hash = "6312cb6d671299676773401b684329db8dac28d6cdda939b41d5312706bf449c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_1_2.png"
+hash = "1a002e1b3515e19efbf12cdd3bab0fe011737887de8b31ac8aaac63fa7e67939"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_1_3.png"
+hash = "da6081aa760633fc653b11980119670739066ecc10c4bb6dc1cf3c99187555f9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_2_1.png"
+hash = "39a3a7e752a646384e106400619e03844205429786634ac99fb9fde50fbcedbe"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_2_2.png"
+hash = "41457b445264934ca5b7641b2521fbbed7ab32f8f22f6ea896eaa95778a74b2e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_2_3.png"
+hash = "cfaf9f2ff0f6b138e53346b514a9054aa004c5f5c8f84cc333bad2e312ca93fc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_3_1.png"
+hash = "d2e28fc9012fc58b7e4a388310b2ee68afc41e77027b43377928f0144ac3a118"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_3_2.png"
+hash = "ddbfdaadefcfc78b17214262634b59ebd99591e20924bce9edfb141c2136828c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pattern_donut.png"
+hash = "ecdc9a141dcf53d8352619cafa61bbb855b2a097a98347ab45608a249c96db73"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pebble.png"
+hash = "fe5083fe24d4f45ba6b7a16d51f791ec4d2bd23f686f7dc5c8075b231ec82cdf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pestle_and_mortar.png"
+hash = "e05ba6e503fb2547b03cad46c2a6a2317a5ed4c563bf05a25822239151f42bad"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/petal.png"
+hash = "e6d74e292e452f215ac5a5321ea7531a7016aa6db1e5929cad777616e158d05a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/phantom_ink.png"
+hash = "d7f3a6ae44589fd1996c99899f3f106de0c8de062766447bf84ca5a50538eb35"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/phiflower.png"
+hash = "c33be2b2b06db817d0c45a9497a631a4a8be6c9414198441406169a06725c433"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pinkinator.png"
+hash = "8e7d630b0c02f4ab198e3d24b351a19e05e76f420661a665495fe0719ee524b2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pixie_dust.png"
+hash = "40f1c4df994b2a47261ae1484621c77e42e2fc6a3fd5374fdc09e81e37730ff8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pixie_ring.png"
+hash = "68c2188f3969ba631130fdb08bc64754178462e7be3d9b5cf026cd0c9632a0a8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/placeholder.png"
+hash = "78d7afa6a3e3c9545447a74d9b8b7c35d544083d5b508a00dc39fa67ed4bd95f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/podzol_seeds.png"
+hash = "9a10bd41b65f3c9539356a1b07e505a76927c2c50a76a5e0df9ee6974b5559ec"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/pool_minecart.png"
+hash = "1528ac16a7d7dd7b745b24e3f37baf0da6766ec06a3467db81c9c252ca1ed270"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_blaze.png"
+hash = "ec973eceacf14959f22fc05e466c91ea296779cfb3d1ffd890c71b19b28ebf6b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_dark.png"
+hash = "72040c019dae4127e95f0ae53491f169da2ffec4776fb28484cbcae7c5780e9a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_elven.png"
+hash = "c6a8a6cb52a8a5944f5fd18bf579fa530fa3f658cc41d604e0743d6bc68970eb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_lavender.png"
+hash = "62e6c84bca60266b25d05fa782651e511281d86dc3c6cbcc1a8468fd1b37765a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_mana.png"
+hash = "916757fa16ea8595d641356471f5ef053508b9d7cd20e5b12edfc58990332483"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_red.png"
+hash = "73e74404b63659421c954ba1082a3dd800698c71682502f96d66b6fd6f073de7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/quartz_sunny.png"
+hash = "a32de4c231435565ed624fab1755b74208bdfca9d9e343e0bf387d20c3714796"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rainbow_rod.png"
+hash = "5b1574c56dc82f4110579432d26c68417d6670b95e9d38ce0074be4376cffc5a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/reach_ring.png"
+hash = "64ae757e55590cce817e917124236c18b8cdc320986c9a0f17f40d47ef069320"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/record_gaia_1.png"
+hash = "8106516579d23fa94843cc9c16501f83777411b99a1c373053783eb17ed14718"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/record_gaia_2.png"
+hash = "4042379856c3028c5e5b9dae48c16a49a243beec833fd6f902765976c0876293"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/red_string.png"
+hash = "d8be3663cc61ee671be0c9818c0c126996ad65ab0c909a4a7632398fad59771d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/redstone_root.png"
+hash = "6a9cb7905be89cfd8d76da7de2100387bfdce6c95ee3806c705b39fca83406ed"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_air.png"
+hash = "1dde7e81b41a58c2e7512aa41d5c4e5145f56a2d784aefc1d49dbfc3ae111e68"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_air.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_autumn.png"
+hash = "920abb760f215b45e87bdf750811846af1ddfa3167f6941cdb4ec7ad6d1576f0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_autumn.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_earth.png"
+hash = "2f4d994af32f11707780e53a257883636d758fa9e92e2e1921264658479ffba4"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_earth.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_envy.png"
+hash = "f0e06cd135cc89e34cf9923272a4c9f1a2897aebae57fd0906ccc48764a74823"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_envy.png.mcmeta"
+hash = "64f6701b4546e3f59c207703dc55749dd93e584fa5cf03cf3ae4d0a6b1789f97"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_fire.png"
+hash = "b43191a9bba883b1ea3d5ebdd23e1a1890d2a7b0fca83e6f4da7a8781e9cb1cd"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_fire.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_gluttony.png"
+hash = "e3446282b74fccc9709a4a30432de175cb57558d28ea660f60743d865b3ecb43"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_gluttony.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_greed.png"
+hash = "4d4c3e5227fc4629f5d5a768c658ea224c7b5944435f2f5be946136fc7b47a93"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_greed.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_lust.png"
+hash = "186fc57f820d2316e1907a9e678711467aac5ec519d7bedf8037db9c1157cb2b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_lust.png.mcmeta"
+hash = "3873e55d3316525586efc4a0134e36808e15ca52b958e709011ad160e1033031"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_mana.png"
+hash = "8956434264bb52e97f6cdcf9206a0349d1b80cabc415c94507a9bd8f6f6df5f2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_mana.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_pride.png"
+hash = "ab8f8a36bf2f99b54ba9b7a1b765bc2263f2a67c14301500b24d1ebfc88dbf41"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_pride.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_sloth.png"
+hash = "79069f45f57a968f762cde141db66b0ba0da242e921daf3ac119364227120b86"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_sloth.png.mcmeta"
+hash = "9ada28b966c1b9bccc57ca91d5a2b4a5e9e24494967f07dbe46ecc9d67f4cb89"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_spring.png"
+hash = "2365aee5c929dbedf5ed6e895d1fdffb2a213f396ceb1676661186035a328389"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_spring.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_summer.png"
+hash = "5f3e4a92a91daee6b830a1f99438a6a26133868f183e0127ccd1a564cd79d76a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_summer.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_water.png"
+hash = "e9366f31841ff55bfc3cb92b6274ac79323fb2d730092c03ea632a020c8fd424"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_water.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_winter.png"
+hash = "59a46ee7423701d0974493dcabc8b886f1955930b0e5c56d087d58522018c607"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_winter.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_wrath.png"
+hash = "446e5f495950825f68b950614293f73a7f52c8ba8288d4e347616cd3e692673f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/rune_wrath.png.mcmeta"
+hash = "67221a269bd9efcdb1e810db0afd6ed814d3a09a29fc5cf05240d0383e2bfe1c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/scorched_seeds.png"
+hash = "59042bd42ec4d20a2f9945e889844c2a8ed08e4d8a0b2a77c72476b7427fad47"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/sextant.png"
+hash = "f8a474f96b3bdee1bfa95870bc7103917eca8b87b20d15879670551c863d33ac"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/skydirt_rod.png"
+hash = "b82ead96f3197cd8ac2a8036a39ac72493c71926c8211ca0f3747aa44a129ac1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/slime_bottle.png"
+hash = "5fe12035e32f6986a488f8c9bb9fba856b2b6ed4c332a69e3436baf10c1035c3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/slime_bottle_active.png"
+hash = "a8d7b3815121cd54a0f06e94d2df24455a4463ee4b095ec21e910fee3b17b715"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/slime_bottle_active.png.mcmeta"
+hash = "73890d17da1c12272b8d387900f27d29369cb8ae5ac265cb52d9f175ccc68a53"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/slingshot.png"
+hash = "b13f977d07a56019f4d9a98d427a049408f1fae1b5e24a89a7af47e8d3bcc417"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/smelt_rod.png"
+hash = "90c80d7bd94576e50eb7cec5284469ecdd54c70dbd5647b74cac464962641ee1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark.png"
+hash = "8156e5255bd98f00ac780da54921dba05131bf4b19726693bdbff29f9ee9f2d0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark.png.mcmeta"
+hash = "0fba030acee0f6014f14eaacfce66a01ec1a6a433b5184ae5a589c22da610c33"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_dispersive.png"
+hash = "63517f2545f4f6e786e8deb336dafda0645d34fdda4f89f06b1d54645ea81a2b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_dominant.png"
+hash = "0f0c91d89d5ce3a5e6badf037c5dd831bfff9835ba0cbc00c6871f1af1f8b225"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_isolated.png"
+hash = "1790b34ef1923aa7b289052dfd09f6b4f0a0a004535aaa52e8f49ec8a52d2fee"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_recessive.png"
+hash = "014ffe794a7a75b165252a581a8326ba21ea630314c56e96cda029a34f1ca2c7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_rune_dispersive.png"
+hash = "1d0983a4b9fae3aef53d73b6817cb24ad900a0cb92bdc79c800986b11166f9eb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_rune_dominant.png"
+hash = "d850105a29ad99df90079ae1fda1775f3865f120525891df848f7881415333c8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_rune_isolated.png"
+hash = "f6deffe96ed0c920f29b8c209fd2b8c79835dc13190e4c318cb013b345fb0895"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spark_upgrade_rune_recessive.png"
+hash = "1ae07721710c75d976d87cff32437e79a31d34b1944c6cddc26b67c2b11597eb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spawner_mover.png"
+hash = "8e366cffc8081eb132584a63a989f027ec827139472d6098cbd311bdd72b6902"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spawner_mover.png.mcmeta"
+hash = "2eaab7ee27dd45bb587f6361e1e2a6f7209cd566cb91327f4a32b8b938a625fa"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spawner_mover_full.png"
+hash = "bf854928ac50938b19be9faaa1d6c3e1e8f0d35b85ab96d4b4c64dc458dd2684"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/special_tail.png"
+hash = "779b9953e4c1f58ddac98f7cd46a7c5f09c349f3f6356cfd7989a0e3f3ccc3d6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/speed_up_belt.png"
+hash = "1ea13037d909cf107b8d6f8acde7005d1e41efaac766e5a7385c4be340eeb419"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/spell_cloth.png"
+hash = "b75ec61b420bf3304db8cd3eab29fa7fd2e51d6b861f85a0ba19ba9b0b11b102"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/star_sword.png"
+hash = "af29907f73ae2729b8045d007d3e3c970ff3186866e2117b03f3ce407faabbd7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/stardust.png"
+hash = "081cd999e1b6507658c610dc70b946d9ae683358eb090d9d4f0911e5143f08fc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/super_cloud_pendant.png"
+hash = "d6f50a00ac511243bd722686b638669737140df7f09fd4b81bb33f3276822b67"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/super_cloud_pendant_gem.png"
+hash = "0ab2b70405c4cf401edcdedf3df4da170be3595c8e6564be3a10bd40e6123ee0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/super_lava_pendant.png"
+hash = "cbec4cc39cd866c61ea40298765af3433ee1b27e6c19c15d39fd226bbd25128f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/super_lava_pendant_gem.png"
+hash = "b88a9e6333f2d68a5c1ba19064aef373c3705258767a0a72df3dbd0d2ababe18"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/super_travel_belt.png"
+hash = "db0c611c10542f727c7ac15dd1fb1d23e1865b8039f73f2e0dac083475a78aed"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/swap_ring.png"
+hash = "4e730cc7f5d39d01947d078d499b70def106e665d8d1cf658f44110100b2af9d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/temperance_stone.png"
+hash = "aa6645003e3f6319fdd453d9972bb0dda57319e959f7a8bffd59ab1c7db57b3f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/temperance_stone_active.png"
+hash = "8d9126b6e34bcb957a367017fe6f3ca7a448385dbeec01b6c501348cf3f1deaf"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/temperance_stone_active.png.mcmeta"
+hash = "8555a677431b0e4e29e9388e9a64b7d3352acbf08e683386bb1566838ae785f8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_axe.png"
+hash = "41dc486db40645818f1dc2665c5c1610ccddc029ca1a9a5e503180c9134c6f28"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_axe_active.png"
+hash = "68626fa761a8a6dad34d3ffc33aa377a6c8c7e138a664798ba7833226e9030ba"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_axe_active.png.mcmeta"
+hash = "bbd28ee99537cedd1ef7a23c4db2ed12177de94af7eb802df7abfaa896e70cad"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_pick.png"
+hash = "10957207801adf332dfb6565c7315eea1432afc68a645c02ca12bbbc0e50011c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_pick_active.png"
+hash = "2f1f60d25c93b5351ba5b922c7858842f553756a25c8d5f3d2b56b135fb5bdae"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_pick_active.png.mcmeta"
+hash = "bbd28ee99537cedd1ef7a23c4db2ed12177de94af7eb802df7abfaa896e70cad"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_pick_tipped.png"
+hash = "d37983697a21644586e5212e7d2cbad7115375562d522ead76cc00e879c430fa"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terra_sword.png"
+hash = "e7fb9aa8352760952c9fd62e2357a14b4cddf8ad2a3dfe02054464cb1231d0a6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terraform_rod.png"
+hash = "35de65560b255e38bbf3eb73b14733cd2c708eafb7c313eef5fa331d06cd2c72"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terrasteel_boots.png"
+hash = "87cbcb353bf7ff03a28dccfba7dfce96d7b71054e31c12cd0106df5b4c121863"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terrasteel_chestplate.png"
+hash = "a0431d81d77b115170ea4cacc8af38cb294bb9e6d57f99dda21b49b538099c02"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terrasteel_helmet.png"
+hash = "85ba4c13b548f50a67dd05ffe87a2253123128b315aef4d66ea5380a57a310aa"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terrasteel_ingot.png"
+hash = "3b548985acbdd3d7b913cb7e6d7ac99241bb8643cbb0c55ccea4d40dfa68ae45"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terrasteel_leggings.png"
+hash = "fe708f6c1ee55b277b9081d85a14a3093f6fe9f0cbf1af0be17256a3f74996c0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/terrasteel_nugget.png"
+hash = "4dc815e89886bf9ee22fb86624f0ab26636754dad133c2cc7294869664f8590a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/third_eye_0.png"
+hash = "369322869c524c8b14682c49661a463fe9d5c2bc04ce3b4abea6911e35951676"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/third_eye_0.png.mcmeta"
+hash = "dd9939f0781f8311854b0f2e0fc765c7ea59a19394c6bb0ed6952c93ffc10495"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/third_eye_1.png"
+hash = "b687a8fda1857c99bc3570c5631e1decd7a990a8f5b92ca6bad34d2db36e3223"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/third_eye_2.png"
+hash = "b687a8fda1857c99bc3570c5631e1decd7a990a8f5b92ca6bad34d2db36e3223"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/thor_ring.png"
+hash = "2a26828f23d087d36348f382c4abcab1949895e953e3d1f5c95ea10da92363b6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/thorn_chakram.png"
+hash = "e0072bfef548ef154f66e385fb424dd50823d1b6d92d9533330c5a1a56a3a73c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/thunder_sword.png"
+hash = "f78c9ea4c3b0d729a4f98b4e419304b66c93003d9cbbf7ede5e9369721813068"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_1.png"
+hash = "1b0da706f34504517cdff712b9a6a3e3ec53d15bd5eda823ca5a60177695d1f2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_2.png"
+hash = "fa831d22a02c0771fccfa35e1b482b54092a92569c0167f479e2fe302634ba1e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_3.png"
+hash = "88a5d8dd1d042f848bc70058c6e1d70990428f0bf5f5fa84ffa53d1b7feb2b72"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_4.png"
+hash = "a6ec2dedcef45229d0dcd2c497cde127686e53f96d3defa93baac0342c58b273"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_5.png"
+hash = "1ceb9d13f30e92bbbfa3383ffa0efef90952e04bf1686d1e295cd12a142b045c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_6.png"
+hash = "586bfdd3152dc74e1db0a1d2835aad27e9f10a8d69558246e6ea5bc736748a3a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_7.png"
+hash = "40e04ad67cf6079185089ec78c10e64fb3ac25781221ecc9c458929b0baf630d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_8.png"
+hash = "f82e5803eafc73e7b37cc8f79c635d87068f2050caa3f3decefa071cf8bb249d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_9.png"
+hash = "a5ef4d361870a3461b84829613bf3e1870864fb660debbb039b7aed4badc84c0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiara_wing_9.png.mcmeta"
+hash = "25463a660631ae423ae9830f0799f7f5b5eaa1940ba98149c2e6635f0010d050"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tiny_planet.png"
+hash = "11f3697671a0d4d3cfe3e6dbbaae812de56697a39fa86cb906e4f88d130ea99b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tornado_rod.png"
+hash = "c29a3d3246b70d66e6f3bfaa01d9a59f37f7b5e08208859a45c8675128432056"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tornado_rod_active.png"
+hash = "2e1137338d1fb03d367e3eb90750c8c4e68f730618856d16f13a85a890222e2d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/tornado_rod_active.png.mcmeta"
+hash = "fe57ce6b95cd0229f207a5c48615c374fb9e4cb3c711e787b45605fe6fe70a1d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/totalbiscuit.png"
+hash = "50d36f4c990cee6b17a2aad72345461a651fdcb16f700d8fe28bb3c35ac51210"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/travel_belt.png"
+hash = "bd42722f5071d5465780302b43c1dd3a08ad260f1c59662beee9761ac62ed4e9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/triggers/mana_detector.png"
+hash = "6716872e2513a36f4b821646a091a1296ef4d258215f338c9dd9cf4c1ec7d639"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/triggers/manacontains.png"
+hash = "167df6fab4e0d7b9757ff05ab73af0964d1d76f781480fac87403a3f36583e9c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/triggers/manaempty.png"
+hash = "337b4c3230a006fbd4ae1f225821006cbb21f55f63a15bbf27bc2edd1fb72559"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/triggers/manafull.png"
+hash = "fd36323e92439efffd972f74ace065836a851979e72e6643e5e2e01f80516413"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/triggers/manaspace.png"
+hash = "124029b4ce41b2ff5f038bd099346d9b342f9db8957114190ebc7cd33db6d5ce"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/triggers/rune_altar_can_craft.png"
+hash = "4799486ffdd2ad47ff13ecef09f1ef0bf55f114db5eebc5ea03bcc2a0ab4b65e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/twig_wand.png"
+hash = "9319c2893c480882a9269a15608f752c26447881b61d5ca6f27c79103e72bb98"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/twig_wand_bind.png"
+hash = "408295c830478796093aede6931ae48c80af524835303d53a7bae0fd090ac984"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/twig_wand_bottom.png"
+hash = "017861a5f4bc3416bbee4745d9b196818244c9e0b2d1a78ef3c4e1676230f9a0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/twig_wand_top.png"
+hash = "af829c052a51ed9e01d9a4b1766be33874334f4513d2950725e0d761be31c887"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/unholy_cloak.png"
+hash = "90397f86852e097d0d56bec0db8de091fff2a567fe3fb380f589831c318a5681"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/vial.png"
+hash = "d25e67267dc5c71979600e64197a98fb95327fcddda5da357b4783afa78e5a79"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/vine_ball.png"
+hash = "adbeae59a5872ae25dd7a5141089d5578e9699b07c89e0dc76b0b50306679be2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/virus_necrodermal.png"
+hash = "f38ca9ccbba20c8e2289f10e587f751396f8878eb55454b6dd336571f74f5d53"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/virus_nullodermal.png"
+hash = "689aba602a99d19d66e87b15e15d3c5a32df2e5931304242115fd76bfa781ae8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/vivid_seeds.png"
+hash = "149b68a70d5ee2f8575389004ad24b4cfa8e978f729a11a824756c3a63225231"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/vuvuzela.png"
+hash = "0bf76222c124e60f807a5096c07fd130624d0f04621a72a60f5175f8782528ec"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/water_bowl.png"
+hash = "e41040a1b585727f915aba140757033a2d83cddc343698805431185cdb2652b8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/water_ring.png"
+hash = "75d053dca069b2061645f090f867500d00fea71e31aed251340a36ae2fe66419"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/water_rod.png"
+hash = "b04821c023f2da49a5259326e64ba78c8feab52def1f9eeee41bde8e0ed58b82"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/will_flame.png"
+hash = "5f311b9c66b41d01a233b4bbdda8cb7918a8b3c4624619123724a678df7cafe7"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/will_flame.png.mcmeta"
+hash = "0cdcc90657e508420a047264d37e67da58138d570eb17068b5afeda2f6142c51"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/item/world_seed.png"
+hash = "193571498c94651d52030f88b5ea3e08d85fc539820b04b7a75de4e3bd888216"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/armor_elementium.png"
+hash = "3a548b3b733626a7f57a6fddd8f14f759055bb570c3ca6bf766dd8c65ab8439e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/armor_invisible.png"
+hash = "a7c642bfc16540863bdc5915686485fea70556e24378b91da06684f1f7182e1e"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/armor_manasteel.png"
+hash = "c071217f88c4c6f82f6f569af4d6490d0f7861acf294ce5d02aafc457a27df67"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/armor_manaweave.png"
+hash = "7d2e1fe185f575f1eb299263608e3bc90b3306b49b518b9894c863a1b6ef1218"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/armor_manaweave_holiday.png"
+hash = "3b31e95fa5f6cf378e078c66ac957f7bd5d541c3d870a3bcfbe4e4f813a60470"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/armor_terrasteel.png"
+hash = "ef33b825396e3b9982b3b6dd2b559083d2d4b5b189d017829781a85ef05626c2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar.png"
+hash = "24f6ec2895dce5d04d3a256a302db48638dc7c1138380ec57b913b68d85d001c"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar_dirt.png"
+hash = "bdf3e6f9e2888ebac4aae131e6ecf8906acf25f9767e99ef34c2702389f9c095"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar_divining.png"
+hash = "36d1fd8f7452085c175f98b476eb192d1e9eb92b3e6d1c04f1c26536d010f49f"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar_fire.png"
+hash = "33ba2d8df8b93a981e831497a383b6d1ec12b75246c5b320b186c13918af3143"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar_missile.png"
+hash = "a5c4406668b27541b0c21994c7c83113d0b756b7f13a4f9d309029ae31503588"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar_rainbow.png"
+hash = "19d924a0674b54ea09699e5efeaaa18992c1e6525509c115b31512fc93ab72e0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/avatar_tornado.png"
+hash = "887d595ca81131098a34bf7c7d57d1693024b9c39787f2d9a329168ac9aa4b8d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/bellows.png"
+hash = "c22eb7284676b66d1ec51bc70126c044500c48174fa84595501561c5c9b701b1"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/belt_knockback.png"
+hash = "03a3f66333d6670f1f3f9bc2d78c696d4b98c834293d97fb721fa6db1a857978"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/belt_speed.png"
+hash = "14547b5277c5ac41dfada09465bef9b6c2597b1d6f4d071e090506898ea3cb32"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/belt_travel.png"
+hash = "78e4e454d6c20d16b1fc4fddaca7284d061946275e3a708107949cc56c01b7e0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/belt_travel_super.png"
+hash = "bcf1f66bf9054402930292f08a073ffdbf8592b0eeb14252fb54bd65de40806d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/brewery.png"
+hash = "f554fb7aad1df5bcfe5a64fbcd9944a736552775b1cc6baa040359f047ea4545"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/cloak_balance.png"
+hash = "d5c63352f7c314bc8765b13ee44cffa2335d0450e260228e505afdbd788bef73"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/cloak_balance_glow.png"
+hash = "92adf14ec508aba86be3db3dc35951f3358b38a8674d5f9e3e7564b45362ad8a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/cloak_holy.png"
+hash = "e2d80494c8239c53e51ba516f38b84dee137408c56153f90811533e2928817ea"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/cloak_holy_glow.png"
+hash = "3d7bc1ba08b90a998aebec1d3bf8139607ef3e198adad0f82ec9c47fd92ba20b"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/cloak_unholy.png"
+hash = "b7efe2d5431d17d0f9372e8b10c2a1b737dce78111d69722bfa3feb7aaa2b69d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/cloak_unholy_glow.png"
+hash = "37858ee8c9f3bb400640d22cd983319e380a4672cd2ab30f51a1dbe585567434"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/corporea_index.png"
+hash = "9a768e4f488317ba2579f4a8713fa5e8c34794015814ad69fc1b4b1ea98633e9"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/hourglass.png"
+hash = "74b5e1a39ba3b5421e38817155efbf0a9b9d20b85a39394ad98c3de26bb55e68"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/incenseplate.png"
+hash = "471b8289046b554b0c6a7fd78396e3c960558e5214ec20ab0a5f2f6cf9e4085a"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/lexicon_default.png"
+hash = "4f0a80edaa7b59b1a1e6c55ee54180be4312231a8c30211326a8d14bf37c43b2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/lexicon_elven.png"
+hash = "2406783ca099661529afcf7dd5d5b6f4fd6d27be1365b27c044d83d58460d6f3"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/pixie.png"
+hash = "c71a5ea33f55f5822c89a8487c7d3fb1c8e3e39383506fc14767c8424d63982d"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/pixie_halloween.png"
+hash = "1466efb6af33cd70cbd9cfc9a39446da9288ae432f3787f973472f01875f34eb"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/pylon_gaia.png"
+hash = "96920cc150d110ca78caab3a5ced73d066ed24e72552876ba198974182fcaf54"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/pylon_mana.png"
+hash = "02d3a6dbd3b9d6e75cafad98fd8d2a36e595ec95cdafe8ba60336af05e2bd6dc"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/pylon_natura.png"
+hash = "a5d8cc038a5bd126c7ab0ba73157b593624d327645c911e5e5880b9b0470cf29"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_dreamwood.png"
+hash = "2c0a0a41ff8131b9d83bdb5267740129edf7205402cdf78c8445fff073577bc6"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_dreamwood_halloween.png"
+hash = "57f5d30c823d1994bb47fcb2f20a86121dcdcf924f2086485dc6b0c95f26dbd8"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_gaia.png"
+hash = "ddd55f4c8faecda0adaf29c32ee50f2b12b8bde92d5b12547370c5ef397c1cf0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_gaia_halloween.png"
+hash = "ddd55f4c8faecda0adaf29c32ee50f2b12b8bde92d5b12547370c5ef397c1cf0"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_mana.png"
+hash = "47cd92ccab42497e06eede9994ec57cb38226bc9fd6aa3852ab20e98fea78302"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_mana_halloween.png"
+hash = "47cd92ccab42497e06eede9994ec57cb38226bc9fd6aa3852ab20e98fea78302"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_redstone.png"
+hash = "9fbfdaeb3a854e31eb6de0a44a02f114904a432a074163fa584ca8eb448020e2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/spreader_redstone_halloween.png"
+hash = "9fbfdaeb3a854e31eb6de0a44a02f114904a432a074163fa584ca8eb448020e2"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/teru_teru_bozu.png"
+hash = "ef6e253270ad735953db404d48ef44eacb724678a5ea673d66251db739793e42"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/teru_teru_bozu_halloween.png"
+hash = "67beccb1f879ed699c25a8658d6b947cb08c254c75643e27274480207589f931"
+
+[[files]]
+file = "thingpacks/botania-new/assets/botania/textures/model/wither_pink.png"
+hash = "f2a9df3eb264fb2b57cf5e26dbf1073b3f98273b3a8e2f5c148166e58047bcb9"
+
+[[files]]
+file = "thingpacks/botania-new/pack.mcmeta"
+hash = "21d14292f4ccb8e34c63cd3dc3e523d00891d240eed3c8c1d8e5157b647dae28"
+
+[[files]]
+file = "thingpacks/botania-new/pack.png"
+hash = "2a2583bc41dd0ddc9eb68197b16bf791b96b951803729683bcd54196044c58bd"
+
+[[files]]
 file = "thingpacks/fix-recipes/data/lexicon/advancements/recipes/lexicon.json"
 hash = "8fb42f098bab870871f4d2387e85ae6707bd036c54b326149524d1b4848e62a4"
 
