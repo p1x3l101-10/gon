@@ -1237,7 +1237,7 @@
 	MANA_UP_COUNTER_MAX = 100
 	#How much mana regen scaled with max mana is added to player regen
 	#Range: 0.0 ~ 1.0E7
-	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.005
+	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.05
 	#How much max mana increases every time it does
 	#Range: 0 ~ 100000000
 	MANA_INCREASE = 1
