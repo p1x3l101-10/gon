@@ -6235,11 +6235,6 @@ hash = "d92c0846574b68f5da2c48f1ef14226a50b8052f06d0c6b0f28557d7a2b820b5"
 metafile = true
 
 [[files]]
-file = "mods/tutorial-suppressor.pw.toml"
-hash = "48a0622a8374bb314fc8f47913b6edd45b1db3ab86405df1c20615eec10c0ea7"
-metafile = true
-
-[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "e306819dc9caed2c53c33b3c16430bb34d02263c965a40116448877fd7aa7f23"
 metafile = true
