@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Removes some stupid curios",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "map_atlases",
+        "path": "curios/entities/player.json"
+      }
+    ]
+  }
+}
