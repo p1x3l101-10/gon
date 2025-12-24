@@ -5891,6 +5891,11 @@ hash = "7bfb891c32864c41b7ecda0730e61449324f2ea4e86689f72568e57d9e8395ec"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars.pw.toml"
+hash = "29f073231de93f994fdbbfc2c75e9c99b06046200a2f78725918949709fece3f"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
@@ -5947,6 +5952,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "c7533764c3b6c297fadd0a26c516016cc5412db6664167fad31840f8f2352fda"
+metafile = true
+
+[[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
 
 [[files]]
