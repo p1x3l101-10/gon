@@ -5546,7 +5546,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+hash = "34cda195a1592592ea4ce8d1b0a814c34b0e29bb93145dfa182f33b665f11878"
 metafile = true
 
 [[files]]
@@ -5991,7 +5991,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-magichem-labels.pw.toml"
-hash = "f1d95312a71d43f6f7190fa01b3a16803c365597f01e207e2156965f65c2fa68"
+hash = "f6ade682c895f1f7bdf9d7298012212761a4d6f7bca7e2b0ff8b5811cb84c2ba"
 metafile = true
 
 [[files]]

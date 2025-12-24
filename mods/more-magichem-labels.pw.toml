@@ -3,8 +3,8 @@ filename = "moremagichemlabels-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "289c644723933aa2cb4f10a902a237c60f6ad61b"
+hash-format = "sha512"
+hash = "ba7e90530769480048bb31dd0184b8c954fb963a44b972983c20c1274e3f8b9cdda9f006987b9fbb0c4cee2ad1186d053ab90a82b81c0777058a827766c34ce1"
 mode = "metadata:curseforge"
 
 [update]
