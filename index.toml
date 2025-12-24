@@ -6030,6 +6030,11 @@ hash = "7ceff8f628f25583c10c5bf7223ce4088cffc7c36581d330ad6f3b662556a7eb"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
+metafile = true
+
+[[files]]
 file = "mods/mythicbotany.pw.toml"
 hash = "5a73062be3919a4efa0f8386c8b9f08f0fbcccc035070a01949007beb5bdc83b"
 metafile = true
@@ -6227,6 +6232,11 @@ metafile = true
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "d92c0846574b68f5da2c48f1ef14226a50b8052f06d0c6b0f28557d7a2b820b5"
+metafile = true
+
+[[files]]
+file = "mods/tutorial-suppressor.pw.toml"
+hash = "48a0622a8374bb314fc8f47913b6edd45b1db3ab86405df1c20615eec10c0ea7"
 metafile = true
 
 [[files]]
