@@ -5121,14 +5121,6 @@ file = "config/mna-client.toml"
 hash = "abf79c7a6946f4503d01b665bd5337b9d1cec6e52f5987e88926c425fb411f9a"
 
 [[files]]
-file = "config/mna-general.toml"
-hash = "76ff3a7fc52ce9163c76bea9f24f943f2332209d9975282491e939304a2d8082"
-
-[[files]]
-file = "config/mna-spells.toml"
-hash = "f3d176db4ee66c07ebdc5b4e1f80dbfeb2a97a93116ee40156cd1184f7ef75c3"
-
-[[files]]
 file = "config/modernfix-common.toml"
 hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
@@ -5454,7 +5446,7 @@ hash = "01ab07a10bf25826ca3a16efa5b43900b9088b41bbf873ce7b4515930eb3d584"
 
 [[files]]
 file = "defaultconfigs/mna-general.toml"
-hash = "a3f897ac2a4463e9e39b35f9232ab281825de6785ca9cf42de3dfa23aca1c38c"
+hash = "76ff3a7fc52ce9163c76bea9f24f943f2332209d9975282491e939304a2d8082"
 
 [[files]]
 file = "defaultconfigs/mna-spells.toml"
