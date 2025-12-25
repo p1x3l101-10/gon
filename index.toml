@@ -5786,11 +5786,6 @@ hash = "7e8bf390d37f23382a25e270d074129ba8c5d8af874e46bf596c714433028a7c"
 metafile = true
 
 [[files]]
-file = "mods/hold-it.pw.toml"
-hash = "41fee2381f6f667046b441f181875d22a1468886c83f5be4c990e673bd76c7e2"
-metafile = true
-
-[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
 metafile = true
