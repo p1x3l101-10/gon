@@ -5586,7 +5586,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-magic-and-relics.pw.toml"
-hash = "2f9138e6a9ccd10e2e25471d7bd1e38c4e4db29be58ba01a64b01929fc3db949"
+hash = "32e9833bdce8a703957a5d47997e981f754c08798839ac075c3ddc978fa6615b"
 metafile = true
 
 [[files]]
@@ -5786,6 +5786,11 @@ hash = "7e8bf390d37f23382a25e270d074129ba8c5d8af874e46bf596c714433028a7c"
 metafile = true
 
 [[files]]
+file = "mods/hold-it.pw.toml"
+hash = "41fee2381f6f667046b441f181875d22a1468886c83f5be4c990e673bd76c7e2"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
 metafile = true
@@ -5972,6 +5977,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "b1c3909588ba4288c47a6ee969bb6cdd28db0943fc4747ef778ccf5feb3885f9"
+metafile = true
+
+[[files]]
+file = "mods/mnawitchcraft.pw.toml"
+hash = "c86bf42ec0b66384273963f8d0ea8040908b5bf5e5fc072bd4529ebd959ac54a"
 metafile = true
 
 [[files]]
