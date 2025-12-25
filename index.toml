@@ -6397,6 +6397,11 @@ hash = "1f9ed7d78a4e7263a46a7ff5095394e3932d526e71ba8bdf1cd64c6f3b2594d1"
 metafile = true
 
 [[files]]
+file = "mods/theurgy.pw.toml"
+hash = "043f08360c29463e85fe21c19fe63ae7bc437b0bce8dcfd507f67f53ea50ae67"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid-epistalove.pw.toml"
 hash = "0e5ce3fbd1ead0dd9933bf9f4fff9c4b3609e532d3813dcdc579727e18fe65e8"
 metafile = true
