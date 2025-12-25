@@ -5122,7 +5122,7 @@ hash = "abf79c7a6946f4503d01b665bd5337b9d1cec6e52f5987e88926c425fb411f9a"
 
 [[files]]
 file = "config/mna-general.toml"
-hash = "a3f897ac2a4463e9e39b35f9232ab281825de6785ca9cf42de3dfa23aca1c38c"
+hash = "76ff3a7fc52ce9163c76bea9f24f943f2332209d9975282491e939304a2d8082"
 
 [[files]]
 file = "config/mna-spells.toml"
