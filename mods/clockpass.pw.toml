@@ -1,0 +1,13 @@
+name = "Clockpass"
+filename = "clockpass-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8rrs5Ci/versions/RccQuDbc/clockpass-1.7.5.jar"
+hash-format = "sha512"
+hash = "5db601017d867b85271e86c89ce3eae309546392e171a4fda23d3e78cc20cffb2462d4f18afd6422ad7a88295f34b87851228a73f7a83ad1f8e4fc90708bb073"
+
+[update]
+[update.modrinth]
+mod-id = "c8rrs5Ci"
+version = "RccQuDbc"

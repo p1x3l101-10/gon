@@ -1,0 +1,13 @@
+name = "Saddle Crafting Recipe"
+filename = "saddlerecipe-1.20-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C0OUySDq/versions/9fC014pR/saddlerecipe-1.20-1.jar"
+hash-format = "sha512"
+hash = "4906b948b8cff7a010a39c4394d41ef0756ed96bcb51ae8e9e4ac1ecd65fbecca1bc9fae5adde8565ef81300c1814343a2d53d4dcb5fef0bffc67fed306dba2e"
+
+[update]
+[update.modrinth]
+mod-id = "C0OUySDq"
+version = "9fC014pR"

@@ -5603,6 +5603,11 @@ hash = "32d390c03b0a2f7a12187b2ebc1eb08a423f4d65d3f6bf1282c583b891353791"
 metafile = true
 
 [[files]]
+file = "mods/bundle-crafting-backport.pw.toml"
+hash = "62eadf5703fcacdbd9ba881bb2396847bbb3911797802965393e243ae3bd0d76"
+metafile = true
+
+[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "c276b9f7e766fdc042fc72b2d333c79d112454d6df6230a407577671a960466b"
 metafile = true
@@ -5640,6 +5645,11 @@ metafile = true
 [[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "0954e926e3e48a9361d6e6cbf5b8d20708ee1b41cff8a10aa287535fadee0e31"
+metafile = true
+
+[[files]]
+file = "mods/clockpass.pw.toml"
+hash = "d0abd36aebf19840baee889a9a255f047f867d288309fa0cf44c707af333ba94"
 metafile = true
 
 [[files]]
@@ -6023,6 +6033,11 @@ hash = "7bfb891c32864c41b7ecda0730e61449324f2ea4e86689f72568e57d9e8395ec"
 metafile = true
 
 [[files]]
+file = "mods/lead-recipe-backport.pw.toml"
+hash = "d38a55d1f73a3f8c4524e8ee9dee47bc4d01bca96064dbac4e38b6ae85773129"
+metafile = true
+
+[[files]]
 file = "mods/leashable-collars.pw.toml"
 hash = "29f073231de93f994fdbbfc2c75e9c99b06046200a2f78725918949709fece3f"
 metafile = true
@@ -6294,6 +6309,11 @@ hash = "dbef894bebfab44ae88b935c62501dbeae98cd62e006b4cdc0ca32c35aeaa9a5"
 metafile = true
 
 [[files]]
+file = "mods/saddle-crafting-recipe.pw.toml"
+hash = "962144c57f835a64f952737653b69b4602a64d25fe9463603bdc77e586a0ac1a"
+metafile = true
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
 metafile = true
@@ -6334,6 +6354,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "e9a34b571a46d23747d49768e070fa0b4e8b8f05c3cb3a39da66e127bba78ef2"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-of-curios.pw.toml"
+hash = "2a1eb7d830ff7e9e8a3b3edb9cd6dbf802506d8b4d19059fc75dc0ad0e3353f6"
 metafile = true
 
 [[files]]

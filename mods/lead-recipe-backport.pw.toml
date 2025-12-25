@@ -1,0 +1,13 @@
+name = "Lead Recipe Backport"
+filename = "leadrecipe-1.20-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2lIVpHAE/versions/6Icp9Qsh/leadrecipe-1.20-1.jar"
+hash-format = "sha512"
+hash = "dc9521d0f29bf2a7fb1bb3c644c221fe8c44707d8ca325baefa02d3fe2282253c9a24bfcdec3df1b44b0753904d3fd4b83a819d6719ba9cc9bf581187ecee38f"
+
+[update]
+[update.modrinth]
+mod-id = "2lIVpHAE"
+version = "6Icp9Qsh"
