@@ -5946,7 +5946,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
-hash = "2bc8d879af82d7d67fac9df413924164d78fd6eb1e9a4fda13f80c211bd1b6ff"
+hash = "3435128be37d46d9c18039a8ec4aa9764da4fb39ff4197a4b1090fea0547641b"
 metafile = true
 
 [[files]]
@@ -5975,8 +5975,8 @@ hash = "b1c3909588ba4288c47a6ee969bb6cdd28db0943fc4747ef778ccf5feb3885f9"
 metafile = true
 
 [[files]]
-file = "mods/mnawitchcraft.pw.toml"
-hash = "c86bf42ec0b66384273963f8d0ea8040908b5bf5e5fc072bd4529ebd959ac54a"
+file = "mods/mna-witchcraft.pw.toml"
+hash = "4abc21361ea36052633969dfa0d96e788dd8e7029156dbc233d3f0b157208cf0"
 metafile = true
 
 [[files]]
@@ -6037,6 +6037,11 @@ metafile = true
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
+metafile = true
+
+[[files]]
+file = "mods/mystic-alchemy.pw.toml"
+hash = "08693a31fd97ec19458e656e70a276c007286bc29cf11e892aad5b774417c016"
 metafile = true
 
 [[files]]

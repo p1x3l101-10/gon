@@ -1,0 +1,13 @@
+name = "MnA Witchcraft"
+filename = "mnaw-1.20.1-forge-0.3.3-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af12c0871529d7d79a6a1596d6ac61911fe38357"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7080631
+project-id = 1001495
