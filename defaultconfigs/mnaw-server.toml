@@ -1,0 +1,41 @@
+#Should boss arenas prevent sympathetic magic from working?
+bossesBlockSympathy = true
+#Should bosses be immune to sympathetic magic?
+bossesImmuneToSympathy = true
+#How many spell effects should a player have to cast on a Witch mob to progress to the next tier?
+#Range: 1 ~ 10
+effectForTier = 3
+#How many charges should Dedication I give to a staff with 1 mana cost? (divide by mana cost to get charges for other spells)
+#Range: > 10
+dedicationCharges = 5000
+#How much should the charge modifier increase per tier? (multiplier = 1 + (tier - 1) * this value)
+#Range: 0.01 ~ 100.0
+dedicationChargeModifier = 0.25
+#How long (in seconds) should a witch wait between gossip attempts?
+#Range: 10 ~ 3600
+witchGossipCooldown = 60
+#How far (in blocks) can players hear witch gossip?
+#Range: 16 ~ 128
+witchGossipDistance = 32
+#Chance of spell hints (1 in N). Higher values make spell hints rarer.
+#Range: 1 ~ 100
+witchGossipSpellHintChance = 5
+#How many seconds does it take for Moonthread armor to regenerate from 0% to 100% essence while crouching on natural blocks?
+#Range: 1 ~ 300
+moonthreadArmorEarthenRegenTime = 20
+#Chance to nullify harmful potion effects (1 in N). Higher values make nullification rarer.
+#Range: 1 ~ 100
+moonthreadArmorHarmfulNullificationChance = 3
+#How long (in seconds) before the harmful effect nullification can trigger again?
+#Range: 1 ~ 300
+moonthreadArmorHarmfulNullificationCooldown = 10
+#Radius in blocks around players wearing full Moonthread armor where hostile mobs won't spawn at night above ground
+#Range: 16 ~ 128
+moonthreadArmorSpawnPreventionRadius = 32
+#Chance to collect moonlight each tick (1 in N). Higher values make collection slower.
+#Range: 20 ~ 12000
+witchsCauldronMoonlightCollectionChance = 1200
+#Flying broom flight speed in blocks per second
+#Range: 1.0 ~ 30.0
+flyingBroomSpeed = 7.0
+
