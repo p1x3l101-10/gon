@@ -1,0 +1,3 @@
+#Whether or not to render visible text on materia vessels
+renderVesselText = true
+
