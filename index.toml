@@ -6447,11 +6447,6 @@ hash = "ba17035f3f63a8e97cc0ad5aaf90abfd7a90447913fbfe3f9f86e6c717f1a3a0"
 metafile = true
 
 [[files]]
-file = "mods/via-romana.pw.toml"
-hash = "a10df534852cbc369d7841139a641d7414dccc0442b7995d2355835acd922dc6"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "6005297aeec57e0c54ae4b28f20579b146bc6ae614ed0641fb47e228dd107a5b"
 metafile = true
