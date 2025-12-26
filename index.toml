@@ -5800,6 +5800,11 @@ hash = "00f9f5c8c9b811a4b46dabcd9e07a8afcec7d729b2aae30e7c2261b9b2090d79"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+metafile = true
+
+[[files]]
 file = "mods/extrabotany.pw.toml"
 hash = "aa6dd39469608b2eb82239bebcd36f96f5d7dcecfbbb976417c26c066e86a55e"
 metafile = true
