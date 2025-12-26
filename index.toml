@@ -5493,11 +5493,6 @@ file = "mods/Slate_Work-1.0.6.jar"
 hash = "a55e78bedce0da6adf38de066ac5862f5475b34abc2f62345928c107eb3c9f74"
 
 [[files]]
-file = "mods/a-heart-of-crystal.pw.toml"
-hash = "a404fe09a67674a4554b6ecaf88215ddbf53d78a723c8503cd5134f684abc844"
-metafile = true
-
-[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "2e31627453295ef5d88ada8a3d294cd04eec3ef61dfd9f8abeee8d837f4b9dc5"
 metafile = true
@@ -5724,6 +5719,11 @@ metafile = true
 [[files]]
 file = "mods/diligentstalker.pw.toml"
 hash = "6097047e0d534f652e994cedc57fb2c897ed574d87be85510e9e0a8dfcfc6831"
+metafile = true
+
+[[files]]
+file = "mods/diminishing-health.pw.toml"
+hash = "362770918a5930c198defa1e9068be40e2942d9f850f20f1c21a1bc616f13fd4"
 metafile = true
 
 [[files]]
