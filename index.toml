@@ -5712,6 +5712,11 @@ hash = "463a4a8255f249f144408b93b839b3d02303edf543304bc5e8c610065183215a"
 metafile = true
 
 [[files]]
+file = "mods/datapack-load-error-fix.pw.toml"
+hash = "ef4f2e1744d437ebdedb005abad4e0a463d15ba53adf67cbdd0524d476bd65d2"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "d62632e0adb5a8922da5d327d3ebc09a1b629a0923c5387017650a287ccb479f"
 metafile = true
